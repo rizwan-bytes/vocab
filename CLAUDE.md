@@ -1,5 +1,18 @@
 # CLAUDE.md
 
+## ⚡ Build Status (2026-08-20)
+
+**Phases 1–5 built and working locally.** Phase 6 (IELTS mode) intentionally not started yet, per this file's own "only after the above is stable" rule.
+
+- **Stack:** Laravel 13, Livewire 4 (classic class-based components, not the new single-file-component style — matches AgencyBrain's convention), Tailwind v4 (Vite plugin), MySQL. Local: `https://vocab.test` (Laragon), DB `vocab`.
+- **Done:** foundation + layout/nav, vocabulary schema (`words`/`word_reviews`/`daily_progress`), Gemini generation service + prompt + validation, Add Word flow, vocabulary card UI, library (search/filter/edit/delete), spaced repetition + review mode, progress dashboard with streaks. 71 automated tests passing (`php artisan test`), Pint-formatted.
+- **No auth/login UI** — deliberate MVP choice (confirmed with the user): `words`/`daily_progress` have a nullable `user_id` so real auth is additive later, not a rewrite.
+- **Gemini API key is already in `.env`** (real key, Flash-Lite model) — **not live-tested end-to-end from this build session**, because the sandboxed tool environment used to build this timed out specifically on the `generateContent` POST action (confirmed: `countTokens` POST on the same host/key worked instantly, so it's an environment egress-policy quirk, not a code bug or bad key). The service's request-building, JSON-schema constraint, response parsing, and validation are all covered by `Http::fake()` tests instead. **First thing to verify in a real browser: Add Word → Generate actually returns a real card.**
+- **Gotcha worth knowing:** Livewire 4's default `component_layout` config (`layouts::app`) doesn't resolve against this project's Blade-component-style layout (`resources/views/components/layouts/app.blade.php`) — every full-page Livewire component needs an explicit `#[Layout('components.layouts.app')]` attribute, or it 500s with "No hint path defined for [layouts]". Already applied everywhere; keep doing it for any new full-page component.
+- **Not yet done:** Phase 6 (IELTS mode / AI exercises), a real timer for `study_minutes` (currently always 0 — no UI writes to it yet), git remote/push (repo is initialized + committed locally only).
+
+---
+
 ## Project Overview
 
 Build a personal web application for improving English vocabulary and IELTS performance.
