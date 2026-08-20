@@ -1,0 +1,42 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-urdu: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', serif;
+
+    /* Design system — teal focus + warm orange accent (ui-ux-pro-max design-system output) */
+    --color-primary: #0d9488;
+    --color-primary-light: #14b8a6;
+    --color-on-primary: #ffffff;
+    --color-accent: #ea580c;
+    --color-on-accent: #ffffff;
+
+    --color-bg: #f8fafb;
+    --color-surface: #ffffff;
+    --color-surface-muted: #f0fdfa;
+    --color-border: #e2e8f0;
+
+    --color-foreground: #0f172a;
+    --color-foreground-muted: #64748b;
+
+    --color-success: #16a34a;
+    --color-warning: #d97706;
+    --color-danger: #dc2626;
+
+    /* Status colors — must match App\Enums\WordStatus::color() tokens */
+    --color-status-new: #64748b;
+    --color-status-learning: #d97706;
+    --color-status-reviewing: #2563eb;
+    --color-status-mastered: #16a34a;
+}
+
+[lang='ur'],
+.font-urdu {
+    font-family: var(--font-urdu);
+    direction: rtl;
+    line-height: 2;
+}
