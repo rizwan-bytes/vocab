@@ -1,0 +1,925 @@
+[
+  {
+    "word": "furthermore",
+    "pronunciation": "/ˌfɜːðəˈmɔː/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In addition; used to introduce a further point.",
+    "urdu_meaning": "مزید برآں",
+    "detailed_definition": "In addition; besides; used to introduce a statement that adds to or supports the previous one.",
+    "examples": [
+      "The plan is expensive. Furthermore, it is unlikely to solve the underlying problem.",
+      "Furthermore, research shows that exercise improves mental health."
+    ],
+    "synonyms": [
+      "moreover",
+      "in addition"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "furthermore,"
+    ],
+    "ielts_relevance": "Essential linking word for adding points in Task 2 body paragraphs.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "moreover",
+    "pronunciation": "/mɔːˈrəʊvə/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Used to introduce an additional point or fact.",
+    "urdu_meaning": "مزید یہ کہ",
+    "detailed_definition": "As a further matter; besides; used to introduce a statement that supports or adds to a previous one.",
+    "examples": [
+      "The policy is unpopular. Moreover, it has failed to reduce emissions.",
+      "Moreover, the new system will save the company a significant amount of money."
+    ],
+    "synonyms": [
+      "furthermore",
+      "additionally"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "moreover,"
+    ],
+    "ielts_relevance": "Common formal linking word, interchangeable with furthermore.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "nevertheless",
+    "pronunciation": "/ˌnevəðəˈles/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In spite of that; even so.",
+    "urdu_meaning": "تاہم، اس کے باوجود",
+    "detailed_definition": "In spite of what has just been said or referred to; even so; notwithstanding.",
+    "examples": [
+      "The journey was long and tiring. Nevertheless, they arrived on time.",
+      "Critics disliked the film; nevertheless, it was a huge box office success."
+    ],
+    "synonyms": [
+      "nonetheless",
+      "however"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "nevertheless,"
+    ],
+    "ielts_relevance": "Common contrast linker for acknowledging counterpoints in Task 2.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "nonetheless",
+    "pronunciation": "/ˌnʌnðəˈles/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In spite of that; nevertheless.",
+    "urdu_meaning": "پھر بھی",
+    "detailed_definition": "Despite what has just been said; nevertheless.",
+    "examples": [
+      "The risks are significant; nonetheless, many believe the benefits outweigh them.",
+      "It was a small gesture, but a meaningful one nonetheless."
+    ],
+    "synonyms": [
+      "nevertheless",
+      "still"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "nonetheless,"
+    ],
+    "ielts_relevance": "Interchangeable with nevertheless for high-band contrast linking.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "whereas",
+    "pronunciation": "/weərˈæz/",
+    "part_of_speech": "conjunction",
+    "simple_definition": "Used to compare or contrast two facts.",
+    "urdu_meaning": "جبکہ",
+    "detailed_definition": "In contrast or comparison with the fact that; while on the contrary.",
+    "examples": [
+      "In rural areas, farming is the main occupation, whereas in cities, most people work in offices.",
+      "She prefers quiet evenings at home, whereas her husband loves going out."
+    ],
+    "synonyms": [
+      "while",
+      "in contrast"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "whereas,"
+    ],
+    "ielts_relevance": "Essential for comparison essays and describing contrasting data.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "conversely",
+    "pronunciation": "/ˈkɒnvɜːsli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Introducing a fact or idea that is the opposite of what has just been stated.",
+    "urdu_meaning": "اس کے برعکس",
+    "detailed_definition": "In a way that is opposite or contrary to something just stated.",
+    "examples": [
+      "Wealthier nations tend to have lower birth rates. Conversely, developing countries often see higher rates.",
+      "Some argue technology isolates people; conversely, others believe it brings them closer together."
+    ],
+    "synonyms": [
+      "on the other hand",
+      "in contrast"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "conversely,"
+    ],
+    "ielts_relevance": "High-band linking word for presenting opposing viewpoints.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "albeit",
+    "pronunciation": "/ɔːlˈbiːɪt/",
+    "part_of_speech": "conjunction",
+    "simple_definition": "Although; even though.",
+    "urdu_meaning": "اگرچہ",
+    "detailed_definition": "Although; used to introduce a factor that slightly reduces the force of what has just been said.",
+    "examples": [
+      "The plan was approved, albeit with several reservations from the committee.",
+      "Sales improved, albeit slowly, over the following months."
+    ],
+    "synonyms": [
+      "although",
+      "though"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "albeit slowly",
+      "albeit briefly"
+    ],
+    "ielts_relevance": "High-band concession word used mid-sentence for nuance.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "arguably",
+    "pronunciation": "/ˈɑːɡjuəbli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Used to say that a statement is probably true or can be argued.",
+    "urdu_meaning": "غالباً، بحث طلب طور پر",
+    "detailed_definition": "It can be argued or shown that; used to soften or support a claim.",
+    "examples": [
+      "This is arguably one of the most important inventions of the century.",
+      "Social media is arguably the most influential form of media today."
+    ],
+    "synonyms": [
+      "possibly",
+      "debatably"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "arguably the most",
+      "arguably one of"
+    ],
+    "ielts_relevance": "Useful hedging adverb for stating a strong but debatable opinion.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "undoubtedly",
+    "pronunciation": "/ʌnˈdaʊtɪdli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Without doubt; certainly.",
+    "urdu_meaning": "بلاشبہ",
+    "detailed_definition": "It is not disputed or doubted that; certainly.",
+    "examples": [
+      "The internet has undoubtedly transformed the way we communicate.",
+      "This is undoubtedly one of the biggest challenges facing the industry today."
+    ],
+    "synonyms": [
+      "certainly",
+      "definitely"
+    ],
+    "antonyms": [
+      "doubtfully"
+    ],
+    "common_collocations": [
+      "undoubtedly one of",
+      "undoubtedly true"
+    ],
+    "ielts_relevance": "Common adverb for stating strong certainty in essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "presumably",
+    "pronunciation": "/prɪˈzjuːməbli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Used to say that something is likely to be true.",
+    "urdu_meaning": "غالباً",
+    "detailed_definition": "Used to convey that what is stated is very likely, though not known for certain.",
+    "examples": [
+      "Presumably, the company will need to raise prices to cover the extra costs.",
+      "She didn't attend the meeting, presumably because she was ill."
+    ],
+    "synonyms": [
+      "probably",
+      "supposedly"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "presumably because"
+    ],
+    "ielts_relevance": "Useful hedging adverb for speculative reasoning.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "seemingly",
+    "pronunciation": "/ˈsiːmɪŋli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Appearing to be a certain way, but perhaps not really.",
+    "urdu_meaning": "بظاہر",
+    "detailed_definition": "As far as one knows or can tell; giving the impression of being something, without necessarily being so.",
+    "examples": [
+      "Despite the seemingly simple solution, the problem persisted for years.",
+      "He remained seemingly calm throughout the entire interview."
+    ],
+    "synonyms": [
+      "apparently",
+      "ostensibly"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "seemingly simple",
+      "seemingly endless"
+    ],
+    "ielts_relevance": "Useful for expressing appearance versus reality in essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "inevitably",
+    "pronunciation": "/ɪnˈevɪtəbli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "As is certain to happen; unavoidably.",
+    "urdu_meaning": "لامحالہ، ناگزیر طور پر",
+    "detailed_definition": "In a way that is certain to happen and cannot be avoided.",
+    "examples": [
+      "As cities grow, traffic congestion will inevitably increase.",
+      "Mistakes are inevitably made when a task is rushed."
+    ],
+    "synonyms": [
+      "unavoidably",
+      "certainly"
+    ],
+    "antonyms": [
+      "avoidably"
+    ],
+    "common_collocations": [
+      "will inevitably",
+      "inevitably lead to"
+    ],
+    "ielts_relevance": "Common for describing unavoidable consequences in Task 2.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "inherently",
+    "pronunciation": "/ɪnˈhɪərəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In a way that is a permanent, essential part of something.",
+    "urdu_meaning": "فطری طور پر، بنیادی طور پر",
+    "detailed_definition": "In a way that exists as a natural or basic part of something.",
+    "examples": [
+      "Some argue that competition is inherently beneficial to economic growth.",
+      "Not all risk is inherently bad; some risks lead to great rewards."
+    ],
+    "synonyms": [
+      "intrinsically",
+      "fundamentally"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "inherently dangerous",
+      "inherently good"
+    ],
+    "ielts_relevance": "Useful for essays discussing the fundamental nature of a topic.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "fundamentally",
+    "pronunciation": "/ˌfʌndəˈmentəli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In a basic or essential way.",
+    "urdu_meaning": "بنیادی طور پر",
+    "detailed_definition": "In a central or primary manner; concerning the basic nature of something.",
+    "examples": [
+      "The two systems are fundamentally different in how they approach education.",
+      "I fundamentally disagree with the idea that punishment alone reduces crime."
+    ],
+    "synonyms": [
+      "essentially",
+      "basically"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "fundamentally different",
+      "fundamentally flawed"
+    ],
+    "ielts_relevance": "Common adverb for stating a core opinion or comparison.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "superficially",
+    "pronunciation": "/ˌsuːpəˈfɪʃəli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In a way that only relates to the surface, not deeply.",
+    "urdu_meaning": "سطحی طور پر",
+    "detailed_definition": "In a way that appears true or real at first, but is not so when examined more deeply.",
+    "examples": [
+      "Superficially, the two proposals seem very similar, but their long-term effects differ greatly.",
+      "The report only superficially addressed the root causes of the problem."
+    ],
+    "synonyms": [
+      "shallowly",
+      "on the surface"
+    ],
+    "antonyms": [
+      "fundamentally",
+      "deeply"
+    ],
+    "common_collocations": [
+      "superficially similar",
+      "only superficially"
+    ],
+    "ielts_relevance": "Useful for pointing out surface-level versus deeper analysis.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "evidently",
+    "pronunciation": "/ˈevɪdəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Clearly, based on the evidence available.",
+    "urdu_meaning": "ظاہر ہے، واضح طور پر",
+    "detailed_definition": "As is clear from the evidence available; clearly, obviously.",
+    "examples": [
+      "Evidently, the new policy has not achieved its intended goals.",
+      "She was evidently exhausted after the long journey."
+    ],
+    "synonyms": [
+      "clearly",
+      "obviously"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "evidently,"
+    ],
+    "ielts_relevance": "Common transitional adverb for introducing an observation.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "subsequently",
+    "pronunciation": "/ˈsʌbsɪkwəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "After something else has happened; afterward.",
+    "urdu_meaning": "بعد میں",
+    "detailed_definition": "Occurring after or as a result of something else; afterward.",
+    "examples": [
+      "The company launched the product and subsequently saw a sharp rise in sales.",
+      "He was fined for speeding and subsequently lost his driving license."
+    ],
+    "synonyms": [
+      "afterward",
+      "later"
+    ],
+    "antonyms": [
+      "previously"
+    ],
+    "common_collocations": [
+      "subsequently,"
+    ],
+    "ielts_relevance": "Common time-sequence adverb useful in narrative Task 1 process descriptions.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "consequently",
+    "pronunciation": "/ˈkɒnsɪkwəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "As a result; therefore.",
+    "urdu_meaning": "نتیجتاً",
+    "detailed_definition": "As a result of a particular action or set of circumstances; therefore.",
+    "examples": [
+      "Fuel prices rose sharply; consequently, transport costs increased across the board.",
+      "She missed the deadline and consequently lost the contract."
+    ],
+    "synonyms": [
+      "therefore",
+      "as a result"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "consequently,"
+    ],
+    "ielts_relevance": "Extremely common cause-effect linker for Task 2.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "thereby",
+    "pronunciation": "/ðeəˈbaɪ/",
+    "part_of_speech": "adverb",
+    "simple_definition": "By that means; as a result of that.",
+    "urdu_meaning": "اس طرح سے، جس کے باعث",
+    "detailed_definition": "By that means; as a result of that action.",
+    "examples": [
+      "The new law reduces paperwork, thereby saving businesses valuable time.",
+      "She studied every night, thereby improving her grades significantly."
+    ],
+    "synonyms": [
+      "hence",
+      "thus"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "thereby reducing",
+      "thereby improving"
+    ],
+    "ielts_relevance": "Useful for linking a cause directly to its effect within one sentence.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "whereby",
+    "pronunciation": "/weəˈbaɪ/",
+    "part_of_speech": "adverb",
+    "simple_definition": "By which; through which.",
+    "urdu_meaning": "جس کے ذریعے",
+    "detailed_definition": "By which; through which a particular method or process happens.",
+    "examples": [
+      "The council introduced a scheme whereby residents can recycle household waste for free.",
+      "They developed a system whereby employees could report problems anonymously."
+    ],
+    "synonyms": [
+      "through which",
+      "by which"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "a system whereby",
+      "a scheme whereby"
+    ],
+    "ielts_relevance": "Formal relative adverb useful for describing processes and systems.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "notwithstanding",
+    "pronunciation": "/ˌnɒtwɪθˈstændɪŋ/",
+    "part_of_speech": "preposition",
+    "simple_definition": "In spite of; without being affected by.",
+    "urdu_meaning": "باوجود اس کے",
+    "detailed_definition": "In spite of; despite something, without being prevented by it.",
+    "examples": [
+      "Notwithstanding the criticism, the government proceeded with the reform.",
+      "The project was completed on time, notwithstanding several major setbacks."
+    ],
+    "synonyms": [
+      "despite",
+      "in spite of"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "notwithstanding the fact that"
+    ],
+    "ielts_relevance": "Formal high-band alternative to 'despite'.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "in light of",
+    "pronunciation": "/ɪn laɪt əv/",
+    "part_of_speech": "preposition",
+    "simple_definition": "Considering; taking into account.",
+    "urdu_meaning": "کے پیش نظر",
+    "detailed_definition": "Taking a particular fact or circumstance into consideration; because of.",
+    "examples": [
+      "In light of recent events, the school has updated its safety procedures.",
+      "In light of the evidence, the jury reached a different conclusion."
+    ],
+    "synonyms": [
+      "considering",
+      "given"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "in light of recent",
+      "in light of the evidence"
+    ],
+    "ielts_relevance": "Useful formal phrase for introducing reasoning based on evidence.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "with regard to",
+    "pronunciation": "/wɪð rɪˈɡɑːd tuː/",
+    "part_of_speech": "preposition",
+    "simple_definition": "Concerning; in relation to.",
+    "urdu_meaning": "کے حوالے سے",
+    "detailed_definition": "Concerning; in connection with a particular subject.",
+    "examples": [
+      "With regard to the budget, several changes have been proposed.",
+      "There is ongoing debate with regard to the ethics of animal testing."
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "with regard to"
+    ],
+    "ielts_relevance": "Common formal phrase to introduce or narrow a topic.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "on the whole",
+    "pronunciation": "/ɒn ðə həʊl/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Considering everything; in general.",
+    "urdu_meaning": "مجموعی طور پر",
+    "detailed_definition": "Taking everything into account; in general, considering everything.",
+    "examples": [
+      "On the whole, the trial was considered a success.",
+      "On the whole, people are living longer and healthier lives than in the past."
+    ],
+    "synonyms": [
+      "overall",
+      "generally"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "on the whole,"
+    ],
+    "ielts_relevance": "Common summarizing phrase for Task 2 conclusions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "by and large",
+    "pronunciation": "/baɪ ənd lɑːdʒ/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In general; mostly.",
+    "urdu_meaning": "عمومی طور پر",
+    "detailed_definition": "On the whole; in general, considering everything.",
+    "examples": [
+      "By and large, the reforms have been well received by the public.",
+      "By and large, students performed better this year than last."
+    ],
+    "synonyms": [
+      "generally",
+      "mostly"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "by and large,"
+    ],
+    "ielts_relevance": "Common idiomatic phrase for general statements in Speaking.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "to a large extent",
+    "pronunciation": "/tuː ə lɑːdʒ ɪkˈstent/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Mostly; in large part.",
+    "urdu_meaning": "کافی حد تک",
+    "detailed_definition": "Mostly; largely, used to qualify the degree of agreement or truth in a statement.",
+    "examples": [
+      "To a large extent, a person's success depends on their upbringing.",
+      "I agree, to a large extent, with the argument presented in the article."
+    ],
+    "synonyms": [
+      "largely",
+      "mostly"
+    ],
+    "antonyms": [
+      "to a small extent"
+    ],
+    "common_collocations": [
+      "to a large extent,"
+    ],
+    "ielts_relevance": "Essential hedging phrase for partial-agreement Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "predominantly",
+    "pronunciation": "/prɪˈdɒmɪnəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Mainly; for the most part.",
+    "urdu_meaning": "غالب طور پر",
+    "detailed_definition": "For the most part; mainly; to the greatest extent.",
+    "examples": [
+      "The workforce in this sector is predominantly female.",
+      "The economy is predominantly based on agriculture and tourism."
+    ],
+    "synonyms": [
+      "mainly",
+      "chiefly"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "predominantly female",
+      "predominantly rural"
+    ],
+    "ielts_relevance": "Common for describing the main composition of a group in Task 1.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "markedly",
+    "pronunciation": "/ˈmɑːkɪdli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Noticeably; to an obvious degree.",
+    "urdu_meaning": "نمایاں طور پر",
+    "detailed_definition": "Noticeably; clearly, to an extent that is easily seen.",
+    "examples": [
+      "Life expectancy has markedly improved over the past fifty years.",
+      "The two approaches differ markedly in their overall cost."
+    ],
+    "synonyms": [
+      "noticeably",
+      "significantly"
+    ],
+    "antonyms": [
+      "slightly"
+    ],
+    "common_collocations": [
+      "markedly different",
+      "markedly improved"
+    ],
+    "ielts_relevance": "Common intensifying adverb for Task 1 comparisons.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "marginally",
+    "pronunciation": "/ˈmɑːdʒɪnəli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "To a very small degree; slightly.",
+    "urdu_meaning": "معمولی طور پر",
+    "detailed_definition": "To a very small degree; slightly.",
+    "examples": [
+      "Sales increased only marginally compared to the previous quarter.",
+      "The revised plan is marginally better than the original one."
+    ],
+    "synonyms": [
+      "slightly",
+      "minimally"
+    ],
+    "antonyms": [
+      "substantially"
+    ],
+    "common_collocations": [
+      "marginally increase",
+      "marginally better"
+    ],
+    "ielts_relevance": "Opposite of 'markedly' — useful for small changes in Task 1.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "dramatically",
+    "pronunciation": "/drəˈmætɪkli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In a way that is sudden and striking; very much.",
+    "urdu_meaning": "ڈرامائی طور پر",
+    "detailed_definition": "In a sudden and striking manner; to a great extent.",
+    "examples": [
+      "The cost of solar panels has dropped dramatically over the past decade.",
+      "Public opinion shifted dramatically after the scandal broke."
+    ],
+    "synonyms": [
+      "sharply",
+      "drastically"
+    ],
+    "antonyms": [
+      "gradually",
+      "slightly"
+    ],
+    "common_collocations": [
+      "dramatically increase",
+      "drop dramatically"
+    ],
+    "ielts_relevance": "Common intensifying adverb for Task 1 sharp trend changes.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "substantially",
+    "pronunciation": "/səbˈstænʃəli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "To a great or significant extent.",
+    "urdu_meaning": "کافی حد تک، خاطر خواہ",
+    "detailed_definition": "To a great or significant extent; considerably.",
+    "examples": [
+      "The number of applicants has increased substantially since last year.",
+      "Reducing waste could substantially lower the company's operating costs."
+    ],
+    "synonyms": [
+      "considerably",
+      "significantly"
+    ],
+    "antonyms": [
+      "marginally",
+      "slightly"
+    ],
+    "common_collocations": [
+      "substantially increase",
+      "substantially higher"
+    ],
+    "ielts_relevance": "Common intensifier for describing large changes in Task 1.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "progressively",
+    "pronunciation": "/prəˈɡresɪvli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "In a way that happens gradually, step by step.",
+    "urdu_meaning": "بتدریج طور پر",
+    "detailed_definition": "In a way that continues gradually or step by step, becoming greater or more advanced.",
+    "examples": [
+      "The company has progressively expanded its operations into new markets.",
+      "Regulations have become progressively stricter over the last decade."
+    ],
+    "synonyms": [
+      "gradually",
+      "increasingly"
+    ],
+    "antonyms": [
+      "suddenly"
+    ],
+    "common_collocations": [
+      "progressively worse",
+      "progressively more"
+    ],
+    "ielts_relevance": "Useful adverb for describing continuous gradual trends.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "invariably",
+    "pronunciation": "/ɪnˈveəriəbli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Always; in every case, without exception.",
+    "urdu_meaning": "ہمیشہ، بلا استثنا",
+    "detailed_definition": "In every case or on every occasion; always.",
+    "examples": [
+      "Traffic invariably gets worse during the holiday season.",
+      "She invariably arrives early for every meeting."
+    ],
+    "synonyms": [
+      "always",
+      "consistently"
+    ],
+    "antonyms": [
+      "rarely",
+      "occasionally"
+    ],
+    "common_collocations": [
+      "invariably leads to"
+    ],
+    "ielts_relevance": "Formal way to say 'always' in academic writing.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "deliberately",
+    "pronunciation": "/dɪˈlɪbərətli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "On purpose; intentionally.",
+    "urdu_meaning": "جان بوجھ کر",
+    "detailed_definition": "Consciously and intentionally; on purpose.",
+    "examples": [
+      "The company deliberately kept prices low to attract new customers.",
+      "He deliberately avoided answering the difficult question."
+    ],
+    "synonyms": [
+      "intentionally",
+      "purposely"
+    ],
+    "antonyms": [
+      "accidentally",
+      "unintentionally"
+    ],
+    "common_collocations": [
+      "deliberately avoid",
+      "deliberately chose"
+    ],
+    "ielts_relevance": "Common adverb for describing intentional actions or policy choices.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "inadvertently",
+    "pronunciation": "/ˌɪnədˈvɜːtəntli/",
+    "part_of_speech": "adverb",
+    "simple_definition": "Without intention; by accident.",
+    "urdu_meaning": "غیر ارادی طور پر",
+    "detailed_definition": "Without intention; accidentally, as a result of carelessness.",
+    "examples": [
+      "The new policy may inadvertently discourage small businesses from hiring.",
+      "She inadvertently deleted an important file while cleaning up her desktop."
+    ],
+    "synonyms": [
+      "accidentally",
+      "unintentionally"
+    ],
+    "antonyms": [
+      "deliberately",
+      "intentionally"
+    ],
+    "common_collocations": [
+      "inadvertently cause",
+      "inadvertently reveal"
+    ],
+    "ielts_relevance": "Opposite of 'deliberately' — useful for unintended consequences.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "arguable",
+    "pronunciation": "/ˈɑːɡjuəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Open to disagreement; not certain.",
+    "urdu_meaning": "قابل بحث",
+    "detailed_definition": "Able to be argued about; not proven or certain, therefore open to debate.",
+    "examples": [
+      "It is arguable whether social media does more harm than good.",
+      "The success of the policy remains arguable, given the mixed results."
+    ],
+    "synonyms": [
+      "debatable",
+      "questionable"
+    ],
+    "antonyms": [
+      "indisputable",
+      "certain"
+    ],
+    "common_collocations": [
+      "it is arguable that"
+    ],
+    "ielts_relevance": "Useful for presenting a balanced, debatable viewpoint.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "indisputable",
+    "pronunciation": "/ˌɪndɪˈspjuːtəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Unable to be questioned or doubted; certainly true.",
+    "urdu_meaning": "ناقابل تردید",
+    "detailed_definition": "Unable to be challenged or denied; certainly true.",
+    "examples": [
+      "It is indisputable that access to clean water saves lives.",
+      "The evidence for climate change is now considered indisputable by most scientists."
+    ],
+    "synonyms": [
+      "undeniable",
+      "certain"
+    ],
+    "antonyms": [
+      "arguable",
+      "debatable"
+    ],
+    "common_collocations": [
+      "indisputable fact",
+      "indisputable evidence"
+    ],
+    "ielts_relevance": "Strong adjective for stating facts with full certainty.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "plausible",
+    "pronunciation": "/ˈplɔːzəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Seeming reasonable or probable.",
+    "urdu_meaning": "قابل قبول، معقول",
+    "detailed_definition": "Seeming reasonable or probable; believable.",
+    "examples": [
+      "The most plausible explanation for the delay is a technical fault.",
+      "Her excuse sounded plausible, but nobody quite believed it."
+    ],
+    "synonyms": [
+      "credible",
+      "believable"
+    ],
+    "antonyms": [
+      "implausible",
+      "unlikely"
+    ],
+    "common_collocations": [
+      "plausible explanation",
+      "most plausible"
+    ],
+    "ielts_relevance": "Useful adjective for evaluating explanations and causes.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "contentious",
+    "pronunciation": "/kənˈtenʃəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Causing or likely to cause disagreement.",
+    "urdu_meaning": "تنازعہ خیز",
+    "detailed_definition": "Causing or likely to cause an argument; controversial.",
+    "examples": [
+      "Immigration remains one of the most contentious political issues today.",
+      "The proposed changes to the law proved highly contentious."
+    ],
+    "synonyms": [
+      "controversial",
+      "disputed"
+    ],
+    "antonyms": [
+      "uncontroversial"
+    ],
+    "common_collocations": [
+      "contentious issue",
+      "highly contentious"
+    ],
+    "ielts_relevance": "Formal synonym for 'controversial' in higher-band essays.",
+    "difficulty_level": "C1"
+  }
+]

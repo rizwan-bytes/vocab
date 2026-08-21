@@ -36,14 +36,15 @@ class GeminiVocabularyService
     }
 
     /**
-     * @param  array<string, mixed>  $data
-     * @return array<string, mixed>
+     * Shared with anything else that produces vocabulary-card-shaped data
+     * without going through Gemini (e.g. the vocab:seed command, which
+     * imports hand-curated entries) — same shape, same trust boundary.
      *
-     * @throws GeminiException
+     * @return array<string, array<int, string>>
      */
-    private function validated(array $data, string $requestedWord): array
+    public static function validationRules(): array
     {
-        $validator = Validator::make($data, [
+        return [
             'word' => ['required', 'string', 'max:100'],
             'pronunciation' => ['nullable', 'string', 'max:100'],
             'part_of_speech' => ['nullable', 'string', 'max:50'],
@@ -60,7 +61,18 @@ class GeminiVocabularyService
             'common_collocations.*' => ['string', 'max:150'],
             'ielts_relevance' => ['nullable', 'string', 'max:1000'],
             'difficulty_level' => ['nullable', 'string', 'in:A1,A2,B1,B2,C1,C2'],
-        ]);
+        ];
+    }
+
+    /**
+     * @param  array<string, mixed>  $data
+     * @return array<string, mixed>
+     *
+     * @throws GeminiException
+     */
+    private function validated(array $data, string $requestedWord): array
+    {
+        $validator = Validator::make($data, self::validationRules());
 
         if ($validator->fails()) {
             Log::error('Gemini response failed validation.', [

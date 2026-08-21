@@ -1,0 +1,1158 @@
+[
+  {
+    "word": "innovation",
+    "pronunciation": "/ˌɪnəˈveɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A new idea, method, or invention.",
+    "urdu_meaning": "جدت، نئی ایجاد",
+    "detailed_definition": "The action or process of introducing new ideas, methods, or products, or the new idea itself.",
+    "examples": [
+      "Technological innovation has transformed the way we communicate.",
+      "The company is known for its innovation in renewable energy."
+    ],
+    "synonyms": [
+      "invention",
+      "advancement"
+    ],
+    "antonyms": [
+      "tradition",
+      "stagnation"
+    ],
+    "common_collocations": [
+      "technological innovation",
+      "drive innovation",
+      "spirit of innovation"
+    ],
+    "ielts_relevance": "Central term for Writing Task 2 essays about technology and progress.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "artificial intelligence",
+    "pronunciation": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+    "part_of_speech": "noun",
+    "simple_definition": "Computer systems able to perform tasks that normally require human intelligence.",
+    "urdu_meaning": "مصنوعی ذہانت",
+    "detailed_definition": "The simulation of human intelligence in machines that are programmed to think, learn, and make decisions.",
+    "examples": [
+      "Artificial intelligence is increasingly used in healthcare diagnostics.",
+      "Many people worry that artificial intelligence will replace human jobs."
+    ],
+    "synonyms": [
+      "AI",
+      "machine intelligence"
+    ],
+    "antonyms": [
+      "human intelligence"
+    ],
+    "common_collocations": [
+      "artificial intelligence system",
+      "development of artificial intelligence"
+    ],
+    "ielts_relevance": "Extremely current topic for Task 2 essays and Speaking Part 3.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "automation",
+    "pronunciation": "/ˌɔːtəˈmeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The use of machines or computers to do work previously done by people.",
+    "urdu_meaning": "خودکاری",
+    "detailed_definition": "The technique of making a process or system operate automatically, often replacing human labor.",
+    "examples": [
+      "Automation has significantly reduced production costs in manufacturing.",
+      "Many factory jobs have been lost to automation."
+    ],
+    "synonyms": [
+      "mechanization"
+    ],
+    "antonyms": [
+      "manual labor"
+    ],
+    "common_collocations": [
+      "rise of automation",
+      "factory automation",
+      "automation technology"
+    ],
+    "ielts_relevance": "Common when discussing employment and technology's impact on jobs.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "obsolete",
+    "pronunciation": "/ˈɒbsəliːt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "No longer used because something newer has replaced it.",
+    "urdu_meaning": "متروک، پرانا",
+    "detailed_definition": "No longer produced or used; out of date and replaced by something newer.",
+    "examples": [
+      "Many traditional skills have become obsolete due to automation.",
+      "The software became obsolete within just a few years."
+    ],
+    "synonyms": [
+      "outdated",
+      "antiquated"
+    ],
+    "antonyms": [
+      "current",
+      "modern"
+    ],
+    "common_collocations": [
+      "become obsolete",
+      "obsolete technology",
+      "render obsolete"
+    ],
+    "ielts_relevance": "Useful for essays about how quickly technology changes.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "unprecedented",
+    "pronunciation": "/ʌnˈpresɪdentɪd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Never having happened or existed before.",
+    "urdu_meaning": "بے مثال، غیر معمولی",
+    "detailed_definition": "Not done or known before; without previous example.",
+    "examples": [
+      "The internet has given people unprecedented access to information.",
+      "The pandemic caused unprecedented disruption to global supply chains."
+    ],
+    "synonyms": [
+      "unparalleled",
+      "unmatched"
+    ],
+    "antonyms": [
+      "common",
+      "usual"
+    ],
+    "common_collocations": [
+      "unprecedented growth",
+      "unprecedented access",
+      "unprecedented scale"
+    ],
+    "ielts_relevance": "Powerful high-band adjective for emphasizing scale or novelty.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "revolutionize",
+    "pronunciation": "/ˌrevəˈluːʃənaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To change something completely and dramatically.",
+    "urdu_meaning": "انقلاب برپا کرنا",
+    "detailed_definition": "To change something radically or fundamentally, especially through the introduction of a new method or technology.",
+    "examples": [
+      "Smartphones have revolutionized the way we access information.",
+      "This discovery could revolutionize modern medicine."
+    ],
+    "synonyms": [
+      "transform",
+      "reshape"
+    ],
+    "antonyms": [
+      "preserve",
+      "maintain"
+    ],
+    "common_collocations": [
+      "revolutionize the industry",
+      "revolutionize the way",
+      "completely revolutionize"
+    ],
+    "ielts_relevance": "Strong verb for describing technological or social change.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "connectivity",
+    "pronunciation": "/ˌkɒnekˈtɪvəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of being connected, especially to the internet or a network.",
+    "urdu_meaning": "رابطہ کاری",
+    "detailed_definition": "The ability to connect to or communicate with other systems, devices, or networks.",
+    "examples": [
+      "Rural areas often suffer from poor internet connectivity.",
+      "Improved connectivity has made remote work far more common."
+    ],
+    "synonyms": [
+      "connection",
+      "networking"
+    ],
+    "antonyms": [
+      "isolation"
+    ],
+    "common_collocations": [
+      "internet connectivity",
+      "improve connectivity",
+      "global connectivity"
+    ],
+    "ielts_relevance": "Common in essays about globalization and communication technology.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "cybersecurity",
+    "pronunciation": "/ˈsaɪbəsɪˌkjʊərəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The protection of computer systems from theft or damage.",
+    "urdu_meaning": "سائبر سیکیورٹی",
+    "detailed_definition": "Measures taken to protect computer systems, networks, and data from digital attacks, theft, or damage.",
+    "examples": [
+      "Companies are investing heavily in cybersecurity to prevent data breaches.",
+      "Cybersecurity experts warn that hacking attempts are increasing."
+    ],
+    "synonyms": [
+      "digital security"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "cybersecurity threat",
+      "cybersecurity measures",
+      "invest in cybersecurity"
+    ],
+    "ielts_relevance": "Relevant modern vocabulary for technology and privacy essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "algorithm",
+    "pronunciation": "/ˈælɡərɪðəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "A set of rules or steps followed by a computer to solve a problem.",
+    "urdu_meaning": "الگورتھم",
+    "detailed_definition": "A process or set of rules to be followed in calculations or problem-solving operations, especially by a computer.",
+    "examples": [
+      "Social media algorithms determine which posts users see first.",
+      "Engineers designed a new algorithm to improve search accuracy."
+    ],
+    "synonyms": [
+      "formula",
+      "procedure"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "search algorithm",
+      "algorithm design",
+      "complex algorithm"
+    ],
+    "ielts_relevance": "Useful when discussing social media and technology in Speaking Part 3.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "literacy",
+    "pronunciation": "/ˈlɪtərəsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The ability to read and write.",
+    "urdu_meaning": "خواندگی",
+    "detailed_definition": "The ability to read and write, or competence in a particular subject or skill area.",
+    "examples": [
+      "Improving literacy rates remains a challenge in rural areas.",
+      "Digital literacy is now considered as important as traditional literacy."
+    ],
+    "synonyms": [
+      "education",
+      "competence"
+    ],
+    "antonyms": [
+      "illiteracy"
+    ],
+    "common_collocations": [
+      "literacy rate",
+      "digital literacy",
+      "adult literacy"
+    ],
+    "ielts_relevance": "Core noun for education-related Writing Task 2 essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "curriculum",
+    "pronunciation": "/kəˈrɪkjələm/",
+    "part_of_speech": "noun",
+    "simple_definition": "The subjects that make up a course of study in a school or college.",
+    "urdu_meaning": "نصاب",
+    "detailed_definition": "The subjects comprising a course of study in a school or college, or the planned interaction of learners with content.",
+    "examples": [
+      "Schools are updating their curriculum to include more coding classes.",
+      "The national curriculum requires students to study a foreign language."
+    ],
+    "synonyms": [
+      "syllabus",
+      "course of study"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "school curriculum",
+      "national curriculum",
+      "update the curriculum"
+    ],
+    "ielts_relevance": "Essential vocabulary for essays about education systems.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "pedagogy",
+    "pronunciation": "/ˈpedəɡɒdʒi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The method and practice of teaching.",
+    "urdu_meaning": "تدریسی طریقہ کار",
+    "detailed_definition": "The theory and practice of teaching, especially as an academic subject or theoretical concept.",
+    "examples": [
+      "Modern pedagogy emphasizes student-centered learning.",
+      "The university offers a course in digital pedagogy."
+    ],
+    "synonyms": [
+      "teaching method"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "modern pedagogy",
+      "teaching pedagogy",
+      "pedagogy of"
+    ],
+    "ielts_relevance": "Advanced academic term suitable for high-band education essays.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "rote learning",
+    "pronunciation": "/rəʊt ˈlɜːnɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "Learning by repetition without full understanding.",
+    "urdu_meaning": "رٹا لگا کر سیکھنا",
+    "detailed_definition": "A memorization technique based on repetition, often criticized for not developing deep understanding.",
+    "examples": [
+      "Critics argue that rote learning discourages critical thinking.",
+      "Many exam systems still rely heavily on rote learning."
+    ],
+    "synonyms": [
+      "memorization"
+    ],
+    "antonyms": [
+      "conceptual learning"
+    ],
+    "common_collocations": [
+      "rely on rote learning",
+      "rote learning method"
+    ],
+    "ielts_relevance": "Frequently discussed in essays criticizing traditional education systems.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "vocational",
+    "pronunciation": "/vəʊˈkeɪʃənl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to training for a particular job or trade.",
+    "urdu_meaning": "پیشہ ورانہ",
+    "detailed_definition": "Relating to an occupation or employment, especially training that prepares someone for a specific job.",
+    "examples": [
+      "Vocational training gives students practical skills for the workplace.",
+      "Not all students want to attend university — vocational courses suit many better."
+    ],
+    "synonyms": [
+      "occupational",
+      "practical"
+    ],
+    "antonyms": [
+      "academic",
+      "theoretical"
+    ],
+    "common_collocations": [
+      "vocational training",
+      "vocational course",
+      "vocational school"
+    ],
+    "ielts_relevance": "Commonly contrasted with 'academic education' in Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "tuition",
+    "pronunciation": "/tjuˈɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Teaching, especially given to one person or a small group; also the fee paid for teaching.",
+    "urdu_meaning": "تعلیم، ٹیوشن فیس",
+    "detailed_definition": "Teaching given by a tutor, especially in a specific field, or the fee charged for instruction, particularly in higher education.",
+    "examples": [
+      "University tuition fees have risen sharply in the past decade.",
+      "She received private tuition to prepare for the exam."
+    ],
+    "synonyms": [
+      "teaching",
+      "instruction"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "tuition fees",
+      "private tuition",
+      "tuition costs"
+    ],
+    "ielts_relevance": "Common in essays about the rising cost of education.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "scholarship",
+    "pronunciation": "/ˈskɒləʃɪp/",
+    "part_of_speech": "noun",
+    "simple_definition": "A grant of money given to a student to help pay for education.",
+    "urdu_meaning": "وظیفہ",
+    "detailed_definition": "A sum of money given by an institution to support a student's education, usually awarded on merit or need.",
+    "examples": [
+      "She was awarded a full scholarship to study abroad.",
+      "Scholarships help talented students from low-income families attend university."
+    ],
+    "synonyms": [
+      "grant",
+      "bursary"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "full scholarship",
+      "apply for a scholarship",
+      "merit-based scholarship"
+    ],
+    "ielts_relevance": "Common in essays about access to education and financial barriers.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "proficiency",
+    "pronunciation": "/prəˈfɪʃnsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "A high level of skill or competence in something.",
+    "urdu_meaning": "مہارت",
+    "detailed_definition": "Advanced skill or competence, especially in a particular area such as a language or subject.",
+    "examples": [
+      "The job requires proficiency in at least two languages.",
+      "Her English proficiency improved dramatically after moving abroad."
+    ],
+    "synonyms": [
+      "competence",
+      "expertise"
+    ],
+    "antonyms": [
+      "incompetence"
+    ],
+    "common_collocations": [
+      "language proficiency",
+      "proficiency test",
+      "achieve proficiency"
+    ],
+    "ielts_relevance": "Directly relevant to the IELTS test itself as a language proficiency exam.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "cognitive",
+    "pronunciation": "/ˈkɒɡnətɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to thinking, understanding, and mental processes.",
+    "urdu_meaning": "ادراکی، ذہنی",
+    "detailed_definition": "Relating to cognition, the mental action or process of acquiring knowledge and understanding through thought and experience.",
+    "examples": [
+      "Reading regularly helps develop cognitive skills in children.",
+      "Researchers study how aging affects cognitive function."
+    ],
+    "synonyms": [
+      "mental",
+      "intellectual"
+    ],
+    "antonyms": [
+      "physical"
+    ],
+    "common_collocations": [
+      "cognitive development",
+      "cognitive skills",
+      "cognitive ability"
+    ],
+    "ielts_relevance": "Academic adjective for essays about education, child development, and psychology.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "aptitude",
+    "pronunciation": "/ˈæptɪtjuːd/",
+    "part_of_speech": "noun",
+    "simple_definition": "A natural ability or talent to do something well.",
+    "urdu_meaning": "صلاحیت، فطری قابلیت",
+    "detailed_definition": "A natural ability to do something, or an ability to learn or understand things quickly.",
+    "examples": [
+      "He showed a real aptitude for mathematics from a young age.",
+      "The company uses aptitude tests during recruitment."
+    ],
+    "synonyms": [
+      "talent",
+      "ability"
+    ],
+    "antonyms": [
+      "ineptitude"
+    ],
+    "common_collocations": [
+      "natural aptitude",
+      "aptitude test",
+      "aptitude for"
+    ],
+    "ielts_relevance": "Useful for Speaking Part 2 topics about skills and personal strengths.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "disseminate",
+    "pronunciation": "/dɪˈsemɪneɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To spread information widely.",
+    "urdu_meaning": "پھیلانا، نشر کرنا",
+    "detailed_definition": "To spread or distribute information, ideas, or knowledge widely among a large number of people.",
+    "examples": [
+      "The internet makes it easy to disseminate information quickly.",
+      "Researchers disseminated their findings through academic journals."
+    ],
+    "synonyms": [
+      "spread",
+      "distribute"
+    ],
+    "antonyms": [
+      "conceal",
+      "withhold"
+    ],
+    "common_collocations": [
+      "disseminate information",
+      "widely disseminated",
+      "disseminate knowledge"
+    ],
+    "ielts_relevance": "Formal academic verb ideal for essays about media and communication.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "accessible",
+    "pronunciation": "/əkˈsesəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to be reached, entered, or obtained easily.",
+    "urdu_meaning": "قابل رسائی",
+    "detailed_definition": "Able to be easily reached, entered, used, or understood by everyone, including people with disabilities.",
+    "examples": [
+      "Online courses have made education more accessible to people worldwide.",
+      "The library has been made accessible to wheelchair users."
+    ],
+    "synonyms": [
+      "available",
+      "attainable"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "restricted"
+    ],
+    "common_collocations": [
+      "easily accessible",
+      "made accessible",
+      "accessible to everyone"
+    ],
+    "ielts_relevance": "High-frequency word for education, technology, and healthcare essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "outsource",
+    "pronunciation": "/ˈaʊtsɔːs/",
+    "part_of_speech": "verb",
+    "simple_definition": "To pay an outside company or person to do work instead of using employees.",
+    "urdu_meaning": "باہر سے خدمات لینا",
+    "detailed_definition": "To obtain goods or services from an outside supplier, often in another country, rather than an internal source.",
+    "examples": [
+      "Many companies outsource customer service to reduce costs.",
+      "The firm decided to outsource its IT support.",
+      "Outsourcing manufacturing overseas has led to job losses domestically."
+    ],
+    "synonyms": [
+      "subcontract",
+      "contract out"
+    ],
+    "antonyms": [
+      "insource"
+    ],
+    "common_collocations": [
+      "outsource jobs",
+      "outsourcing labor",
+      "outsource production"
+    ],
+    "ielts_relevance": "Common in essays about globalization and employment.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "globalization",
+    "pronunciation": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process by which businesses and cultures become connected worldwide.",
+    "urdu_meaning": "عالمگیریت",
+    "detailed_definition": "The process by which businesses, cultures, and economies interact and integrate across the world, driven by trade and technology.",
+    "examples": [
+      "Globalization has made it easier to buy products from other countries.",
+      "Critics argue globalization increases inequality between rich and poor nations."
+    ],
+    "synonyms": [
+      "internationalization"
+    ],
+    "antonyms": [
+      "isolationism"
+    ],
+    "common_collocations": [
+      "effects of globalization",
+      "rapid globalization",
+      "globalization of trade"
+    ],
+    "ielts_relevance": "One of the most common IELTS Writing Task 2 essay topics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "interdependence",
+    "pronunciation": "/ˌɪntədɪˈpendəns/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of depending on each other.",
+    "urdu_meaning": "باہمی انحصار",
+    "detailed_definition": "The mutual reliance between two or more groups, countries, or systems.",
+    "examples": [
+      "Global trade has increased economic interdependence between nations.",
+      "The interdependence of ecosystems means damage in one area affects others."
+    ],
+    "synonyms": [
+      "mutual dependence"
+    ],
+    "antonyms": [
+      "independence",
+      "autonomy"
+    ],
+    "common_collocations": [
+      "economic interdependence",
+      "global interdependence"
+    ],
+    "ielts_relevance": "Advanced noun useful for globalization and economy essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "multinational",
+    "pronunciation": "/ˌmʌltiˈnæʃnəl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Operating in or involving several countries.",
+    "urdu_meaning": "کثیر القومی",
+    "detailed_definition": "Describes a company that has offices, factories, or operations in more than one country.",
+    "examples": [
+      "Multinational corporations often relocate factories to reduce labor costs.",
+      "She works for a multinational company with offices in twenty countries."
+    ],
+    "synonyms": [
+      "international",
+      "global"
+    ],
+    "antonyms": [
+      "domestic",
+      "local"
+    ],
+    "common_collocations": [
+      "multinational corporation",
+      "multinational company",
+      "multinational firm"
+    ],
+    "ielts_relevance": "Essential vocabulary for essays about business and globalization.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "consumerism",
+    "pronunciation": "/kənˈsjuːmərɪzəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "The preoccupation of society with acquiring consumer goods.",
+    "urdu_meaning": "صارفیت",
+    "detailed_definition": "A social and economic order that encourages the purchase of goods and services in ever-greater amounts.",
+    "examples": [
+      "Critics blame consumerism for increasing levels of household debt.",
+      "Consumerism has led to a rise in disposable, low-quality products."
+    ],
+    "synonyms": [
+      "materialism"
+    ],
+    "antonyms": [
+      "minimalism"
+    ],
+    "common_collocations": [
+      "rampant consumerism",
+      "rise of consumerism",
+      "consumerism culture"
+    ],
+    "ielts_relevance": "Common in essays criticizing modern lifestyle and advertising.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "disposable",
+    "pronunciation": "/dɪˈspəʊzəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Designed to be thrown away after use.",
+    "urdu_meaning": "یک بار استعمال ہونے والا",
+    "detailed_definition": "Intended to be used once or for a short time and then discarded.",
+    "examples": [
+      "Many countries have banned disposable plastic bags.",
+      "Disposable income has increased despite rising living costs."
+    ],
+    "synonyms": [
+      "throwaway",
+      "single-use"
+    ],
+    "antonyms": [
+      "reusable",
+      "durable"
+    ],
+    "common_collocations": [
+      "disposable income",
+      "disposable plastic",
+      "disposable products"
+    ],
+    "ielts_relevance": "Note the two common meanings — 'throwaway item' and 'disposable income' (money available to spend).",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "e-commerce",
+    "pronunciation": "/ˈiː kɒmɜːs/",
+    "part_of_speech": "noun",
+    "simple_definition": "The buying and selling of goods or services over the internet.",
+    "urdu_meaning": "ای کامرس، آن لائن تجارت",
+    "detailed_definition": "Commercial transactions conducted electronically, typically over the internet.",
+    "examples": [
+      "E-commerce has grown rapidly since the pandemic.",
+      "Small businesses are increasingly turning to e-commerce to reach new customers."
+    ],
+    "synonyms": [
+      "online shopping",
+      "online retail"
+    ],
+    "antonyms": [
+      "brick-and-mortar retail"
+    ],
+    "common_collocations": [
+      "e-commerce platform",
+      "growth of e-commerce",
+      "e-commerce website"
+    ],
+    "ielts_relevance": "Highly relevant modern topic for technology and business essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "telecommute",
+    "pronunciation": "/ˈtelɪkəmjuːt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To work from home using digital communication technology.",
+    "urdu_meaning": "گھر بیٹھ کر انٹرنیٹ سے کام کرنا",
+    "detailed_definition": "To work from a location other than a central office, typically from home, using the internet and other technology.",
+    "examples": [
+      "More companies are allowing employees to telecommute since the pandemic.",
+      "Telecommuting has reduced traffic congestion in some cities."
+    ],
+    "synonyms": [
+      "work remotely"
+    ],
+    "antonyms": [
+      "commute"
+    ],
+    "common_collocations": [
+      "telecommuting policy",
+      "choose to telecommute"
+    ],
+    "ielts_relevance": "Useful for essays about the future of work and technology's impact on lifestyle.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "redundant",
+    "pronunciation": "/rɪˈdʌndənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "No longer needed, especially describing a job that has been eliminated.",
+    "urdu_meaning": "زائد از ضرورت، فارغ کیا گیا",
+    "detailed_definition": "No longer needed or useful; in British English, also used to describe an employee who has lost their job because it is no longer necessary.",
+    "examples": [
+      "Thousands of workers were made redundant when the factory closed.",
+      "Automation has made many traditional jobs redundant."
+    ],
+    "synonyms": [
+      "unnecessary",
+      "superfluous"
+    ],
+    "antonyms": [
+      "essential",
+      "necessary"
+    ],
+    "common_collocations": [
+      "made redundant",
+      "become redundant",
+      "redundant workers"
+    ],
+    "ielts_relevance": "Important for essays about unemployment caused by technology.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "proficient",
+    "pronunciation": "/prəˈfɪʃnt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Competent or skilled in doing something.",
+    "urdu_meaning": "ماہر، مشاق",
+    "detailed_definition": "Competent and skilled in performing a particular task or activity, especially through training or practice.",
+    "examples": [
+      "Employers now expect job applicants to be proficient in basic computer skills.",
+      "She became proficient in French after living in Paris for a year."
+    ],
+    "synonyms": [
+      "skilled",
+      "competent"
+    ],
+    "antonyms": [
+      "incompetent",
+      "unskilled"
+    ],
+    "common_collocations": [
+      "proficient in",
+      "highly proficient",
+      "become proficient"
+    ],
+    "ielts_relevance": "Directly connects to describing your own English proficiency in Speaking.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "streamline",
+    "pronunciation": "/ˈstriːmlaɪn/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make a process simpler and more efficient.",
+    "urdu_meaning": "آسان اور موثر بنانا",
+    "detailed_definition": "To make an organization, system, or process more efficient by removing unnecessary steps.",
+    "examples": [
+      "The new software streamlined the company's accounting process.",
+      "Governments are streamlining visa applications to attract more tourists."
+    ],
+    "synonyms": [
+      "simplify",
+      "optimize"
+    ],
+    "antonyms": [
+      "complicate"
+    ],
+    "common_collocations": [
+      "streamline the process",
+      "streamline operations",
+      "streamline production"
+    ],
+    "ielts_relevance": "Useful verb for describing efficiency improvements in business or government essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "digitize",
+    "pronunciation": "/ˈdɪdʒɪtaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To convert something into a digital form that a computer can use.",
+    "urdu_meaning": "ڈیجیٹل شکل میں تبدیل کرنا",
+    "detailed_definition": "To convert text, pictures, or sound into a digital form that can be processed by a computer.",
+    "examples": [
+      "The library has digitized thousands of historical manuscripts.",
+      "Digitizing records has made government services more efficient."
+    ],
+    "synonyms": [
+      "computerize"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "digitize records",
+      "digitized version",
+      "digitization process"
+    ],
+    "ielts_relevance": "Common in essays about technology's role in preserving information.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "bandwidth",
+    "pronunciation": "/ˈbændwɪdθ/",
+    "part_of_speech": "noun",
+    "simple_definition": "The amount of data that can be transmitted over an internet connection in a given time.",
+    "urdu_meaning": "بینڈوتھ",
+    "detailed_definition": "The maximum rate of data transfer across a given path, often used to describe internet connection speed and capacity.",
+    "examples": [
+      "Streaming video requires more bandwidth than browsing text.",
+      "Rural areas often have limited internet bandwidth."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "common_collocations": [
+      "limited bandwidth",
+      "bandwidth capacity",
+      "high bandwidth"
+    ],
+    "ielts_relevance": "Technical term useful for Speaking Part 3 discussions about internet access.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "e-learning",
+    "pronunciation": "/ˈiː lɜːnɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "Learning conducted via electronic media, typically the internet.",
+    "urdu_meaning": "ای لرننگ، آن لائن تعلیم",
+    "detailed_definition": "Education delivered and facilitated via electronic technology, particularly the internet.",
+    "examples": [
+      "E-learning platforms became essential during school closures.",
+      "Many universities now offer entire degrees through e-learning."
+    ],
+    "synonyms": [
+      "online learning",
+      "distance learning"
+    ],
+    "antonyms": [
+      "in-person learning"
+    ],
+    "common_collocations": [
+      "e-learning platform",
+      "shift to e-learning",
+      "e-learning tools"
+    ],
+    "ielts_relevance": "Common topic in education and technology Task 2 essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "plagiarism",
+    "pronunciation": "/ˈpleɪdʒərɪzəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "The act of copying someone else's work and presenting it as your own.",
+    "urdu_meaning": "سرقہ، چوری شدہ تحریر",
+    "detailed_definition": "The practice of taking someone else's work or ideas and passing them off as one's own without proper credit.",
+    "examples": [
+      "Universities use software to detect plagiarism in student essays.",
+      "Plagiarism can result in serious academic penalties."
+    ],
+    "synonyms": [
+      "copying",
+      "piracy"
+    ],
+    "antonyms": [
+      "originality"
+    ],
+    "common_collocations": [
+      "academic plagiarism",
+      "commit plagiarism",
+      "detect plagiarism"
+    ],
+    "ielts_relevance": "Relevant to education integrity discussions in Speaking Part 3.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "credential",
+    "pronunciation": "/krɪˈdenʃl/",
+    "part_of_speech": "noun",
+    "simple_definition": "A qualification or achievement that proves someone's ability or trustworthiness.",
+    "urdu_meaning": "سند، اہلیت کا ثبوت",
+    "detailed_definition": "A qualification, achievement, or quality that proves a person's ability or right to do something.",
+    "examples": [
+      "A university degree remains an important credential for many jobs.",
+      "Employers increasingly value practical skills over formal credentials."
+    ],
+    "synonyms": [
+      "qualification",
+      "certification"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "academic credentials",
+      "professional credentials",
+      "credential requirements"
+    ],
+    "ielts_relevance": "Useful in essays discussing the value of degrees versus experience.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "disparity",
+    "pronunciation": "/dɪˈspærəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "A great difference between two things.",
+    "urdu_meaning": "عدم مساوات، فرق",
+    "detailed_definition": "A great inequality or difference, especially in terms of resources, treatment, or opportunity.",
+    "examples": [
+      "There is a significant disparity in education quality between urban and rural areas.",
+      "Income disparity between rich and poor has widened over the decades."
+    ],
+    "synonyms": [
+      "inequality",
+      "gap"
+    ],
+    "antonyms": [
+      "equality",
+      "parity"
+    ],
+    "common_collocations": [
+      "income disparity",
+      "wide disparity",
+      "gender disparity"
+    ],
+    "ielts_relevance": "High-band noun essential for essays about inequality and social issues.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "underprivileged",
+    "pronunciation": "/ˌʌndəˈprɪvəlɪdʒd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not having the same rights, opportunities, or standard of living as most people.",
+    "urdu_meaning": "محروم، پسماندہ",
+    "detailed_definition": "Not enjoying the same living standards, rights, or opportunities as the majority of people in society.",
+    "examples": [
+      "The charity provides free tuition to underprivileged children.",
+      "Underprivileged communities often have limited access to healthcare."
+    ],
+    "synonyms": [
+      "disadvantaged",
+      "deprived"
+    ],
+    "antonyms": [
+      "privileged",
+      "affluent"
+    ],
+    "common_collocations": [
+      "underprivileged children",
+      "underprivileged communities",
+      "underprivileged background"
+    ],
+    "ielts_relevance": "Common in essays about social inequality and access to education.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "empower",
+    "pronunciation": "/ɪmˈpaʊə/",
+    "part_of_speech": "verb",
+    "simple_definition": "To give someone the confidence, authority, or power to do something.",
+    "urdu_meaning": "بااختیار بنانا",
+    "detailed_definition": "To give a person or group the authority, confidence, or means to take control of their own life or circumstances.",
+    "examples": [
+      "Education empowers women to pursue independent careers.",
+      "The program is designed to empower young entrepreneurs."
+    ],
+    "synonyms": [
+      "enable",
+      "authorize"
+    ],
+    "antonyms": [
+      "restrict",
+      "suppress"
+    ],
+    "common_collocations": [
+      "empower women",
+      "empower individuals",
+      "feel empowered"
+    ],
+    "ielts_relevance": "Strong positive verb frequently used in essays about education and social change.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "stereotype",
+    "pronunciation": "/ˈsteriətaɪp/",
+    "part_of_speech": "noun",
+    "simple_definition": "A widely held but oversimplified idea about a type of person or thing.",
+    "urdu_meaning": "دقیانوسی تصور",
+    "detailed_definition": "A fixed, oversimplified, and often inaccurate idea or image about a particular type of person or group.",
+    "examples": [
+      "Media often reinforces negative stereotypes about certain professions.",
+      "She worked hard to break the stereotype associated with her background."
+    ],
+    "synonyms": [
+      "generalization",
+      "cliché"
+    ],
+    "antonyms": [
+      "individuality"
+    ],
+    "common_collocations": [
+      "negative stereotype",
+      "gender stereotype",
+      "break a stereotype"
+    ],
+    "ielts_relevance": "Common when discussing media, gender roles, or cultural topics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "assimilate",
+    "pronunciation": "/əˈsɪmɪleɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To become part of a group, country, or society, adopting its customs.",
+    "urdu_meaning": "ضم ہونا، رچ بس جانا",
+    "detailed_definition": "To take in and fully understand information, or to become fully absorbed into a different culture or society.",
+    "examples": [
+      "Immigrants often face challenges when trying to assimilate into a new culture.",
+      "It took her a while to assimilate all the new information from the course."
+    ],
+    "synonyms": [
+      "integrate",
+      "absorb"
+    ],
+    "antonyms": [
+      "segregate",
+      "isolate"
+    ],
+    "common_collocations": [
+      "assimilate into society",
+      "cultural assimilation",
+      "assimilate information"
+    ],
+    "ielts_relevance": "Useful for essays about immigration and multiculturalism.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "multicultural",
+    "pronunciation": "/ˌmʌltiˈkʌltʃərəl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to or containing several different cultures.",
+    "urdu_meaning": "کثیر الثقافتی",
+    "detailed_definition": "Relating to or including people from many different countries and cultural backgrounds.",
+    "examples": [
+      "London is one of the most multicultural cities in the world.",
+      "The school promotes a multicultural curriculum to celebrate diversity."
+    ],
+    "synonyms": [
+      "diverse",
+      "multiethnic"
+    ],
+    "antonyms": [
+      "homogeneous",
+      "monocultural"
+    ],
+    "common_collocations": [
+      "multicultural society",
+      "multicultural city",
+      "multicultural education"
+    ],
+    "ielts_relevance": "Common in essays about immigration, diversity, and globalization.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "integration",
+    "pronunciation": "/ˌɪntɪˈɡreɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of combining different groups or things into a whole.",
+    "urdu_meaning": "انضمام",
+    "detailed_definition": "The process of combining or coordinating separate elements to form a unified whole, especially social groups.",
+    "examples": [
+      "The government launched programs to support the integration of refugees.",
+      "Economic integration between the two countries has increased trade."
+    ],
+    "synonyms": [
+      "incorporation",
+      "unification"
+    ],
+    "antonyms": [
+      "segregation",
+      "separation"
+    ],
+    "common_collocations": [
+      "social integration",
+      "economic integration",
+      "integration policy"
+    ],
+    "ielts_relevance": "Common noun for immigration and society-related essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "cohesion",
+    "pronunciation": "/kəʊˈhiːʒn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of forming a united whole; unity.",
+    "urdu_meaning": "یکجہتی، اتحاد",
+    "detailed_definition": "The action or fact of forming a unified whole, especially referring to social unity within a community.",
+    "examples": [
+      "Strong social cohesion helps communities recover after a crisis.",
+      "Shared traditions contribute to a sense of national cohesion."
+    ],
+    "synonyms": [
+      "unity",
+      "solidarity"
+    ],
+    "antonyms": [
+      "division",
+      "fragmentation"
+    ],
+    "common_collocations": [
+      "social cohesion",
+      "community cohesion",
+      "lack of cohesion"
+    ],
+    "ielts_relevance": "Advanced noun for essays about community and national identity.",
+    "difficulty_level": "C1"
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "word": "entrepreneur",
+    "pronunciation": "/ˌɒntrəprəˈnɜː/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person who starts and runs their own business, taking on financial risk.",
+    "urdu_meaning": "کاروباری شخص، منتظم",
+    "detailed_definition": "A person who organizes and operates a business or businesses, taking on greater than normal financial risks to do so.",
+    "examples": [
+      "Young entrepreneurs are increasingly launching startups straight out of university.",
+      "She became a successful entrepreneur after starting her own tech company."
+    ],
+    "synonyms": [
+      "businessperson",
+      "founder"
+    ],
+    "antonyms": [
+      "employee"
+    ],
+    "common_collocations": [
+      "young entrepreneur",
+      "successful entrepreneur",
+      "become an entrepreneur"
+    ],
+    "ielts_relevance": "Common in essays about business, innovation, and employment.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "entrepreneurship",
+    "pronunciation": "/ˌɒntrəprəˈnɜːʃɪp/",
+    "part_of_speech": "noun",
+    "simple_definition": "The activity of setting up and running a business.",
+    "urdu_meaning": "کاروباری صلاحیت",
+    "detailed_definition": "The activity of setting up a business or businesses, taking on financial risks in the hope of profit.",
+    "examples": [
+      "The government launched a program to encourage entrepreneurship among young people.",
+      "Entrepreneurship requires creativity, resilience, and a willingness to take risks."
+    ],
+    "synonyms": [
+      "business venture"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "promote entrepreneurship",
+      "spirit of entrepreneurship",
+      "encourage entrepreneurship"
+    ],
+    "ielts_relevance": "Common noun form in economy and education essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "recession",
+    "pronunciation": "/rɪˈseʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A period of temporary economic decline.",
+    "urdu_meaning": "کساد بازاری",
+    "detailed_definition": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+    "examples": [
+      "Many businesses closed during the global economic recession.",
+      "The country is showing signs of recovering from the recession."
+    ],
+    "synonyms": [
+      "downturn",
+      "slump"
+    ],
+    "antonyms": [
+      "boom",
+      "growth"
+    ],
+    "common_collocations": [
+      "economic recession",
+      "during the recession",
+      "recession hit"
+    ],
+    "ielts_relevance": "Core economic term for Writing Task 2 essays about the economy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "recession-proof",
+    "pronunciation": "/rɪˈseʃn pruːf/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not significantly affected by an economic downturn.",
+    "urdu_meaning": "کساد بازاری سے محفوظ",
+    "detailed_definition": "Describes an industry, job, or investment that remains stable or profitable even during an economic recession.",
+    "examples": [
+      "Healthcare is often considered a recession-proof industry.",
+      "Investors look for recession-proof stocks during uncertain times."
+    ],
+    "synonyms": [
+      "stable"
+    ],
+    "antonyms": [
+      "volatile"
+    ],
+    "common_collocations": [
+      "recession-proof industry",
+      "recession-proof job"
+    ],
+    "ielts_relevance": "Useful specific term for economy and career essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "inflation",
+    "pronunciation": "/ɪnˈfleɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A general increase in prices and fall in the purchasing value of money.",
+    "urdu_meaning": "مہنگائی",
+    "detailed_definition": "A sustained increase in the general price level of goods and services in an economy over a period of time.",
+    "examples": [
+      "Rising inflation has made everyday goods more expensive for families.",
+      "The central bank raised interest rates to control inflation."
+    ],
+    "synonyms": [
+      "price rise"
+    ],
+    "antonyms": [
+      "deflation"
+    ],
+    "common_collocations": [
+      "rising inflation",
+      "control inflation",
+      "inflation rate"
+    ],
+    "ielts_relevance": "Essential economic vocabulary for Task 2 essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "unemployment",
+    "pronunciation": "/ˌʌnɪmˈplɔɪmənt/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of being without a paid job.",
+    "urdu_meaning": "بے روزگاری",
+    "detailed_definition": "The state of not having a job despite being able and willing to work.",
+    "examples": [
+      "Youth unemployment remains a serious challenge in many developing countries.",
+      "The government introduced new policies to reduce unemployment."
+    ],
+    "synonyms": [
+      "joblessness"
+    ],
+    "antonyms": [
+      "employment"
+    ],
+    "common_collocations": [
+      "youth unemployment",
+      "unemployment rate",
+      "tackle unemployment"
+    ],
+    "ielts_relevance": "Extremely common IELTS topic in employment and economy essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "workforce",
+    "pronunciation": "/ˈwɜːkfɔːs/",
+    "part_of_speech": "noun",
+    "simple_definition": "All the people who work in a company, industry, or country.",
+    "urdu_meaning": "افرادی قوت",
+    "detailed_definition": "The people engaged in or available for work, either in a country or company or in a particular field.",
+    "examples": [
+      "Automation is expected to displace a significant portion of the workforce.",
+      "Women now make up nearly half of the global workforce."
+    ],
+    "synonyms": [
+      "labor force",
+      "employees"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "global workforce",
+      "skilled workforce",
+      "part of the workforce"
+    ],
+    "ielts_relevance": "Common noun for essays about employment and the economy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "remuneration",
+    "pronunciation": "/rɪˌmjuːnəˈreɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Payment or reward for work or services provided.",
+    "urdu_meaning": "معاوضہ",
+    "detailed_definition": "Money paid for work or a service; formal term for salary or wages.",
+    "examples": [
+      "The job offers competitive remuneration and excellent benefits.",
+      "Employees are demanding fairer remuneration for their overtime work."
+    ],
+    "synonyms": [
+      "salary",
+      "compensation"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "fair remuneration",
+      "remuneration package",
+      "competitive remuneration"
+    ],
+    "ielts_relevance": "Formal high-band synonym for 'salary' or 'pay'.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "incentive",
+    "pronunciation": "/ɪnˈsentɪv/",
+    "part_of_speech": "noun",
+    "simple_definition": "Something that motivates or encourages someone to do something.",
+    "urdu_meaning": "ترغیب، حوصلہ افزائی",
+    "detailed_definition": "A thing that motivates or encourages someone to do something, often a reward or benefit.",
+    "examples": [
+      "The government offers tax incentives for companies that invest in renewable energy.",
+      "Bonuses are often used as an incentive to boost employee performance."
+    ],
+    "synonyms": [
+      "motivation",
+      "reward"
+    ],
+    "antonyms": [
+      "deterrent",
+      "disincentive"
+    ],
+    "common_collocations": [
+      "financial incentive",
+      "tax incentive",
+      "provide an incentive"
+    ],
+    "ielts_relevance": "Useful when proposing solutions in Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "productivity",
+    "pronunciation": "/ˌprɒdʌkˈtɪvəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The rate at which goods are produced or work is completed.",
+    "urdu_meaning": "پیداواری صلاحیت",
+    "detailed_definition": "The effectiveness of productive effort, especially in industry, measured in terms of output per unit of input.",
+    "examples": [
+      "Remote work has been shown to increase productivity for many employees.",
+      "The company invested in new machinery to boost productivity."
+    ],
+    "synonyms": [
+      "efficiency",
+      "output"
+    ],
+    "antonyms": [
+      "inefficiency"
+    ],
+    "common_collocations": [
+      "increase productivity",
+      "workplace productivity",
+      "productivity levels"
+    ],
+    "ielts_relevance": "Common in essays about work, technology, and the economy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "efficient",
+    "pronunciation": "/ɪˈfɪʃnt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Achieving maximum productivity with minimum wasted effort.",
+    "urdu_meaning": "موثر، کارآمد",
+    "detailed_definition": "Performing or functioning in the best possible manner with the least waste of time and effort.",
+    "examples": [
+      "The new system is far more efficient than the old paper-based one.",
+      "Public transport is often a more efficient way to travel in cities."
+    ],
+    "synonyms": [
+      "effective",
+      "productive"
+    ],
+    "antonyms": [
+      "inefficient",
+      "wasteful"
+    ],
+    "common_collocations": [
+      "highly efficient",
+      "energy efficient",
+      "efficient system"
+    ],
+    "ielts_relevance": "Extremely versatile adjective across almost all IELTS topics.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "revenue",
+    "pronunciation": "/ˈrevənjuː/",
+    "part_of_speech": "noun",
+    "simple_definition": "Income generated from business activities.",
+    "urdu_meaning": "آمدنی",
+    "detailed_definition": "Income, especially of a company or organization, generated from its normal business operations.",
+    "examples": [
+      "The company's revenue grew by 20% last year.",
+      "Tourism generates significant revenue for the local economy."
+    ],
+    "synonyms": [
+      "income",
+      "earnings"
+    ],
+    "antonyms": [
+      "expenditure",
+      "loss"
+    ],
+    "common_collocations": [
+      "generate revenue",
+      "annual revenue",
+      "revenue growth"
+    ],
+    "ielts_relevance": "Common in Task 1 business/economy data descriptions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "expenditure",
+    "pronunciation": "/ɪkˈspendɪtʃə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The action of spending money; the amount spent.",
+    "urdu_meaning": "اخراجات",
+    "detailed_definition": "The action of spending funds, or the total amount of money spent on something.",
+    "examples": [
+      "Government expenditure on healthcare has increased significantly.",
+      "Household expenditure on food rose due to inflation."
+    ],
+    "synonyms": [
+      "spending",
+      "outlay"
+    ],
+    "antonyms": [
+      "revenue",
+      "income"
+    ],
+    "common_collocations": [
+      "public expenditure",
+      "reduce expenditure",
+      "household expenditure"
+    ],
+    "ielts_relevance": "Common in Task 1 essays describing spending data.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "subsidize",
+    "pronunciation": "/ˈsʌbsɪdaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To support financially, especially to help keep prices low.",
+    "urdu_meaning": "مالی امداد دینا",
+    "detailed_definition": "To support an organization or activity financially, typically to keep the price of a product or service low.",
+    "examples": [
+      "The government subsidizes public transport to encourage its use.",
+      "Farmers receive subsidized loans to help them purchase equipment."
+    ],
+    "synonyms": [
+      "fund",
+      "support"
+    ],
+    "antonyms": [
+      "tax",
+      "charge"
+    ],
+    "common_collocations": [
+      "subsidize housing",
+      "government subsidized",
+      "heavily subsidized"
+    ],
+    "ielts_relevance": "Useful verb for essays about government spending and support.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "privatization",
+    "pronunciation": "/ˌpraɪvətaɪˈzeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The transfer of a business or industry from public to private ownership.",
+    "urdu_meaning": "نجکاری",
+    "detailed_definition": "The transfer of a business, industry, or service from public to private ownership and control.",
+    "examples": [
+      "The privatization of the railway system led to mixed results.",
+      "Critics argue that privatization of healthcare can increase inequality."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "nationalization"
+    ],
+    "common_collocations": [
+      "privatization of",
+      "push for privatization"
+    ],
+    "ielts_relevance": "Common in essays comparing public and private ownership.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "monopoly",
+    "pronunciation": "/məˈnɒpəli/",
+    "part_of_speech": "noun",
+    "simple_definition": "Complete control of trade in a particular good or service by one company.",
+    "urdu_meaning": "اجارہ داری",
+    "detailed_definition": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+    "examples": [
+      "The company held a virtual monopoly on the country's telecommunications industry.",
+      "Regulators are concerned about tech giants forming monopolies."
+    ],
+    "synonyms": [
+      "exclusive control"
+    ],
+    "antonyms": [
+      "competition"
+    ],
+    "common_collocations": [
+      "hold a monopoly",
+      "break a monopoly",
+      "government monopoly"
+    ],
+    "ielts_relevance": "Useful for essays about business competition and regulation.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "conglomerate",
+    "pronunciation": "/kənˈɡlɒmərət/",
+    "part_of_speech": "noun",
+    "simple_definition": "A large company formed by combining several smaller companies.",
+    "urdu_meaning": "بڑا کاروباری گروہ",
+    "detailed_definition": "A large corporation formed by the combination of several smaller companies, often operating in different industries.",
+    "examples": [
+      "The media conglomerate owns several television networks and newspapers.",
+      "Small businesses often struggle to compete with large conglomerates."
+    ],
+    "synonyms": [
+      "corporation",
+      "group"
+    ],
+    "antonyms": [
+      "small business"
+    ],
+    "common_collocations": [
+      "media conglomerate",
+      "multinational conglomerate"
+    ],
+    "ielts_relevance": "Advanced noun for essays about big business and globalization.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "startup",
+    "pronunciation": "/ˈstɑːtʌp/",
+    "part_of_speech": "noun",
+    "simple_definition": "A newly established business, typically small and innovative.",
+    "urdu_meaning": "نیا کاروباری ادارہ",
+    "detailed_definition": "A newly established company, typically small and often innovative, in its early stages of development.",
+    "examples": [
+      "Many tech startups fail within their first two years.",
+      "She left her corporate job to launch her own startup."
+    ],
+    "synonyms": [
+      "new venture"
+    ],
+    "antonyms": [
+      "established company"
+    ],
+    "common_collocations": [
+      "tech startup",
+      "launch a startup",
+      "startup culture"
+    ],
+    "ielts_relevance": "Common modern term for business and technology essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "venture capital",
+    "pronunciation": "/ˈventʃə ˈkæpɪtl/",
+    "part_of_speech": "noun",
+    "simple_definition": "Money invested in new businesses that have high growth potential but also high risk.",
+    "urdu_meaning": "وینچر کیپیٹل، خطرناک سرمایہ کاری",
+    "detailed_definition": "Funding provided by investors to startup companies and small businesses believed to have long-term growth potential.",
+    "examples": [
+      "The startup secured a large round of venture capital funding.",
+      "Venture capital firms often invest in technology and biotech companies."
+    ],
+    "synonyms": [
+      "risk capital"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "venture capital firm",
+      "secure venture capital"
+    ],
+    "ielts_relevance": "Useful for advanced business and finance discussions.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "stakeholder",
+    "pronunciation": "/ˈsteɪkhəʊldə/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person or group with an interest in a business or project.",
+    "urdu_meaning": "فریق، حصہ دار",
+    "detailed_definition": "A person, group, or organization that has an interest or concern in a business, project, or system.",
+    "examples": [
+      "The company consulted all stakeholders before making the decision.",
+      "Employees, customers, and shareholders are all key stakeholders in a business."
+    ],
+    "synonyms": [
+      "interested party"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "key stakeholder",
+      "consult stakeholders",
+      "stakeholder interests"
+    ],
+    "ielts_relevance": "Formal business term useful for high-band essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "negotiate",
+    "pronunciation": "/nɪˈɡəʊʃieɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To discuss something with someone to reach an agreement.",
+    "urdu_meaning": "مذاکرات کرنا",
+    "detailed_definition": "To try to reach an agreement or compromise by means of formal discussion.",
+    "examples": [
+      "The two companies negotiated a new trade deal.",
+      "She successfully negotiated a higher salary during her interview."
+    ],
+    "synonyms": [
+      "bargain",
+      "discuss"
+    ],
+    "antonyms": [
+      "dictate",
+      "impose"
+    ],
+    "common_collocations": [
+      "negotiate a deal",
+      "negotiate terms",
+      "successfully negotiate"
+    ],
+    "ielts_relevance": "Common verb for business and diplomacy essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "merger",
+    "pronunciation": "/ˈmɜːdʒə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The combining of two companies into one.",
+    "urdu_meaning": "انضمام",
+    "detailed_definition": "An act or instance of combining two or more organizations, especially companies, into one.",
+    "examples": [
+      "The merger between the two banks created the country's largest financial institution.",
+      "Regulators must approve any major corporate merger."
+    ],
+    "synonyms": [
+      "combination",
+      "amalgamation"
+    ],
+    "antonyms": [
+      "split",
+      "divestiture"
+    ],
+    "common_collocations": [
+      "corporate merger",
+      "approve a merger",
+      "merger and acquisition"
+    ],
+    "ielts_relevance": "Useful business vocabulary for high-band essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "downsize",
+    "pronunciation": "/ˈdaʊnsaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make a company smaller by reducing staff.",
+    "urdu_meaning": "عملہ کم کرنا",
+    "detailed_definition": "To reduce the size of a company or organization, especially by cutting staff numbers.",
+    "examples": [
+      "The company was forced to downsize after losing several major clients.",
+      "Many employees lost their jobs when the firm decided to downsize."
+    ],
+    "synonyms": [
+      "cut back",
+      "reduce"
+    ],
+    "antonyms": [
+      "expand",
+      "grow"
+    ],
+    "common_collocations": [
+      "downsize the workforce",
+      "forced to downsize"
+    ],
+    "ielts_relevance": "Common verb in essays about the economy and job losses.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "lucrative",
+    "pronunciation": "/ˈluːkrətɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Producing a lot of profit.",
+    "urdu_meaning": "منافع بخش",
+    "detailed_definition": "Producing a great deal of profit; very profitable financially.",
+    "examples": [
+      "Tourism has become a lucrative industry for the coastal town.",
+      "She turned down a lucrative job offer to pursue her passion instead."
+    ],
+    "synonyms": [
+      "profitable",
+      "rewarding"
+    ],
+    "antonyms": [
+      "unprofitable",
+      "loss-making"
+    ],
+    "common_collocations": [
+      "lucrative career",
+      "lucrative business",
+      "highly lucrative"
+    ],
+    "ielts_relevance": "Useful high-band adjective for describing profitable careers or industries.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "meticulous",
+    "pronunciation": "/məˈtɪkjələs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Very careful and precise about details.",
+    "urdu_meaning": "باریک بین، محتاط",
+    "detailed_definition": "Showing great attention to detail and accuracy in the way something is done.",
+    "examples": [
+      "She is meticulous about checking every detail of her reports before submitting them.",
+      "The scientist kept meticulous records of every experiment."
+    ],
+    "synonyms": [
+      "careful",
+      "precise"
+    ],
+    "antonyms": [
+      "careless",
+      "sloppy"
+    ],
+    "common_collocations": [
+      "meticulous planning",
+      "meticulous attention to detail",
+      "meticulous records"
+    ],
+    "ielts_relevance": "Useful for describing careful work in a professional context.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "diligent",
+    "pronunciation": "/ˈdɪlɪdʒənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Showing care and effort in one's work or duties.",
+    "urdu_meaning": "محنتی، جفاکش",
+    "detailed_definition": "Having or showing care and conscientiousness in one's work or duties; persistent and hardworking.",
+    "examples": [
+      "He was praised by his manager for being a diligent and reliable employee.",
+      "Diligent students tend to perform better academically."
+    ],
+    "synonyms": [
+      "hardworking",
+      "conscientious"
+    ],
+    "antonyms": [
+      "lazy",
+      "negligent"
+    ],
+    "common_collocations": [
+      "diligent worker",
+      "diligent student",
+      "remain diligent"
+    ],
+    "ielts_relevance": "Useful positive adjective for describing work ethic in Speaking.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "versatile",
+    "pronunciation": "/ˈvɜːsətaɪl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to adapt or be used for many different purposes or skills.",
+    "urdu_meaning": "ہمہ جہت، متنوع صلاحیتوں کا حامل",
+    "detailed_definition": "Able to adapt or be adapted to many different functions or activities.",
+    "examples": [
+      "Employers increasingly look for versatile employees who can handle multiple roles.",
+      "The tool is incredibly versatile and can be used for a wide range of tasks."
+    ],
+    "synonyms": [
+      "adaptable",
+      "flexible"
+    ],
+    "antonyms": [
+      "limited",
+      "specialized"
+    ],
+    "common_collocations": [
+      "versatile employee",
+      "versatile skills",
+      "highly versatile"
+    ],
+    "ielts_relevance": "Common positive adjective for describing skills and abilities.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "collaborate",
+    "pronunciation": "/kəˈlæbəreɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To work jointly with others on an activity or project.",
+    "urdu_meaning": "مل کر کام کرنا",
+    "detailed_definition": "To work jointly on an activity or project with one or more other people or organizations.",
+    "examples": [
+      "The two universities collaborated on a major research project.",
+      "Employees are encouraged to collaborate across different departments."
+    ],
+    "synonyms": [
+      "cooperate",
+      "work together"
+    ],
+    "antonyms": [
+      "compete",
+      "work alone"
+    ],
+    "common_collocations": [
+      "collaborate with",
+      "closely collaborate",
+      "collaborate on a project"
+    ],
+    "ielts_relevance": "Common in essays and Speaking about teamwork and workplace culture.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "delegate",
+    "pronunciation": "/ˈdelɪɡeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To give a task or responsibility to someone else.",
+    "urdu_meaning": "ذمہ داری سونپنا",
+    "detailed_definition": "To entrust a task or responsibility to another person, typically one who is less senior.",
+    "examples": [
+      "Effective managers know how to delegate tasks to their team.",
+      "She struggled to delegate responsibilities, preferring to do everything herself."
+    ],
+    "synonyms": [
+      "assign",
+      "entrust"
+    ],
+    "antonyms": [
+      "retain",
+      "keep"
+    ],
+    "common_collocations": [
+      "delegate tasks",
+      "delegate responsibility",
+      "learn to delegate"
+    ],
+    "ielts_relevance": "Useful management vocabulary for work-related essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "supervise",
+    "pronunciation": "/ˈsuːpəvaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To observe and direct the work of others.",
+    "urdu_meaning": "نگرانی کرنا",
+    "detailed_definition": "To observe and direct the execution of a task, project, or activity.",
+    "examples": [
+      "She supervises a team of twenty employees at the factory.",
+      "Teachers must supervise students closely during science experiments."
+    ],
+    "synonyms": [
+      "oversee",
+      "manage"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignore"
+    ],
+    "common_collocations": [
+      "supervise a team",
+      "closely supervise",
+      "supervise staff"
+    ],
+    "ielts_relevance": "Common verb in work and management contexts.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "promotion",
+    "pronunciation": "/prəˈməʊʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Advancement to a higher position or rank.",
+    "urdu_meaning": "ترقی",
+    "detailed_definition": "The action of raising someone to a higher position or rank, especially within a job.",
+    "examples": [
+      "After five years of hard work, she finally received a promotion.",
+      "Promotions are usually based on performance and experience."
+    ],
+    "synonyms": [
+      "advancement",
+      "elevation"
+    ],
+    "antonyms": [
+      "demotion"
+    ],
+    "common_collocations": [
+      "get a promotion",
+      "promotion opportunities",
+      "well-deserved promotion"
+    ],
+    "ielts_relevance": "Common in Speaking Part 1/2 about career and work.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "job satisfaction",
+    "pronunciation": "/dʒɒb ˌsætɪsˈfækʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The feeling of contentment one gets from doing their job.",
+    "urdu_meaning": "ملازمت سے اطمینان",
+    "detailed_definition": "A sense of fulfillment and contentment derived from performing one's job well.",
+    "examples": [
+      "Job satisfaction is often more important to employees than salary alone.",
+      "Studies show a strong link between job satisfaction and productivity."
+    ],
+    "synonyms": [
+      "work fulfillment"
+    ],
+    "antonyms": [
+      "job dissatisfaction"
+    ],
+    "common_collocations": [
+      "high job satisfaction",
+      "lack of job satisfaction",
+      "improve job satisfaction"
+    ],
+    "ielts_relevance": "Common topic for work-life balance essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "work-life balance",
+    "pronunciation": "/wɜːk laɪf ˈbæləns/",
+    "part_of_speech": "noun",
+    "simple_definition": "A comfortable state of equilibrium between work and personal life.",
+    "urdu_meaning": "کام اور ذاتی زندگی میں توازن",
+    "detailed_definition": "The balance an individual maintains between the demands of their career and the elements of their personal life.",
+    "examples": [
+      "Many employees value work-life balance more than a higher salary.",
+      "Remote work has made it easier for some people to achieve work-life balance."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "common_collocations": [
+      "achieve work-life balance",
+      "poor work-life balance",
+      "improve work-life balance"
+    ],
+    "ielts_relevance": "Very common phrase in employment and lifestyle essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "overtime",
+    "pronunciation": "/ˈəʊvətaɪm/",
+    "part_of_speech": "noun",
+    "simple_definition": "Time worked beyond one's normal working hours.",
+    "urdu_meaning": "اضافی اوقات کار",
+    "detailed_definition": "Time spent working beyond one's scheduled working hours, often compensated at a higher rate.",
+    "examples": [
+      "She often works overtime to meet tight deadlines.",
+      "Employees are paid extra for any overtime they complete."
+    ],
+    "synonyms": [
+      "extra hours"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "work overtime",
+      "paid overtime",
+      "unpaid overtime"
+    ],
+    "ielts_relevance": "Common in Speaking Part 1 questions about work.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "internship",
+    "pronunciation": "/ˈɪntɜːnʃɪp/",
+    "part_of_speech": "noun",
+    "simple_definition": "A period of work experience offered by an organization, often for students.",
+    "urdu_meaning": "انٹرن شپ، تربیتی ملازمت",
+    "detailed_definition": "A period of work experience offered by an organization for a limited period, often undertaken by students or graduates.",
+    "examples": [
+      "She completed a summer internship at a major law firm.",
+      "Internships provide valuable hands-on experience for new graduates."
+    ],
+    "synonyms": [
+      "work placement"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "summer internship",
+      "paid internship",
+      "complete an internship"
+    ],
+    "ielts_relevance": "Common in education and career-related Speaking answers.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "qualification",
+    "pronunciation": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A skill or achievement that makes someone suitable for a job or task.",
+    "urdu_meaning": "اہلیت، ڈگری",
+    "detailed_definition": "A pass of an examination or an official completion of a course, especially one conferring status as a recognized practitioner of a profession.",
+    "examples": [
+      "A university degree is a common qualification required for entry-level jobs.",
+      "She has all the necessary qualifications for the position."
+    ],
+    "synonyms": [
+      "certification",
+      "credential"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "academic qualification",
+      "professional qualification",
+      "meet the qualifications"
+    ],
+    "ielts_relevance": "Common in essays and Speaking about education and careers.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "resume",
+    "pronunciation": "/ˈrezjuːmeɪ/",
+    "part_of_speech": "noun",
+    "simple_definition": "A document summarizing a person's education and work experience.",
+    "urdu_meaning": "سوانح حیات، سی وی",
+    "detailed_definition": "A brief written account of personal, educational, and professional qualifications and experience, submitted with a job application.",
+    "examples": [
+      "Make sure to tailor your resume to each job you apply for.",
+      "Her resume highlighted her extensive experience in marketing."
+    ],
+    "synonyms": [
+      "CV",
+      "curriculum vitae"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "update your resume",
+      "submit a resume",
+      "tailor a resume"
+    ],
+    "ielts_relevance": "Common practical vocabulary for career-related Speaking topics.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "headhunt",
+    "pronunciation": "/ˈhedhʌnt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To identify and recruit skilled people for a specific job.",
+    "urdu_meaning": "باصلاحیت افراد کو بھرتی کے لیے تلاش کرنا",
+    "detailed_definition": "To seek out and recruit a person for a senior position in a company, often approaching someone already employed elsewhere.",
+    "examples": [
+      "She was headhunted by a rival firm after her success at the startup.",
+      "Companies often headhunt talented executives from their competitors."
+    ],
+    "synonyms": [
+      "recruit",
+      "poach"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "headhunted by",
+      "actively headhunt"
+    ],
+    "ielts_relevance": "Specific business term useful for advanced discussions about recruitment.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "redeploy",
+    "pronunciation": "/ˌriːdɪˈplɔɪ/",
+    "part_of_speech": "verb",
+    "simple_definition": "To move staff or resources to a different task or place.",
+    "urdu_meaning": "دوبارہ تعینات کرنا",
+    "detailed_definition": "To move personnel or resources to a different place or task, often within the same organization.",
+    "examples": [
+      "Rather than laying off staff, the company chose to redeploy them to other departments.",
+      "Resources were redeployed to the areas most affected by the disaster."
+    ],
+    "synonyms": [
+      "reassign",
+      "relocate"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "redeploy staff",
+      "redeploy resources"
+    ],
+    "ielts_relevance": "Useful for essays discussing alternatives to layoffs.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "disparate",
+    "pronunciation": "/ˈdɪspərət/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Very different from each other; not able to be compared.",
+    "urdu_meaning": "مختلف، غیر مماثل",
+    "detailed_definition": "Essentially different in kind; not able to be compared or grouped together easily.",
+    "examples": [
+      "The report combined data from disparate sources.",
+      "Team members came from disparate backgrounds, bringing diverse perspectives."
+    ],
+    "synonyms": [
+      "different",
+      "varied"
+    ],
+    "antonyms": [
+      "similar",
+      "uniform"
+    ],
+    "common_collocations": [
+      "disparate sources",
+      "disparate backgrounds",
+      "disparate groups"
+    ],
+    "ielts_relevance": "Advanced C2 adjective for describing diversity or contrast.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "pragmatic",
+    "pronunciation": "/præɡˈmætɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Dealing with problems in a practical, sensible way.",
+    "urdu_meaning": "عملیت پسند",
+    "detailed_definition": "Dealing with things sensibly and realistically in a way based on practical considerations rather than theory.",
+    "examples": [
+      "The government took a pragmatic approach to solving the housing crisis.",
+      "She is known for being pragmatic rather than idealistic in her decision-making."
+    ],
+    "synonyms": [
+      "practical",
+      "realistic"
+    ],
+    "antonyms": [
+      "idealistic",
+      "impractical"
+    ],
+    "common_collocations": [
+      "pragmatic approach",
+      "pragmatic solution",
+      "pragmatic decision"
+    ],
+    "ielts_relevance": "High-band adjective useful in Task 2 evaluation paragraphs.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "ambiguous",
+    "pronunciation": "/æmˈbɪɡjuəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Having more than one possible meaning; unclear.",
+    "urdu_meaning": "مبہم",
+    "detailed_definition": "Open to more than one interpretation; not having one obvious meaning.",
+    "examples": [
+      "The contract's wording was ambiguous and led to a legal dispute.",
+      "Her response to the question was deliberately ambiguous."
+    ],
+    "synonyms": [
+      "unclear",
+      "vague"
+    ],
+    "antonyms": [
+      "clear",
+      "unambiguous"
+    ],
+    "common_collocations": [
+      "ambiguous language",
+      "remain ambiguous",
+      "deliberately ambiguous"
+    ],
+    "ielts_relevance": "Useful adjective for critiquing unclear policies or statements.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "comprehensive",
+    "pronunciation": "/ˌkɒmprɪˈhensɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Complete and including everything necessary.",
+    "urdu_meaning": "جامع، مکمل",
+    "detailed_definition": "Complete and including everything that is necessary; thorough and full in scope.",
+    "examples": [
+      "The report provides a comprehensive analysis of the country's economic situation.",
+      "Students receive a comprehensive education covering a wide range of subjects."
+    ],
+    "synonyms": [
+      "thorough",
+      "extensive"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete"
+    ],
+    "common_collocations": [
+      "comprehensive plan",
+      "comprehensive review",
+      "comprehensive coverage"
+    ],
+    "ielts_relevance": "Common formal adjective across nearly all essay topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "pertinent",
+    "pronunciation": "/ˈpɜːtɪnənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relevant or applicable to a particular matter.",
+    "urdu_meaning": "متعلقہ، موزوں",
+    "detailed_definition": "Relevant or applicable to a particular matter; apt in the circumstances.",
+    "examples": [
+      "She asked several pertinent questions during the interview.",
+      "The report includes all the pertinent facts about the case."
+    ],
+    "synonyms": [
+      "relevant",
+      "applicable"
+    ],
+    "antonyms": [
+      "irrelevant"
+    ],
+    "common_collocations": [
+      "pertinent question",
+      "pertinent information",
+      "highly pertinent"
+    ],
+    "ielts_relevance": "Sophisticated adjective useful in academic Writing Task 2.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "substantial",
+    "pronunciation": "/səbˈstænʃl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Of considerable importance, size, or worth.",
+    "urdu_meaning": "خاطر خواہ، اہم",
+    "detailed_definition": "Of considerable importance, size, or worth; large in amount or degree.",
+    "examples": [
+      "The company reported a substantial increase in profits this year.",
+      "A substantial number of people opposed the new policy."
+    ],
+    "synonyms": [
+      "significant",
+      "considerable"
+    ],
+    "antonyms": [
+      "insignificant",
+      "minor"
+    ],
+    "common_collocations": [
+      "substantial increase",
+      "substantial amount",
+      "substantial evidence"
+    ],
+    "ielts_relevance": "One of the most useful quantifying adjectives for Task 1 and Task 2.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "negligible",
+    "pronunciation": "/ˈneɡlɪdʒəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "So small or unimportant as to be not worth considering.",
+    "urdu_meaning": "معمولی، نہ ہونے کے برابر",
+    "detailed_definition": "So small or unimportant as to not be worth taking into consideration; insignificant.",
+    "examples": [
+      "The difference in test scores between the two groups was negligible.",
+      "The effect of the new policy on unemployment was negligible."
+    ],
+    "synonyms": [
+      "insignificant",
+      "minimal"
+    ],
+    "antonyms": [
+      "substantial",
+      "significant"
+    ],
+    "common_collocations": [
+      "negligible effect",
+      "negligible difference",
+      "negligible impact"
+    ],
+    "ielts_relevance": "Opposite of 'substantial' — essential for describing small changes in Task 1.",
+    "difficulty_level": "C1"
+  }
+]

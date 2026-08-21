@@ -1,0 +1,745 @@
+[
+  {
+    "word": "leisure",
+    "pronunciation": "/ˈleʒə/",
+    "part_of_speech": "noun",
+    "simple_definition": "Free time when one is not working.",
+    "urdu_meaning": "فرصت، تفریح",
+    "detailed_definition": "Time free from work or duties, used for enjoyment or relaxation.",
+    "examples": [
+      "People today have less leisure time than previous generations due to longer working hours.",
+      "Reading is one of her favorite leisure activities."
+    ],
+    "synonyms": [
+      "free time",
+      "recreation"
+    ],
+    "antonyms": [
+      "work",
+      "labor"
+    ],
+    "common_collocations": [
+      "leisure time",
+      "leisure activities",
+      "leisure facilities"
+    ],
+    "ielts_relevance": "Common noun in essays about work-life balance and lifestyle.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "competitive",
+    "pronunciation": "/kəmˈpetətɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Having a strong desire to win or be more successful than others.",
+    "urdu_meaning": "مسابقتی",
+    "detailed_definition": "Relating to or characterized by competition; having a strong desire to compete and succeed.",
+    "examples": [
+      "Team sports teach children how to handle both winning and losing in a competitive environment.",
+      "The job market has become increasingly competitive in recent years."
+    ],
+    "synonyms": [
+      "rivalrous",
+      "ambitious"
+    ],
+    "antonyms": [
+      "cooperative",
+      "unambitious"
+    ],
+    "common_collocations": [
+      "competitive environment",
+      "highly competitive",
+      "competitive spirit"
+    ],
+    "ielts_relevance": "Common in essays about sports, education, and employment.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "cooperation",
+    "pronunciation": "/kəʊˌɒpəˈreɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of working together toward a shared goal.",
+    "urdu_meaning": "تعاون",
+    "detailed_definition": "The action or process of working together to the same end; mutual assistance.",
+    "examples": [
+      "Team sports promote cooperation and communication among players.",
+      "International cooperation is essential to tackle global issues like climate change."
+    ],
+    "synonyms": [
+      "collaboration",
+      "teamwork"
+    ],
+    "antonyms": [
+      "competition",
+      "conflict"
+    ],
+    "common_collocations": [
+      "international cooperation",
+      "promote cooperation",
+      "close cooperation"
+    ],
+    "ielts_relevance": "Common in essays about teamwork, sports, and international relations.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "camaraderie",
+    "pronunciation": "/ˌkæməˈrɑːdəri/",
+    "part_of_speech": "noun",
+    "simple_definition": "A feeling of friendship and trust among a group of people.",
+    "urdu_meaning": "دوستی و بھائی چارہ",
+    "detailed_definition": "Mutual trust and friendship among people who spend a lot of time together.",
+    "examples": [
+      "Playing on a team fosters a strong sense of camaraderie among players.",
+      "There is a real camaraderie among the staff who have worked together for years."
+    ],
+    "synonyms": [
+      "fellowship",
+      "solidarity"
+    ],
+    "antonyms": [
+      "rivalry",
+      "hostility"
+    ],
+    "common_collocations": [
+      "sense of camaraderie",
+      "foster camaraderie"
+    ],
+    "ielts_relevance": "Useful for discussing team sports and workplace culture in Speaking.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "nutritious",
+    "pronunciation": "/njuːˈtrɪʃəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Containing substances needed for health and growth.",
+    "urdu_meaning": "غذائیت بخش",
+    "detailed_definition": "Efficient as food; nourishing and containing substances necessary for health and growth.",
+    "examples": [
+      "Schools should provide more nutritious meals for children.",
+      "A nutritious diet is essential for maintaining good health throughout life."
+    ],
+    "synonyms": [
+      "nourishing",
+      "healthy"
+    ],
+    "antonyms": [
+      "unhealthy",
+      "junk"
+    ],
+    "common_collocations": [
+      "nutritious meal",
+      "nutritious diet",
+      "nutritious food"
+    ],
+    "ielts_relevance": "Common in health and food essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "processed food",
+    "pronunciation": "/ˈprəʊsest fuːd/",
+    "part_of_speech": "noun",
+    "simple_definition": "Food that has been altered from its natural state, often with additives.",
+    "urdu_meaning": "پروسیس شدہ خوراک",
+    "detailed_definition": "Food that has undergone changes to its natural state, typically involving preservatives, additives, or manufacturing.",
+    "examples": [
+      "Regularly eating processed food has been linked to a higher risk of obesity.",
+      "Many people are trying to cut down on processed food in favor of fresh produce."
+    ],
+    "synonyms": [
+      "packaged food"
+    ],
+    "antonyms": [
+      "fresh food",
+      "whole food"
+    ],
+    "common_collocations": [
+      "cut down on processed food",
+      "highly processed food"
+    ],
+    "ielts_relevance": "Common noun for diet and health essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "malnourished",
+    "pronunciation": "/ˌmælˈnʌrɪʃt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Suffering from a lack of proper nutrition.",
+    "urdu_meaning": "غذائی قلت کا شکار",
+    "detailed_definition": "Suffering from malnutrition due to an insufficient or unbalanced diet.",
+    "examples": [
+      "Millions of children worldwide remain malnourished due to poverty and conflict.",
+      "Malnourished patients often take longer to recover from illness."
+    ],
+    "synonyms": [
+      "undernourished",
+      "underfed"
+    ],
+    "antonyms": [
+      "well-nourished",
+      "healthy"
+    ],
+    "common_collocations": [
+      "severely malnourished",
+      "malnourished children"
+    ],
+    "ielts_relevance": "Common in essays about poverty and global health.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "skyrocketing",
+    "pronunciation": "/ˈskaɪrɒkɪtɪŋ/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Rising very quickly and to a very high level.",
+    "urdu_meaning": "تیزی سے بلند ہوتا ہوا",
+    "detailed_definition": "Increasing very rapidly and to a very high level, especially referring to prices or costs.",
+    "examples": [
+      "Skyrocketing rent prices have forced many young people to move back in with their parents.",
+      "The skyrocketing cost of healthcare is a major concern for families."
+    ],
+    "synonyms": [
+      "soaring",
+      "surging"
+    ],
+    "antonyms": [
+      "plummeting",
+      "falling"
+    ],
+    "common_collocations": [
+      "skyrocketing prices",
+      "skyrocketing costs"
+    ],
+    "ielts_relevance": "Vivid adjective for describing rapidly rising costs, especially housing.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "overcrowded",
+    "pronunciation": "/ˌəʊvəˈkraʊdɪd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Too full of people or things.",
+    "urdu_meaning": "حد سے زیادہ بھرا ہوا",
+    "detailed_definition": "Filled with more people or things than is comfortable or safe.",
+    "examples": [
+      "Public transport in the capital is often dangerously overcrowded during rush hour.",
+      "Overcrowded classrooms make it difficult for teachers to give individual attention."
+    ],
+    "synonyms": [
+      "packed",
+      "congested"
+    ],
+    "antonyms": [
+      "spacious",
+      "uncrowded"
+    ],
+    "common_collocations": [
+      "overcrowded classroom",
+      "overcrowded city",
+      "increasingly overcrowded"
+    ],
+    "ielts_relevance": "Common adjective for essays about urbanization and city life.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "congested",
+    "pronunciation": "/kənˈdʒestɪd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "So crowded that movement is difficult, especially of traffic.",
+    "urdu_meaning": "بھیڑ والا، جام",
+    "detailed_definition": "Excessively crowded, especially with traffic, so that movement is difficult.",
+    "examples": [
+      "The roads become heavily congested every morning during rush hour.",
+      "Congested city centers are pushing more people to work from home."
+    ],
+    "synonyms": [
+      "crowded",
+      "jammed"
+    ],
+    "antonyms": [
+      "clear",
+      "free-flowing"
+    ],
+    "common_collocations": [
+      "congested roads",
+      "heavily congested",
+      "traffic congestion"
+    ],
+    "ielts_relevance": "Very common in essays about transportation and urban living.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "suburb",
+    "pronunciation": "/ˈsʌbɜːb/",
+    "part_of_speech": "noun",
+    "simple_definition": "A residential area on the outskirts of a city.",
+    "urdu_meaning": "مضافات",
+    "detailed_definition": "An outlying district of a city, especially a residential one.",
+    "examples": [
+      "Many young families prefer to live in the suburbs, away from the noise of the city center.",
+      "House prices in the suburbs are typically lower than in the city center."
+    ],
+    "synonyms": [
+      "outskirts",
+      "residential area"
+    ],
+    "antonyms": [
+      "city center",
+      "downtown"
+    ],
+    "common_collocations": [
+      "live in the suburbs",
+      "suburban area"
+    ],
+    "ielts_relevance": "Common noun for comparing city and suburban living.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "amenities",
+    "pronunciation": "/əˈmiːnətiz/",
+    "part_of_speech": "noun",
+    "simple_definition": "Useful or desirable features or facilities of a place.",
+    "urdu_meaning": "سہولیات",
+    "detailed_definition": "Desirable or useful features or facilities of a building or place, such as shops, parks, or transport links.",
+    "examples": [
+      "The new housing development includes a range of amenities, such as a gym and a swimming pool.",
+      "Access to local amenities is an important factor when choosing where to live."
+    ],
+    "synonyms": [
+      "facilities",
+      "conveniences"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "local amenities",
+      "modern amenities",
+      "access to amenities"
+    ],
+    "ielts_relevance": "Common noun for describing housing and neighborhood quality.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "sprawl",
+    "pronunciation": "/sprɔːl/",
+    "part_of_speech": "noun",
+    "simple_definition": "The uncontrolled spread of urban development into surrounding areas.",
+    "urdu_meaning": "بے ترتیب پھیلاؤ",
+    "detailed_definition": "The spreading of urban development in an uncontrolled way, often over previously rural land.",
+    "examples": [
+      "Urban sprawl has led to the loss of large areas of farmland around the city.",
+      "Efforts to limit urban sprawl often focus on encouraging higher-density housing."
+    ],
+    "synonyms": [
+      "expansion",
+      "spread"
+    ],
+    "antonyms": [
+      "containment"
+    ],
+    "common_collocations": [
+      "urban sprawl",
+      "uncontrolled sprawl"
+    ],
+    "ielts_relevance": "Useful noun for essays about city growth and land use.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "gridlock",
+    "pronunciation": "/ˈɡrɪdlɒk/",
+    "part_of_speech": "noun",
+    "simple_definition": "A situation of severe traffic congestion where nothing can move.",
+    "urdu_meaning": "مکمل ٹریفک جام",
+    "detailed_definition": "A situation, especially in a city, in which traffic is completely unable to move.",
+    "examples": [
+      "Rush hour often brings the city center to a complete gridlock.",
+      "Without better public transport, the city risks permanent gridlock."
+    ],
+    "synonyms": [
+      "traffic jam",
+      "standstill"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "traffic gridlock",
+      "complete gridlock"
+    ],
+    "ielts_relevance": "Vivid noun for describing severe urban traffic problems.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "pedestrian",
+    "pronunciation": "/pəˈdestriən/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person walking rather than traveling in a vehicle.",
+    "urdu_meaning": "پیدل چلنے والا",
+    "detailed_definition": "A person walking in a street or public place, as opposed to traveling by vehicle.",
+    "examples": [
+      "The city has created several pedestrian-only zones to reduce traffic and pollution.",
+      "Pedestrians should always use designated crossings when possible."
+    ],
+    "synonyms": [
+      "walker"
+    ],
+    "antonyms": [
+      "driver",
+      "motorist"
+    ],
+    "common_collocations": [
+      "pedestrian zone",
+      "pedestrian crossing",
+      "pedestrian-friendly"
+    ],
+    "ielts_relevance": "Common in essays about urban planning and transport.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "role model",
+    "pronunciation": "/rəʊl ˈmɒdl/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person looked to by others as an example to imitate.",
+    "urdu_meaning": "مثالی شخصیت",
+    "detailed_definition": "A person whose behavior, example, or success is or can be emulated by others, especially younger people.",
+    "examples": [
+      "Parents are usually a child's first and most important role models.",
+      "Athletes often become role models for young fans around the world."
+    ],
+    "synonyms": [
+      "example",
+      "inspiration"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "positive role model",
+      "act as a role model"
+    ],
+    "ielts_relevance": "Common in essays about family, education, and celebrity influence.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "peer pressure",
+    "pronunciation": "/pɪə ˈpreʃə/",
+    "part_of_speech": "noun",
+    "simple_definition": "Influence from people of the same age or social group to behave in a certain way.",
+    "urdu_meaning": "ہم عمر دباؤ",
+    "detailed_definition": "Social pressure exerted by members of one's own age group or social circle to behave in a certain way.",
+    "examples": [
+      "Peer pressure is one of the main reasons teenagers start smoking.",
+      "Parents worry about the effect of peer pressure on their children's decisions."
+    ],
+    "synonyms": [
+      "social pressure"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "succumb to peer pressure",
+      "negative peer pressure"
+    ],
+    "ielts_relevance": "Common in essays about teenagers and social influence.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "generation gap",
+    "pronunciation": "/ˌdʒenəˈreɪʃn ɡæp/",
+    "part_of_speech": "noun",
+    "simple_definition": "Differences in attitudes and behavior between young and old people.",
+    "urdu_meaning": "نسلی فرق",
+    "detailed_definition": "A difference of attitudes between people of different generations, leading to a lack of understanding.",
+    "examples": [
+      "The generation gap between parents and children has widened due to rapid technological change.",
+      "Many families struggle to bridge the generation gap on issues like social media use."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "common_collocations": [
+      "bridge the generation gap",
+      "widening generation gap"
+    ],
+    "ielts_relevance": "Common in essays about family relationships and social change.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "elderly care",
+    "pronunciation": "/ˈeldəli keə/",
+    "part_of_speech": "noun",
+    "simple_definition": "Care and support provided for older people.",
+    "urdu_meaning": "بزرگوں کی دیکھ بھال",
+    "detailed_definition": "Services and support provided to meet the needs of older people, especially those who can no longer fully care for themselves.",
+    "examples": [
+      "Many families struggle to balance work with elderly care responsibilities.",
+      "The government has increased funding for elderly care facilities."
+    ],
+    "synonyms": [
+      "aged care"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "elderly care facilities",
+      "cost of elderly care"
+    ],
+    "ielts_relevance": "Common in essays about aging populations and family responsibility.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "retirement",
+    "pronunciation": "/rɪˈtaɪəmənt/",
+    "part_of_speech": "noun",
+    "simple_definition": "The period of life after a person stops working permanently.",
+    "urdu_meaning": "ریٹائرمنٹ",
+    "detailed_definition": "The action or fact of leaving one's job and ceasing to work, usually due to age.",
+    "examples": [
+      "Many people struggle financially after retirement due to insufficient pension savings.",
+      "She spent her retirement traveling and volunteering."
+    ],
+    "synonyms": [
+      "pension years"
+    ],
+    "antonyms": [
+      "employment"
+    ],
+    "common_collocations": [
+      "early retirement",
+      "retirement age",
+      "after retirement"
+    ],
+    "ielts_relevance": "Common in essays about ageing population and work.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "workaholic",
+    "pronunciation": "/ˌwɜːkəˈhɒlɪk/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person who works excessively and finds it hard to stop.",
+    "urdu_meaning": "کام کا دیوانہ",
+    "detailed_definition": "A person who compulsively works excessively hard and long hours, often at the expense of other areas of life.",
+    "examples": [
+      "He became a workaholic after being promoted to manager, often staying at the office past midnight.",
+      "Being a workaholic can seriously damage a person's relationships and health."
+    ],
+    "synonyms": [
+      "overworker"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "become a workaholic",
+      "confessed workaholic"
+    ],
+    "ielts_relevance": "Useful for essays and Speaking about work-life balance.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "flexible working",
+    "pronunciation": "/ˈfleksəbl ˈwɜːkɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "A work arrangement that allows employees to choose hours or location.",
+    "urdu_meaning": "لچکدار کام کا نظام",
+    "detailed_definition": "A working arrangement that allows employees some choice over when, where, or how much they work.",
+    "examples": [
+      "Flexible working has become more common since the rise of remote work technology.",
+      "The company introduced flexible working hours to improve staff morale."
+    ],
+    "synonyms": [
+      "remote work",
+      "flextime"
+    ],
+    "antonyms": [
+      "fixed hours"
+    ],
+    "common_collocations": [
+      "flexible working hours",
+      "offer flexible working"
+    ],
+    "ielts_relevance": "Common topic in essays about modern employment trends.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "job security",
+    "pronunciation": "/dʒɒb sɪˈkjʊərəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The likelihood that a person will keep their job without risk of unemployment.",
+    "urdu_meaning": "ملازمت کا تحفظ",
+    "detailed_definition": "The assurance or likelihood that an employee will retain their job without the risk of becoming unemployed.",
+    "examples": [
+      "Many people choose government jobs because of the job security they offer.",
+      "The rise of automation has reduced job security in several industries."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "job insecurity"
+    ],
+    "common_collocations": [
+      "lack of job security",
+      "offer job security"
+    ],
+    "ielts_relevance": "Common in essays about employment and career choices.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "upskill",
+    "pronunciation": "/ˈʌpskɪl/",
+    "part_of_speech": "verb",
+    "simple_definition": "To learn new skills or teach employees new skills.",
+    "urdu_meaning": "مہارت میں اضافہ کرنا",
+    "detailed_definition": "To teach an employee additional skills, or for an employee to learn additional skills.",
+    "examples": [
+      "Companies are investing in training programs to upskill their workforce.",
+      "Workers need to upskill continuously to keep pace with technological change."
+    ],
+    "synonyms": [
+      "retrain",
+      "develop skills"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "upskill the workforce",
+      "need to upskill"
+    ],
+    "ielts_relevance": "Useful modern verb for essays about automation and employment.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "artisan",
+    "pronunciation": "/ˈɑːtɪzæn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A worker skilled in a particular craft, made by hand.",
+    "urdu_meaning": "دستکار",
+    "detailed_definition": "A worker in a skilled trade, especially one that involves making things by hand.",
+    "examples": [
+      "Local artisans sell handmade pottery and textiles at the weekly market.",
+      "The demand for artisan products has grown as consumers seek authenticity."
+    ],
+    "synonyms": [
+      "craftsman",
+      "artist"
+    ],
+    "antonyms": [
+      "mass producer"
+    ],
+    "common_collocations": [
+      "local artisan",
+      "artisan goods"
+    ],
+    "ielts_relevance": "Useful for essays about traditional skills versus mass production.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "mass production",
+    "pronunciation": "/mæs prəˈdʌkʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The manufacture of large quantities of a standardized product.",
+    "urdu_meaning": "بڑے پیمانے پر پیداوار",
+    "detailed_definition": "The production of large quantities of a standardized product, typically using assembly-line techniques.",
+    "examples": [
+      "Mass production made goods more affordable but often reduced their individual quality.",
+      "The rise of mass production in the 20th century transformed global manufacturing."
+    ],
+    "synonyms": [
+      "mass manufacturing"
+    ],
+    "antonyms": [
+      "handcraft",
+      "artisanal production"
+    ],
+    "common_collocations": [
+      "era of mass production",
+      "enable mass production"
+    ],
+    "ielts_relevance": "Common in essays about industry, consumerism, and traditional crafts.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "eco-friendly",
+    "pronunciation": "/ˈiːkəʊ ˈfrendli/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not harmful to the environment.",
+    "urdu_meaning": "ماحول دوست",
+    "detailed_definition": "Not harmful to the environment; designed to have minimal negative environmental impact.",
+    "examples": [
+      "More consumers are choosing eco-friendly products over conventional alternatives.",
+      "The hotel has introduced several eco-friendly initiatives, including solar panels and rainwater harvesting."
+    ],
+    "synonyms": [
+      "environmentally friendly",
+      "green"
+    ],
+    "antonyms": [
+      "polluting",
+      "harmful"
+    ],
+    "common_collocations": [
+      "eco-friendly products",
+      "eco-friendly practices"
+    ],
+    "ielts_relevance": "Common adjective in environment essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "carbon emission",
+    "pronunciation": "/ˈkɑːbən ɪˈmɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The release of carbon dioxide into the atmosphere.",
+    "urdu_meaning": "کاربن کا اخراج",
+    "detailed_definition": "The release of carbon dioxide, especially from burning fossil fuels, into the atmosphere.",
+    "examples": [
+      "Countries have pledged to cut carbon emissions significantly by 2030.",
+      "Switching to electric vehicles can help reduce carbon emissions from transport."
+    ],
+    "synonyms": [
+      "greenhouse gas emission"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "reduce carbon emissions",
+      "cut carbon emissions",
+      "carbon emission targets"
+    ],
+    "ielts_relevance": "Fundamental term for climate change essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "recycle",
+    "pronunciation": "/ˌriːˈsaɪkl/",
+    "part_of_speech": "verb",
+    "simple_definition": "To convert waste into reusable material.",
+    "urdu_meaning": "ری سائیکل کرنا",
+    "detailed_definition": "To convert waste materials into new, reusable products in order to reduce the use of raw materials.",
+    "examples": [
+      "Households are encouraged to recycle paper, glass, and plastic separately.",
+      "Many cities have introduced strict fines for failing to recycle correctly."
+    ],
+    "synonyms": [
+      "reprocess",
+      "reuse"
+    ],
+    "antonyms": [
+      "dispose of",
+      "discard"
+    ],
+    "common_collocations": [
+      "recycle waste",
+      "recycle plastic",
+      "encourage people to recycle"
+    ],
+    "ielts_relevance": "Essential verb for environment and waste management essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "landfill",
+    "pronunciation": "/ˈlændfɪl/",
+    "part_of_speech": "noun",
+    "simple_definition": "An area where waste is buried in the ground.",
+    "urdu_meaning": "کچرا دفن کرنے کی جگہ",
+    "detailed_definition": "A site for the disposal of waste materials by burial, often used to manage rubbish.",
+    "examples": [
+      "Reducing packaging waste would significantly decrease the amount of rubbish sent to landfill.",
+      "Landfills release harmful gases as waste decomposes over time."
+    ],
+    "synonyms": [
+      "dump",
+      "waste site"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "end up in landfill",
+      "landfill site",
+      "landfill waste"
+    ],
+    "ielts_relevance": "Common noun for essays about waste management.",
+    "difficulty_level": "B2"
+  }
+]

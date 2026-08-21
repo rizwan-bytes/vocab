@@ -1,0 +1,1167 @@
+[
+  {
+    "word": "epidemic",
+    "pronunciation": "/ˌepɪˈdemɪk/",
+    "part_of_speech": "noun",
+    "simple_definition": "A widespread occurrence of a disease in a community at a particular time.",
+    "urdu_meaning": "وبا",
+    "detailed_definition": "An outbreak of a disease that spreads quickly and affects a large number of people in a community or region.",
+    "examples": [
+      "The country declared a public health emergency after the flu epidemic worsened.",
+      "Obesity has been described as a modern epidemic in many developed nations."
+    ],
+    "synonyms": [
+      "outbreak",
+      "plague"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "epidemic outbreak",
+      "obesity epidemic",
+      "declare an epidemic"
+    ],
+    "ielts_relevance": "Common in health-related Writing Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "sedentary",
+    "pronunciation": "/ˈsednt(ə)ri/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Involving a lot of sitting and little physical activity.",
+    "urdu_meaning": "بیٹھے رہنے والا، کاہل طرز زندگی",
+    "detailed_definition": "Characterized by a lot of sitting and not much exercise; describes a lifestyle with little physical movement.",
+    "examples": [
+      "Office jobs often involve a sedentary lifestyle, which increases health risks.",
+      "Doctors recommend breaking up long sedentary periods with short walks."
+    ],
+    "synonyms": [
+      "inactive",
+      "desk-bound"
+    ],
+    "antonyms": [
+      "active",
+      "energetic"
+    ],
+    "common_collocations": [
+      "sedentary lifestyle",
+      "sedentary job",
+      "sedentary behavior"
+    ],
+    "ielts_relevance": "Frequently used in essays about health, obesity, and modern lifestyles.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "obesity",
+    "pronunciation": "/əʊˈbiːsəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The condition of being significantly overweight.",
+    "urdu_meaning": "موٹاپا",
+    "detailed_definition": "A medical condition characterized by excess body fat that increases the risk of health problems.",
+    "examples": [
+      "Childhood obesity rates have risen sharply over the past two decades.",
+      "Obesity is linked to a higher risk of heart disease and diabetes."
+    ],
+    "synonyms": [
+      "overweight"
+    ],
+    "antonyms": [
+      "fitness",
+      "slimness"
+    ],
+    "common_collocations": [
+      "childhood obesity",
+      "obesity rates",
+      "tackle obesity"
+    ],
+    "ielts_relevance": "One of the most common IELTS health topics — pairs with 'sedentary' and 'junk food'.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "malnutrition",
+    "pronunciation": "/ˌmælnjuˈtrɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A lack of proper nutrition caused by not eating enough or the right food.",
+    "urdu_meaning": "غذائی قلت",
+    "detailed_definition": "A serious condition resulting from a deficiency, excess, or imbalance in a person's intake of nutrients.",
+    "examples": [
+      "Malnutrition remains a major cause of child mortality in developing countries.",
+      "The charity focuses on reducing malnutrition among displaced families."
+    ],
+    "synonyms": [
+      "undernourishment"
+    ],
+    "antonyms": [
+      "nourishment"
+    ],
+    "common_collocations": [
+      "childhood malnutrition",
+      "severe malnutrition",
+      "suffer from malnutrition"
+    ],
+    "ielts_relevance": "Important term for essays about poverty and global health.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "chronic",
+    "pronunciation": "/ˈkrɒnɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Persisting for a long time or constantly recurring.",
+    "urdu_meaning": "دیرینہ، مزمن",
+    "detailed_definition": "Describes a disease or condition that persists for a long time or is constantly recurring, as opposed to acute.",
+    "examples": [
+      "Chronic illnesses such as diabetes require lifelong management.",
+      "Chronic stress can have serious effects on mental health."
+    ],
+    "synonyms": [
+      "persistent",
+      "long-lasting"
+    ],
+    "antonyms": [
+      "acute",
+      "temporary"
+    ],
+    "common_collocations": [
+      "chronic illness",
+      "chronic disease",
+      "chronic pain"
+    ],
+    "ielts_relevance": "Essential health vocabulary — often contrasted with 'acute'.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "preventive",
+    "pronunciation": "/prɪˈventɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Intended to stop something from happening, especially illness.",
+    "urdu_meaning": "احتیاطی، حفاظتی",
+    "detailed_definition": "Designed to prevent something undesirable, especially disease, from occurring.",
+    "examples": [
+      "Preventive healthcare, such as regular check-ups, can reduce long-term costs.",
+      "Vaccination is one of the most effective preventive measures against disease."
+    ],
+    "synonyms": [
+      "precautionary",
+      "protective"
+    ],
+    "antonyms": [
+      "curative",
+      "reactive"
+    ],
+    "common_collocations": [
+      "preventive healthcare",
+      "preventive measures",
+      "preventive medicine"
+    ],
+    "ielts_relevance": "Key term in essays comparing prevention versus treatment in healthcare.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "well-being",
+    "pronunciation": "/ˌwel ˈbiːɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of being comfortable, healthy, or happy.",
+    "urdu_meaning": "خوشحالی، فلاح و بہبود",
+    "detailed_definition": "A general term for physical, mental, and social health and comfort.",
+    "examples": [
+      "Regular exercise contributes significantly to overall well-being.",
+      "Employers are increasingly focused on staff mental well-being."
+    ],
+    "synonyms": [
+      "welfare",
+      "health"
+    ],
+    "antonyms": [
+      "distress",
+      "illness"
+    ],
+    "common_collocations": [
+      "mental well-being",
+      "overall well-being",
+      "sense of well-being"
+    ],
+    "ielts_relevance": "Extremely common term for health, work, and lifestyle essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "stress",
+    "pronunciation": "/stres/",
+    "part_of_speech": "noun",
+    "simple_definition": "A state of mental or emotional strain caused by demanding circumstances.",
+    "urdu_meaning": "ذہنی دباؤ",
+    "detailed_definition": "A state of mental or emotional strain resulting from demanding or adverse circumstances.",
+    "examples": [
+      "Work-related stress is one of the leading causes of absenteeism.",
+      "Regular exercise is an effective way to relieve stress."
+    ],
+    "synonyms": [
+      "pressure",
+      "strain"
+    ],
+    "antonyms": [
+      "relaxation",
+      "calm"
+    ],
+    "common_collocations": [
+      "work-related stress",
+      "stress levels",
+      "relieve stress"
+    ],
+    "ielts_relevance": "Central to health, work, and student-life topics.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "burnout",
+    "pronunciation": "/ˈbɜːnaʊt/",
+    "part_of_speech": "noun",
+    "simple_definition": "A state of physical or emotional exhaustion caused by prolonged stress.",
+    "urdu_meaning": "شدید ذہنی و جسمانی تھکن",
+    "detailed_definition": "Physical or mental collapse caused by overwork or extended periods of stress.",
+    "examples": [
+      "Many employees report burnout after working long hours during the pandemic.",
+      "Taking regular breaks can help prevent burnout."
+    ],
+    "synonyms": [
+      "exhaustion",
+      "fatigue"
+    ],
+    "antonyms": [
+      "energy",
+      "vitality"
+    ],
+    "common_collocations": [
+      "work burnout",
+      "risk of burnout",
+      "suffer from burnout"
+    ],
+    "ielts_relevance": "Useful modern term for work-life balance essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "longevity",
+    "pronunciation": "/lɒnˈdʒevəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "A long life; the length of time something lasts.",
+    "urdu_meaning": "طویل عمری",
+    "detailed_definition": "Long life, or the length of a person's or thing's existence.",
+    "examples": [
+      "A balanced diet is closely linked to human longevity.",
+      "Scientists are studying the factors that contribute to longevity in certain populations."
+    ],
+    "synonyms": [
+      "lifespan",
+      "durability"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "human longevity",
+      "increased longevity",
+      "longevity of"
+    ],
+    "ielts_relevance": "High-level noun for essays about aging populations and health.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "ageing population",
+    "pronunciation": "/ˈeɪdʒɪŋ ˌpɒpjuˈleɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A population with an increasing proportion of older people.",
+    "urdu_meaning": "بزرگ آبادی",
+    "detailed_definition": "A demographic trend in which the average age of a population rises, usually due to longer life expectancy and lower birth rates.",
+    "examples": [
+      "Many developed countries are struggling to support a rapidly ageing population.",
+      "An ageing population places greater strain on healthcare and pension systems."
+    ],
+    "synonyms": [
+      "greying population"
+    ],
+    "antonyms": [
+      "youthful population"
+    ],
+    "common_collocations": [
+      "ageing population challenge",
+      "rapidly ageing population"
+    ],
+    "ielts_relevance": "One of the most common IELTS Writing Task 2 topics on demographics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "life expectancy",
+    "pronunciation": "/laɪf ɪkˈspektənsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The average length of time a person is expected to live.",
+    "urdu_meaning": "متوقع عمر",
+    "detailed_definition": "The average number of years a person is expected to live, based on statistical data.",
+    "examples": [
+      "Life expectancy has increased significantly due to advances in medicine.",
+      "Countries with better healthcare systems tend to have higher life expectancy."
+    ],
+    "synonyms": [
+      "lifespan"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "rising life expectancy",
+      "average life expectancy",
+      "increase life expectancy"
+    ],
+    "ielts_relevance": "Key statistic often referenced in health and demographic essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "pension",
+    "pronunciation": "/ˈpenʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Money paid regularly by the government or a former employer to someone who is retired.",
+    "urdu_meaning": "پنشن",
+    "detailed_definition": "A regular payment made to a person after they retire from work, funded by the state or an employer.",
+    "examples": [
+      "The government is raising the retirement age to reduce pension costs.",
+      "Many workers worry that their pension will not be enough to live on."
+    ],
+    "synonyms": [
+      "retirement fund"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "state pension",
+      "pension scheme",
+      "pension fund"
+    ],
+    "ielts_relevance": "Frequently connected to essays about ageing populations.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "depression",
+    "pronunciation": "/dɪˈpreʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A mental health condition causing persistent sadness and loss of interest.",
+    "urdu_meaning": "ڈپریشن، مایوسی کی بیماری",
+    "detailed_definition": "A serious mental health condition characterized by persistent feelings of sadness, hopelessness, and a loss of interest in activities.",
+    "examples": [
+      "Depression affects millions of people worldwide, yet it remains stigmatized.",
+      "Regular exercise has been shown to help reduce symptoms of depression."
+    ],
+    "synonyms": [
+      "despondency"
+    ],
+    "antonyms": [
+      "happiness",
+      "contentment"
+    ],
+    "common_collocations": [
+      "clinical depression",
+      "suffer from depression",
+      "symptoms of depression"
+    ],
+    "ielts_relevance": "Central term for mental health essays, a common IELTS topic.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "stigma",
+    "pronunciation": "/ˈstɪɡmə/",
+    "part_of_speech": "noun",
+    "simple_definition": "A mark of disgrace or negative judgment associated with something.",
+    "urdu_meaning": "بدنامی، داغ",
+    "detailed_definition": "A strong feeling of disapproval that most people in a society have about something, often unfairly.",
+    "examples": [
+      "There is still a stigma attached to seeking help for mental health issues.",
+      "Campaigns aim to reduce the stigma surrounding addiction."
+    ],
+    "synonyms": [
+      "shame",
+      "disgrace"
+    ],
+    "antonyms": [
+      "honor",
+      "acceptance"
+    ],
+    "common_collocations": [
+      "social stigma",
+      "reduce stigma",
+      "stigma attached to"
+    ],
+    "ielts_relevance": "Common in essays about mental health and social attitudes.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "holistic",
+    "pronunciation": "/həʊˈlɪstɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Considering the whole person or system, not just individual parts.",
+    "urdu_meaning": "مجموعی، کلی",
+    "detailed_definition": "Characterized by the treatment of the whole person, including mental and social factors, rather than just physical symptoms.",
+    "examples": [
+      "The clinic offers a holistic approach to treatment, addressing both mind and body.",
+      "A holistic education focuses on more than just academic achievement."
+    ],
+    "synonyms": [
+      "comprehensive",
+      "integrated"
+    ],
+    "antonyms": [
+      "narrow",
+      "partial"
+    ],
+    "common_collocations": [
+      "holistic approach",
+      "holistic healthcare",
+      "holistic view"
+    ],
+    "ielts_relevance": "High-band adjective for health and education essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "immunity",
+    "pronunciation": "/ɪˈmjuːnəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The ability of the body to resist a particular infection or disease.",
+    "urdu_meaning": "قوت مدافعت",
+    "detailed_definition": "The state of being resistant to a particular infection or toxin, often due to vaccination or prior exposure.",
+    "examples": [
+      "Vaccines help the body build immunity against specific diseases.",
+      "A healthy diet can strengthen your immune system."
+    ],
+    "synonyms": [
+      "resistance"
+    ],
+    "antonyms": [
+      "susceptibility"
+    ],
+    "common_collocations": [
+      "build immunity",
+      "immune system",
+      "herd immunity"
+    ],
+    "ielts_relevance": "Common vocabulary since the pandemic — useful in health essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "sedative",
+    "pronunciation": "/ˈsedətɪv/",
+    "part_of_speech": "noun",
+    "simple_definition": "A drug taken to calm someone or make them sleepy.",
+    "urdu_meaning": "سکون آور دوا",
+    "detailed_definition": "A medicine or substance that has a calming, soothing, or sleep-inducing effect.",
+    "examples": [
+      "The doctor prescribed a mild sedative to help with her anxiety.",
+      "Overuse of sedatives can lead to dependency."
+    ],
+    "synonyms": [
+      "tranquilizer"
+    ],
+    "antonyms": [
+      "stimulant"
+    ],
+    "common_collocations": [
+      "mild sedative",
+      "prescribe a sedative"
+    ],
+    "ielts_relevance": "Less common but useful medical vocabulary for advanced health topics.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "empathy",
+    "pronunciation": "/ˈempəθi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The ability to understand and share the feelings of another person.",
+    "urdu_meaning": "ہمدردی، دوسروں کا احساس",
+    "detailed_definition": "The ability to understand and share the feelings of another person, often leading to compassionate action.",
+    "examples": [
+      "Doctors need strong empathy to properly care for their patients.",
+      "Teaching children empathy helps them build better relationships."
+    ],
+    "synonyms": [
+      "compassion",
+      "sympathy"
+    ],
+    "antonyms": [
+      "indifference",
+      "apathy"
+    ],
+    "common_collocations": [
+      "show empathy",
+      "lack of empathy",
+      "develop empathy"
+    ],
+    "ielts_relevance": "Useful for Speaking Part 2/3 topics about relationships and personal qualities.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "resilience",
+    "pronunciation": "/rɪˈzɪliəns",
+    "part_of_speech": "noun",
+    "simple_definition": "The ability to recover quickly from difficulties.",
+    "urdu_meaning": "لچک، مشکلات سے نمٹنے کی صلاحیت",
+    "detailed_definition": "The capacity to withstand or recover quickly from difficult conditions, whether physical, emotional, or systemic.",
+    "examples": [
+      "Her resilience helped her recover quickly after the accident.",
+      "Building resilience in children helps them cope with future challenges."
+    ],
+    "synonyms": [
+      "toughness",
+      "adaptability"
+    ],
+    "antonyms": [
+      "fragility",
+      "weakness"
+    ],
+    "common_collocations": [
+      "build resilience",
+      "emotional resilience",
+      "show resilience"
+    ],
+    "ielts_relevance": "Noun form of 'resilient' — common in personal development discussions.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "altruism",
+    "pronunciation": "/ˈæltruɪzəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "Selfless concern for the well-being of others.",
+    "urdu_meaning": "ایثار، بے لوث خدمت",
+    "detailed_definition": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+    "examples": [
+      "Volunteering is often driven by a genuine sense of altruism.",
+      "Psychologists debate whether true altruism actually exists."
+    ],
+    "synonyms": [
+      "selflessness",
+      "generosity"
+    ],
+    "antonyms": [
+      "selfishness",
+      "egoism"
+    ],
+    "common_collocations": [
+      "act of altruism",
+      "genuine altruism"
+    ],
+    "ielts_relevance": "Advanced noun useful for essays about charity and human behavior.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "volunteer",
+    "pronunciation": "/ˌvɒlənˈtɪə/",
+    "part_of_speech": "verb",
+    "simple_definition": "To offer to do something without being forced or paid.",
+    "urdu_meaning": "رضاکارانہ طور پر کام کرنا",
+    "detailed_definition": "To freely offer to do something, especially unpaid work for a charitable or community cause.",
+    "examples": [
+      "Thousands of people volunteered to help after the earthquake.",
+      "She volunteers at the local hospital every weekend."
+    ],
+    "synonyms": [
+      "offer",
+      "contribute"
+    ],
+    "antonyms": [
+      "decline",
+      "refuse"
+    ],
+    "common_collocations": [
+      "volunteer work",
+      "volunteer for",
+      "volunteer abroad"
+    ],
+    "ielts_relevance": "Common in Speaking Part 1/2 about community involvement.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "philanthropy",
+    "pronunciation": "/fɪˈlænθrəpi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The practice of giving money and time to help make life better for others.",
+    "urdu_meaning": "انسانی ہمدردی، خیرات",
+    "detailed_definition": "The desire to promote the welfare of others, typically expressed through the donation of money to good causes.",
+    "examples": [
+      "The billionaire is known for his philanthropy, having donated millions to charity.",
+      "Corporate philanthropy has become an important part of company culture."
+    ],
+    "synonyms": [
+      "charity",
+      "generosity"
+    ],
+    "antonyms": [
+      "greed",
+      "selfishness"
+    ],
+    "common_collocations": [
+      "corporate philanthropy",
+      "act of philanthropy"
+    ],
+    "ielts_relevance": "High-band noun for essays about charity and social responsibility.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "inequality",
+    "pronunciation": "/ˌɪnɪˈkwɒləti/",
+    "part_of_speech": "noun",
+    "simple_definition": "Unfair difference between groups of people in society.",
+    "urdu_meaning": "عدم مساوات",
+    "detailed_definition": "Lack of equality, especially with regard to status, rights, and opportunities among different groups in society.",
+    "examples": [
+      "Income inequality has widened significantly over the past thirty years.",
+      "Gender inequality remains a persistent issue in many workplaces."
+    ],
+    "synonyms": [
+      "disparity",
+      "imbalance"
+    ],
+    "antonyms": [
+      "equality",
+      "fairness"
+    ],
+    "common_collocations": [
+      "income inequality",
+      "gender inequality",
+      "social inequality"
+    ],
+    "ielts_relevance": "One of the most tested IELTS Writing Task 2 topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "discrimination",
+    "pronunciation": "/dɪˌskrɪmɪˈneɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Unfair treatment of a person or group based on characteristics like race or gender.",
+    "urdu_meaning": "امتیازی سلوک",
+    "detailed_definition": "The unjust treatment of different categories of people, especially on the grounds of race, age, sex, or disability.",
+    "examples": [
+      "The company faced a lawsuit over workplace discrimination.",
+      "Laws exist to prevent discrimination based on gender or religion."
+    ],
+    "synonyms": [
+      "prejudice",
+      "bias"
+    ],
+    "antonyms": [
+      "equality",
+      "fairness"
+    ],
+    "common_collocations": [
+      "gender discrimination",
+      "racial discrimination",
+      "face discrimination"
+    ],
+    "ielts_relevance": "Extremely common IELTS topic — pairs with 'inequality' and 'stereotype'.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "marginalized",
+    "pronunciation": "/ˈmɑːdʒɪnəlaɪzd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Treated as unimportant or pushed to the edge of society.",
+    "urdu_meaning": "پسماندہ، نظر انداز شدہ",
+    "detailed_definition": "Treated as insignificant or peripheral, often referring to groups excluded from mainstream social, economic, or political activity.",
+    "examples": [
+      "The policy aims to give marginalized communities better access to education.",
+      "Refugees are often among the most marginalized groups in society."
+    ],
+    "synonyms": [
+      "disadvantaged",
+      "excluded"
+    ],
+    "antonyms": [
+      "mainstream",
+      "included"
+    ],
+    "common_collocations": [
+      "marginalized communities",
+      "marginalized groups",
+      "feel marginalized"
+    ],
+    "ielts_relevance": "High-band adjective for essays about inequality and social exclusion.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "welfare",
+    "pronunciation": "/ˈwelfeə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The health, happiness, and safety of a person or group; also government financial aid.",
+    "urdu_meaning": "فلاح و بہبود، سرکاری امداد",
+    "detailed_definition": "The general well-being of a person or group, or financial and other support provided by the government to those in need.",
+    "examples": [
+      "The organization works to protect the welfare of stray animals.",
+      "The government increased welfare payments to support low-income families."
+    ],
+    "synonyms": [
+      "well-being",
+      "benefit"
+    ],
+    "antonyms": [
+      "neglect",
+      "harm"
+    ],
+    "common_collocations": [
+      "social welfare",
+      "welfare system",
+      "child welfare"
+    ],
+    "ielts_relevance": "Common in essays about government spending and social policy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "bureaucracy",
+    "pronunciation": "/bjʊəˈrɒkrəsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "A system of government or organization with many rules and levels of officials.",
+    "urdu_meaning": "لالفیتہ شاہی، سرکاری کاغذی کارروائی",
+    "detailed_definition": "A system of administration characterized by extensive procedures, rules, and hierarchies, often seen as slow or inefficient.",
+    "examples": [
+      "Excessive bureaucracy can delay important government decisions.",
+      "Small businesses often struggle with the bureaucracy involved in registration."
+    ],
+    "synonyms": [
+      "red tape",
+      "administration"
+    ],
+    "antonyms": [
+      "efficiency"
+    ],
+    "common_collocations": [
+      "cut bureaucracy",
+      "government bureaucracy",
+      "bureaucratic process"
+    ],
+    "ielts_relevance": "Useful for essays criticizing government inefficiency.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "legislation",
+    "pronunciation": "/ˌledʒɪsˈleɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Laws considered collectively.",
+    "urdu_meaning": "قانون سازی",
+    "detailed_definition": "A law or set of laws suggested by a government and made official by a parliament or similar body.",
+    "examples": [
+      "New legislation was passed to reduce plastic waste.",
+      "The government introduced legislation to protect workers' rights."
+    ],
+    "synonyms": [
+      "law",
+      "statute"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "pass legislation",
+      "introduce legislation",
+      "strict legislation"
+    ],
+    "ielts_relevance": "Common in essays about government policy and regulation.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "regulation",
+    "pronunciation": "/ˌreɡjuˈleɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "An official rule made and enforced by an authority.",
+    "urdu_meaning": "ضابطہ، قاعدہ",
+    "detailed_definition": "A rule or directive made and maintained by an authority, especially to control conduct or practice.",
+    "examples": [
+      "Stricter regulations on emissions have reduced pollution levels.",
+      "The industry is subject to strict safety regulations."
+    ],
+    "synonyms": [
+      "rule",
+      "law"
+    ],
+    "antonyms": [
+      "deregulation"
+    ],
+    "common_collocations": [
+      "strict regulations",
+      "government regulation",
+      "safety regulations"
+    ],
+    "ielts_relevance": "Common across environment, business, and government essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "accountability",
+    "pronunciation": "/əˌkaʊntəˈbɪləti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of being responsible and answerable for one's actions.",
+    "urdu_meaning": "جوابدہی",
+    "detailed_definition": "The fact or condition of being accountable, especially the obligation to accept responsibility and explain one's actions.",
+    "examples": [
+      "Politicians must be held accountable for the decisions they make.",
+      "The company introduced new measures to improve accountability."
+    ],
+    "synonyms": [
+      "responsibility",
+      "answerability"
+    ],
+    "antonyms": [
+      "irresponsibility"
+    ],
+    "common_collocations": [
+      "hold accountable",
+      "lack of accountability",
+      "demand accountability"
+    ],
+    "ielts_relevance": "Common in essays about government and corporate transparency.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "transparency",
+    "pronunciation": "/trænsˈpærənsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "Openness and honesty in the way decisions and information are handled.",
+    "urdu_meaning": "شفافیت",
+    "detailed_definition": "The quality of being open, honest, and easy to see through in operations, decisions, or communication.",
+    "examples": [
+      "Voters are demanding greater transparency from their elected officials.",
+      "The company improved transparency by publishing its financial reports."
+    ],
+    "synonyms": [
+      "openness",
+      "clarity"
+    ],
+    "antonyms": [
+      "secrecy",
+      "opacity"
+    ],
+    "common_collocations": [
+      "lack of transparency",
+      "demand transparency",
+      "government transparency"
+    ],
+    "ielts_relevance": "Frequently paired with 'accountability' in government essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "corruption",
+    "pronunciation": "/kəˈrʌpʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "Dishonest or illegal behavior, especially by people in power.",
+    "urdu_meaning": "بدعنوانی، کرپشن",
+    "detailed_definition": "Dishonest or fraudulent conduct by those in power, typically involving bribery.",
+    "examples": [
+      "Corruption remains a major obstacle to economic development in some countries.",
+      "The new leader promised to fight corruption within the government."
+    ],
+    "synonyms": [
+      "bribery",
+      "fraud"
+    ],
+    "antonyms": [
+      "integrity",
+      "honesty"
+    ],
+    "common_collocations": [
+      "political corruption",
+      "fight corruption",
+      "widespread corruption"
+    ],
+    "ielts_relevance": "Common in essays about government and economic development.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "urbanization",
+    "pronunciation": "/ˌɜːbənaɪˈzeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process by which more people move to live in cities.",
+    "urdu_meaning": "شہری کاری",
+    "detailed_definition": "The process of an increasing proportion of a population coming to live in towns and cities.",
+    "examples": [
+      "Rapid urbanization has put pressure on housing and infrastructure.",
+      "Urbanization often leads to overcrowding in major cities."
+    ],
+    "synonyms": [
+      "city growth"
+    ],
+    "antonyms": [
+      "ruralization"
+    ],
+    "common_collocations": [
+      "rapid urbanization",
+      "effects of urbanization",
+      "urbanization process"
+    ],
+    "ielts_relevance": "Extremely common IELTS topic linking to housing, transport, and environment.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "congestion",
+    "pronunciation": "/kənˈdʒestʃən/",
+    "part_of_speech": "noun",
+    "simple_definition": "Overcrowding, especially of traffic.",
+    "urdu_meaning": "ہجوم، ٹریفک جام",
+    "detailed_definition": "A state of being overcrowded or overfull, particularly used for heavy traffic.",
+    "examples": [
+      "Traffic congestion in the city center has worsened over the past decade.",
+      "The new metro line was built to relieve congestion."
+    ],
+    "synonyms": [
+      "overcrowding",
+      "gridlock"
+    ],
+    "antonyms": [
+      "free flow"
+    ],
+    "common_collocations": [
+      "traffic congestion",
+      "relieve congestion",
+      "severe congestion"
+    ],
+    "ielts_relevance": "Core term for essays about urbanization and transport.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "infrastructure",
+    "pronunciation": "/ˈɪnfrəstrʌktʃə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The basic physical systems of a country, such as roads and power supplies.",
+    "urdu_meaning": "بنیادی ڈھانچہ",
+    "detailed_definition": "The basic physical and organizational structures needed for the operation of a society, such as roads, bridges, and utilities.",
+    "examples": [
+      "The government is investing heavily in transport infrastructure.",
+      "Poor infrastructure remains a barrier to economic growth in rural areas."
+    ],
+    "synonyms": [
+      "framework",
+      "facilities"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "public infrastructure",
+      "infrastructure development",
+      "invest in infrastructure"
+    ],
+    "ielts_relevance": "Essential noun for essays about government spending and urbanization.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "commute",
+    "pronunciation": "/kəˈmjuːt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To travel regularly between home and work.",
+    "urdu_meaning": "روزانہ سفر کرنا (کام کے لیے)",
+    "detailed_definition": "To travel some distance between one's home and place of work on a regular basis.",
+    "examples": [
+      "Many people commute over an hour each way to work in the city.",
+      "She decided to commute by bicycle to reduce her carbon footprint."
+    ],
+    "synonyms": [
+      "travel"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "daily commute",
+      "commute to work",
+      "long commute"
+    ],
+    "ielts_relevance": "Common in Speaking Part 1 questions about daily routines.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "public transport",
+    "pronunciation": "/ˈpʌblɪk ˈtrænspɔːt/",
+    "part_of_speech": "noun",
+    "simple_definition": "Buses, trains, and other transport available to the general public.",
+    "urdu_meaning": "عوامی نقل و حمل",
+    "detailed_definition": "A system of transport, such as buses and trains, that is available to the public and runs on fixed routes and timetables.",
+    "examples": [
+      "Investing in public transport can significantly reduce traffic congestion.",
+      "Many cities are making public transport free to encourage its use."
+    ],
+    "synonyms": [
+      "mass transit"
+    ],
+    "antonyms": [
+      "private transport"
+    ],
+    "common_collocations": [
+      "use public transport",
+      "public transport system",
+      "improve public transport"
+    ],
+    "ielts_relevance": "Core vocabulary for transport and urbanization essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "gentrification",
+    "pronunciation": "/ˌdʒentrɪfɪˈkeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of a poor area becoming wealthier as new residents move in.",
+    "urdu_meaning": "علاقے کی معیار زندگی میں بہتری (امیر افراد کی آمد سے)",
+    "detailed_definition": "The process by which a neighborhood changes from being poor to affluent, often displacing original lower-income residents.",
+    "examples": [
+      "Gentrification has driven up housing prices in many historic neighborhoods.",
+      "Critics argue that gentrification pushes out long-term residents."
+    ],
+    "synonyms": [
+      "urban renewal"
+    ],
+    "antonyms": [
+      "urban decay"
+    ],
+    "common_collocations": [
+      "rapid gentrification",
+      "effects of gentrification"
+    ],
+    "ielts_relevance": "Advanced noun useful for high-band essays about housing and cities.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "affordable",
+    "pronunciation": "/əˈfɔːdəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not too expensive; reasonably priced.",
+    "urdu_meaning": "سستا، قابل استطاعت",
+    "detailed_definition": "Inexpensive enough to be within a person's financial means.",
+    "examples": [
+      "The lack of affordable housing is a major issue in big cities.",
+      "The government promised more affordable healthcare for low-income families."
+    ],
+    "synonyms": [
+      "reasonably priced",
+      "inexpensive"
+    ],
+    "antonyms": [
+      "expensive",
+      "costly"
+    ],
+    "common_collocations": [
+      "affordable housing",
+      "affordable price",
+      "more affordable"
+    ],
+    "ielts_relevance": "Extremely common in housing and economy essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "skyrocket",
+    "pronunciation": "/ˈskaɪrɒkɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To increase very quickly and to a very high level.",
+    "urdu_meaning": "تیزی سے بڑھنا",
+    "detailed_definition": "To rise very rapidly and dramatically in amount, price, or value.",
+    "examples": [
+      "House prices have skyrocketed in the past five years.",
+      "Demand for the product skyrocketed after the celebrity endorsement."
+    ],
+    "synonyms": [
+      "soar",
+      "surge"
+    ],
+    "antonyms": [
+      "plummet",
+      "plunge"
+    ],
+    "common_collocations": [
+      "prices skyrocket",
+      "costs have skyrocketed"
+    ],
+    "ielts_relevance": "Vivid verb for describing rapid increases in data-based essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "plummet",
+    "pronunciation": "/ˈplʌmɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To fall or drop suddenly and steeply.",
+    "urdu_meaning": "تیزی سے گرنا",
+    "detailed_definition": "To fall or drop straight down at high speed; used figuratively for a rapid decrease in value or amount.",
+    "examples": [
+      "Stock prices plummeted after the announcement of new tariffs.",
+      "Tourist numbers plummeted during the pandemic."
+    ],
+    "synonyms": [
+      "plunge",
+      "nosedive"
+    ],
+    "antonyms": [
+      "skyrocket",
+      "soar"
+    ],
+    "common_collocations": [
+      "prices plummet",
+      "sales plummeted",
+      "plummet to a record low"
+    ],
+    "ielts_relevance": "Opposite of 'skyrocket' — useful pair for describing graph trends in Task 1.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "fluctuate",
+    "pronunciation": "/ˈflʌktʃueɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To rise and fall irregularly in amount or level.",
+    "urdu_meaning": "اتار چڑھاؤ آنا",
+    "detailed_definition": "To rise and fall irregularly in number or amount; to vary in an unpredictable way.",
+    "examples": [
+      "Currency exchange rates fluctuate constantly throughout the day.",
+      "Her mood tends to fluctuate depending on how much sleep she gets."
+    ],
+    "synonyms": [
+      "vary",
+      "oscillate"
+    ],
+    "antonyms": [
+      "stabilize",
+      "remain constant"
+    ],
+    "common_collocations": [
+      "fluctuate wildly",
+      "prices fluctuate",
+      "fluctuating demand"
+    ],
+    "ielts_relevance": "Essential for describing graphs and charts in Writing Task 1.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "stagnate",
+    "pronunciation": "/stæɡˈneɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To stop developing or making progress.",
+    "urdu_meaning": "جمود کا شکار ہونا",
+    "detailed_definition": "To fail to develop, progress, or move, often used to describe an economy or a person's career.",
+    "examples": [
+      "Wages have stagnated for years despite rising living costs.",
+      "The economy stagnated during the years of political instability."
+    ],
+    "synonyms": [
+      "stall",
+      "plateau"
+    ],
+    "antonyms": [
+      "grow",
+      "flourish"
+    ],
+    "common_collocations": [
+      "wages stagnate",
+      "economy stagnates",
+      "stagnant growth"
+    ],
+    "ielts_relevance": "Useful verb for describing flat trends in Task 1 line graphs.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "surge",
+    "pronunciation": "/sɜːdʒ/",
+    "part_of_speech": "noun",
+    "simple_definition": "A sudden powerful increase.",
+    "urdu_meaning": "اچانک اضافہ، اضافے کی لہر",
+    "detailed_definition": "A sudden and significant increase in the amount, degree, or intensity of something.",
+    "examples": [
+      "There was a surge in demand for face masks during the pandemic.",
+      "The city experienced a surge in tourism after the new airport opened."
+    ],
+    "synonyms": [
+      "spike",
+      "upswing"
+    ],
+    "antonyms": [
+      "decline",
+      "drop"
+    ],
+    "common_collocations": [
+      "surge in demand",
+      "sudden surge",
+      "population surge"
+    ],
+    "ielts_relevance": "Common Task 1 vocabulary for describing sharp rises in data.",
+    "difficulty_level": "B1"
+  }
+]

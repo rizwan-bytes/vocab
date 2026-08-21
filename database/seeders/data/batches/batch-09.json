@@ -1,0 +1,1012 @@
+[
+  {
+    "word": "mandatory",
+    "pronunciation": "/ˈmændətəri/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Required by law or rule; compulsory.",
+    "urdu_meaning": "لازمی، واجب",
+    "detailed_definition": "Required by law or a set of rules; obligatory, not optional.",
+    "examples": [
+      "Wearing a seatbelt is mandatory in most countries.",
+      "Attendance at the training session is mandatory for all staff."
+    ],
+    "synonyms": [
+      "compulsory",
+      "obligatory"
+    ],
+    "antonyms": [
+      "optional",
+      "voluntary"
+    ],
+    "common_collocations": [
+      "mandatory requirement",
+      "make mandatory",
+      "mandatory training"
+    ],
+    "ielts_relevance": "Common in essays about government policy and education rules.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "compulsory",
+    "pronunciation": "/kəmˈpʌlsəri/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Required by law or a rule; must be done.",
+    "urdu_meaning": "لازمی",
+    "detailed_definition": "Required by law or a rule; obligatory.",
+    "examples": [
+      "Compulsory education continues until the age of sixteen in many countries.",
+      "Some argue that military service should be compulsory for young adults."
+    ],
+    "synonyms": [
+      "mandatory",
+      "obligatory"
+    ],
+    "antonyms": [
+      "voluntary",
+      "optional"
+    ],
+    "common_collocations": [
+      "compulsory education",
+      "compulsory subject",
+      "make compulsory"
+    ],
+    "ielts_relevance": "Common Task 2 topic word, especially education essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "voluntary",
+    "pronunciation": "/ˈvɒləntəri/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Done or given willingly, without being forced or paid.",
+    "urdu_meaning": "رضاکارانہ",
+    "detailed_definition": "Done, given, or acting of one's own free will, without being paid or forced.",
+    "examples": [
+      "She spends her weekends doing voluntary work at a local shelter.",
+      "Participation in the survey is entirely voluntary."
+    ],
+    "synonyms": [
+      "optional",
+      "unpaid"
+    ],
+    "antonyms": [
+      "compulsory",
+      "mandatory"
+    ],
+    "common_collocations": [
+      "voluntary work",
+      "purely voluntary",
+      "voluntary basis"
+    ],
+    "ielts_relevance": "Opposite of compulsory — common in policy essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "acquire",
+    "pronunciation": "/əˈkwaɪə/",
+    "part_of_speech": "verb",
+    "simple_definition": "To gain or obtain something, especially through effort.",
+    "urdu_meaning": "حاصل کرنا",
+    "detailed_definition": "To buy or obtain an object or asset for oneself; to learn or develop a skill or quality.",
+    "examples": [
+      "Children acquire language skills remarkably quickly.",
+      "The company acquired a smaller competitor last year."
+    ],
+    "synonyms": [
+      "obtain",
+      "gain"
+    ],
+    "antonyms": [
+      "lose",
+      "forfeit"
+    ],
+    "common_collocations": [
+      "acquire skills",
+      "acquire knowledge",
+      "acquire a company"
+    ],
+    "ielts_relevance": "Common verb for describing learning and development.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "comprehend",
+    "pronunciation": "/ˌkɒmprɪˈhend/",
+    "part_of_speech": "verb",
+    "simple_definition": "To understand something fully.",
+    "urdu_meaning": "سمجھنا",
+    "detailed_definition": "To grasp mentally; to understand fully.",
+    "examples": [
+      "Young children may struggle to comprehend abstract concepts.",
+      "It's hard to comprehend the sheer scale of the disaster."
+    ],
+    "synonyms": [
+      "understand",
+      "grasp"
+    ],
+    "antonyms": [
+      "misunderstand"
+    ],
+    "common_collocations": [
+      "fully comprehend",
+      "difficult to comprehend"
+    ],
+    "ielts_relevance": "Formal synonym for 'understand' in academic writing.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "retain",
+    "pronunciation": "/rɪˈteɪn/",
+    "part_of_speech": "verb",
+    "simple_definition": "To continue to have or keep something.",
+    "urdu_meaning": "برقرار رکھنا",
+    "detailed_definition": "To continue to have, hold, or keep something; to keep information in one's mind.",
+    "examples": [
+      "Students often struggle to retain information learned through rote memorization.",
+      "The company managed to retain most of its customers during the crisis."
+    ],
+    "synonyms": [
+      "keep",
+      "preserve"
+    ],
+    "antonyms": [
+      "lose",
+      "discard"
+    ],
+    "common_collocations": [
+      "retain information",
+      "retain customers",
+      "retain control"
+    ],
+    "ielts_relevance": "Common in education essays about memory and learning methods.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "grasp",
+    "pronunciation": "/ɡrɑːsp/",
+    "part_of_speech": "verb",
+    "simple_definition": "To understand something fully or firmly.",
+    "urdu_meaning": "سمجھنا، پکڑنا",
+    "detailed_definition": "To seize and hold firmly; to understand a difficult idea or subject fully.",
+    "examples": [
+      "It took her a while to grasp the basic principles of economics.",
+      "He has a firm grasp of several foreign languages."
+    ],
+    "synonyms": [
+      "understand",
+      "comprehend"
+    ],
+    "antonyms": [
+      "misunderstand"
+    ],
+    "common_collocations": [
+      "grasp the concept",
+      "firm grasp",
+      "fail to grasp"
+    ],
+    "ielts_relevance": "Useful informal-to-formal verb for describing understanding.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "stimulate",
+    "pronunciation": "/ˈstɪmjʊleɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To encourage development or increased activity.",
+    "urdu_meaning": "ابھارنا، تحریک دینا",
+    "detailed_definition": "To encourage an increase in activity, interest, or development; to arouse or spur on.",
+    "examples": [
+      "Reading to young children helps stimulate their imagination.",
+      "Tax cuts are often used to stimulate economic growth."
+    ],
+    "synonyms": [
+      "encourage",
+      "stir"
+    ],
+    "antonyms": [
+      "suppress",
+      "discourage"
+    ],
+    "common_collocations": [
+      "stimulate growth",
+      "stimulate creativity",
+      "stimulate the economy"
+    ],
+    "ielts_relevance": "Common verb for education and economy topics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "motivate",
+    "pronunciation": "/ˈməʊtɪveɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To give someone a reason or desire to do something.",
+    "urdu_meaning": "ترغیب دینا",
+    "detailed_definition": "To provide someone with a motive or incentive to do something.",
+    "examples": [
+      "Good teachers know how to motivate students who have lost interest.",
+      "Financial rewards alone may not be enough to motivate employees."
+    ],
+    "synonyms": [
+      "inspire",
+      "encourage"
+    ],
+    "antonyms": [
+      "discourage",
+      "demotivate"
+    ],
+    "common_collocations": [
+      "motivate students",
+      "highly motivated",
+      "motivate employees"
+    ],
+    "ielts_relevance": "Extremely common verb in education and work essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "assess",
+    "pronunciation": "/əˈses/",
+    "part_of_speech": "verb",
+    "simple_definition": "To evaluate or estimate the nature or quality of something.",
+    "urdu_meaning": "جانچنا، تشخیص کرنا",
+    "detailed_definition": "To evaluate or estimate the nature, ability, or quality of something.",
+    "examples": [
+      "Teachers use exams to assess students' understanding of the material.",
+      "It is difficult to assess the long-term impact of the policy."
+    ],
+    "synonyms": [
+      "evaluate",
+      "gauge"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "assess performance",
+      "carefully assess",
+      "assess the risk"
+    ],
+    "ielts_relevance": "Essential verb for discussing evaluation methods, especially education.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "evaluate",
+    "pronunciation": "/ɪˈvæljueɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To judge or determine the value or quality of something.",
+    "urdu_meaning": "تجزیہ کرنا",
+    "detailed_definition": "To form an idea of the amount, number, or value of something; to assess.",
+    "examples": [
+      "It's important to evaluate all the available options before making a decision.",
+      "Employees are evaluated annually based on their performance."
+    ],
+    "synonyms": [
+      "assess",
+      "appraise"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "evaluate performance",
+      "critically evaluate",
+      "evaluate the results"
+    ],
+    "ielts_relevance": "Common academic verb useful across many essay types.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "demonstrate",
+    "pronunciation": "/ˈdemənstreɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To clearly show that something exists or is true.",
+    "urdu_meaning": "ظاہر کرنا، ثابت کرنا",
+    "detailed_definition": "To clearly show the existence or truth of something by giving proof or evidence.",
+    "examples": [
+      "The study demonstrates a clear link between diet and heart disease.",
+      "She demonstrated great leadership during the crisis."
+    ],
+    "synonyms": [
+      "show",
+      "prove"
+    ],
+    "antonyms": [
+      "disprove"
+    ],
+    "common_collocations": [
+      "demonstrate that",
+      "clearly demonstrate",
+      "demonstrate skills"
+    ],
+    "ielts_relevance": "Common formal verb for presenting evidence in essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "illustrate",
+    "pronunciation": "/ˈɪləstreɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To explain or make clear by using examples.",
+    "urdu_meaning": "واضح کرنا، مثال دینا",
+    "detailed_definition": "To explain or make something clear by using examples, charts, or pictures.",
+    "examples": [
+      "The graph illustrates the sharp rise in unemployment during the recession.",
+      "Let me illustrate this point with a real-life example."
+    ],
+    "synonyms": [
+      "exemplify",
+      "depict"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "illustrate a point",
+      "aptly illustrate",
+      "graph illustrates"
+    ],
+    "ielts_relevance": "Extremely important for Task 1 essays describing charts/graphs.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "depict",
+    "pronunciation": "/dɪˈpɪkt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To represent or show something in a picture or words.",
+    "urdu_meaning": "تصویر کشی کرنا",
+    "detailed_definition": "To represent or portray someone or something in a painting, drawing, or in words.",
+    "examples": [
+      "The chart depicts the changes in global temperature over the last century.",
+      "The novel depicts life in a small rural village."
+    ],
+    "synonyms": [
+      "portray",
+      "illustrate"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "chart depicts",
+      "vividly depict"
+    ],
+    "ielts_relevance": "Useful synonym for 'show' in Task 1 introductions.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "indicate",
+    "pronunciation": "/ˈɪndɪkeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To point out or show something, often as a sign.",
+    "urdu_meaning": "ظاہر کرنا، اشارہ کرنا",
+    "detailed_definition": "To point out; to show or make known; to be a sign of something.",
+    "examples": [
+      "The data indicates a steady decline in birth rates over the past decade.",
+      "Recent studies indicate a strong link between sleep and productivity."
+    ],
+    "synonyms": [
+      "show",
+      "suggest"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "data indicates",
+      "clearly indicate",
+      "indicate a trend"
+    ],
+    "ielts_relevance": "One of the most common verbs for describing Task 1 data.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "plateau",
+    "pronunciation": "/ˈplætəʊ/",
+    "part_of_speech": "verb",
+    "simple_definition": "To reach a stable, level state after a period of change.",
+    "urdu_meaning": "ٹھہراؤ آنا، مستحکم ہونا",
+    "detailed_definition": "To reach a state of little or no change after a period of activity or progress; to level off.",
+    "examples": [
+      "Sales plateaued in the third quarter after two years of steady growth.",
+      "The number of new cases has plateaued in recent weeks."
+    ],
+    "synonyms": [
+      "level off",
+      "stabilize"
+    ],
+    "antonyms": [
+      "fluctuate",
+      "surge"
+    ],
+    "common_collocations": [
+      "sales plateaued",
+      "growth plateaued"
+    ],
+    "ielts_relevance": "High-value Task 1 verb for describing a flat trend after change.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "peak",
+    "pronunciation": "/piːk/",
+    "part_of_speech": "verb",
+    "simple_definition": "To reach the highest point or value.",
+    "urdu_meaning": "عروج پر پہنچنا",
+    "detailed_definition": "To reach a maximum value, level, or degree.",
+    "examples": [
+      "Tourist numbers typically peak during the summer months.",
+      "Unemployment peaked at over ten percent during the recession."
+    ],
+    "synonyms": [
+      "culminate",
+      "top out"
+    ],
+    "antonyms": [
+      "bottom out",
+      "trough"
+    ],
+    "common_collocations": [
+      "peaked at",
+      "demand peaks",
+      "peak season"
+    ],
+    "ielts_relevance": "Fundamental Task 1 verb for describing the highest point on a graph.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "soar",
+    "pronunciation": "/sɔː/",
+    "part_of_speech": "verb",
+    "simple_definition": "To increase rapidly and to a high level.",
+    "urdu_meaning": "تیزی سے بلند ہونا",
+    "detailed_definition": "To rise rapidly to a high level or degree; to fly high in the air.",
+    "examples": [
+      "Housing prices have soared in major cities over the last decade.",
+      "Demand for electric vehicles is expected to soar in coming years."
+    ],
+    "synonyms": [
+      "skyrocket",
+      "surge"
+    ],
+    "antonyms": [
+      "plummet",
+      "plunge"
+    ],
+    "common_collocations": [
+      "prices soar",
+      "soar to new heights",
+      "costs soared"
+    ],
+    "ielts_relevance": "Strong Task 1 verb for a dramatic upward trend.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "level off",
+    "pronunciation": "/ˈlevl ɒf/",
+    "part_of_speech": "verb",
+    "simple_definition": "To stop rising or falling and become steady.",
+    "urdu_meaning": "مستحکم ہو جانا",
+    "detailed_definition": "To stop increasing or decreasing and remain at a steady level.",
+    "examples": [
+      "After a period of rapid growth, the market began to level off.",
+      "Inflation is expected to level off by the end of the year."
+    ],
+    "synonyms": [
+      "stabilize",
+      "plateau"
+    ],
+    "antonyms": [
+      "fluctuate"
+    ],
+    "common_collocations": [
+      "level off at",
+      "begin to level off"
+    ],
+    "ielts_relevance": "Common Task 1 phrasal verb for describing stabilizing trends.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "overtake",
+    "pronunciation": "/ˌəʊvəˈteɪk/",
+    "part_of_speech": "verb",
+    "simple_definition": "To go past and become greater or more successful.",
+    "urdu_meaning": "آگے نکل جانا",
+    "detailed_definition": "To surpass or become greater than another in number, importance, or value.",
+    "examples": [
+      "China is expected to overtake the US as the world's largest economy.",
+      "Renewable energy usage overtook coal for the first time last year."
+    ],
+    "synonyms": [
+      "surpass",
+      "exceed"
+    ],
+    "antonyms": [
+      "lag behind",
+      "trail"
+    ],
+    "common_collocations": [
+      "overtake as",
+      "expected to overtake"
+    ],
+    "ielts_relevance": "Common Task 1 verb for comparing two data series crossing.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "surpass",
+    "pronunciation": "/səˈpɑːs/",
+    "part_of_speech": "verb",
+    "simple_definition": "To do or be better than someone or something else.",
+    "urdu_meaning": "بڑھ جانا، سبقت لے جانا",
+    "detailed_definition": "To exceed or do better than a person, thing, or figure.",
+    "examples": [
+      "The new smartphone's sales figures have surpassed all expectations.",
+      "Her performance in the exam surpassed everyone's expectations."
+    ],
+    "synonyms": [
+      "exceed",
+      "outdo"
+    ],
+    "antonyms": [
+      "fall short of"
+    ],
+    "common_collocations": [
+      "surpass expectations",
+      "far surpass"
+    ],
+    "ielts_relevance": "Formal synonym for 'overtake' or 'exceed' in Task 1 and 2.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "proportion",
+    "pronunciation": "/prəˈpɔːʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A part or share of a whole, especially in relation to it.",
+    "urdu_meaning": "تناسب، حصہ",
+    "detailed_definition": "A part, share, or number considered in comparative relation to a whole.",
+    "examples": [
+      "A large proportion of the population now lives in urban areas.",
+      "Only a small proportion of applicants are accepted each year."
+    ],
+    "synonyms": [
+      "fraction",
+      "share"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "large proportion",
+      "small proportion",
+      "proportion of"
+    ],
+    "ielts_relevance": "Essential noun for Task 1 pie chart and percentage descriptions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "majority",
+    "pronunciation": "/məˈdʒɒrəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The greater number or part of something; more than half.",
+    "urdu_meaning": "اکثریت",
+    "detailed_definition": "The greater number or part of a group of people or things; more than half of a total.",
+    "examples": [
+      "The majority of respondents said they were satisfied with the service.",
+      "A clear majority voted in favor of the new policy."
+    ],
+    "synonyms": [
+      "most",
+      "bulk"
+    ],
+    "antonyms": [
+      "minority"
+    ],
+    "common_collocations": [
+      "vast majority",
+      "majority of",
+      "overwhelming majority"
+    ],
+    "ielts_relevance": "Essential quantifying noun for Task 1 and general essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "minority",
+    "pronunciation": "/maɪˈnɒrəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The smaller part or number of a group; less than half.",
+    "urdu_meaning": "اقلیت",
+    "detailed_definition": "The smaller part or number, especially a group that differs from a larger group of which it is a part.",
+    "examples": [
+      "Only a minority of employees chose to work from home full-time.",
+      "Ethnic minorities often face additional barriers to employment."
+    ],
+    "synonyms": [
+      "fewer",
+      "small number"
+    ],
+    "antonyms": [
+      "majority"
+    ],
+    "common_collocations": [
+      "ethnic minority",
+      "small minority",
+      "minority group"
+    ],
+    "ielts_relevance": "Opposite of majority — common in social essays and Task 1.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "statistics",
+    "pronunciation": "/stəˈtɪstɪks/",
+    "part_of_speech": "noun",
+    "simple_definition": "Numerical data collected and analyzed for information.",
+    "urdu_meaning": "اعداد و شمار",
+    "detailed_definition": "A collection of numerical facts or data; the science of collecting and analyzing such data.",
+    "examples": [
+      "According to recent statistics, crime rates have fallen in the city.",
+      "The statistics reveal a worrying trend in youth unemployment."
+    ],
+    "synonyms": [
+      "data",
+      "figures"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "according to statistics",
+      "official statistics",
+      "statistics show"
+    ],
+    "ielts_relevance": "Common noun for referencing data sources in essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "outcome",
+    "pronunciation": "/ˈaʊtkʌm/",
+    "part_of_speech": "noun",
+    "simple_definition": "The result or consequence of an action or event.",
+    "urdu_meaning": "نتیجہ",
+    "detailed_definition": "The way a thing turns out; a consequence or result.",
+    "examples": [
+      "The outcome of the negotiations remains uncertain.",
+      "Regular exercise leads to better health outcomes overall."
+    ],
+    "synonyms": [
+      "result",
+      "consequence"
+    ],
+    "antonyms": [
+      "cause"
+    ],
+    "common_collocations": [
+      "positive outcome",
+      "health outcomes",
+      "the outcome of"
+    ],
+    "ielts_relevance": "Common noun for discussing results in Task 2 conclusions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "implication",
+    "pronunciation": "/ˌɪmplɪˈkeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A likely consequence of something, often not directly stated.",
+    "urdu_meaning": "مضمرات، اثرات",
+    "detailed_definition": "A conclusion that can be drawn from something although it is not explicitly stated; a likely consequence.",
+    "examples": [
+      "The policy has serious implications for small businesses.",
+      "We must consider the long-term implications of this decision."
+    ],
+    "synonyms": [
+      "consequence",
+      "effect"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "serious implications",
+      "long-term implications",
+      "have implications for"
+    ],
+    "ielts_relevance": "High-band noun for discussing indirect effects.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "repercussion",
+    "pronunciation": "/ˌriːpəˈkʌʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "An unintended consequence, often negative, occurring some time later.",
+    "urdu_meaning": "بازگشت، ردعمل",
+    "detailed_definition": "An unintended consequence of an event or action, occurring some time afterward.",
+    "examples": [
+      "The scandal had serious repercussions for the company's reputation.",
+      "Cutting funding for public transport could have negative repercussions on the environment."
+    ],
+    "synonyms": [
+      "consequence",
+      "aftermath"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "serious repercussions",
+      "negative repercussions",
+      "have repercussions"
+    ],
+    "ielts_relevance": "High-band synonym for consequence, often negative.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "initiative",
+    "pronunciation": "/ɪˈnɪʃətɪv/",
+    "part_of_speech": "noun",
+    "simple_definition": "A new plan or process to achieve a goal; the ability to act independently.",
+    "urdu_meaning": "پہل، اقدام",
+    "detailed_definition": "A new plan or process to achieve something or solve a problem; the ability to assess and act independently.",
+    "examples": [
+      "The government launched a new initiative to reduce plastic waste.",
+      "Employers value staff who show initiative rather than waiting for instructions."
+    ],
+    "synonyms": [
+      "scheme",
+      "plan"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "launch an initiative",
+      "take the initiative",
+      "government initiative"
+    ],
+    "ielts_relevance": "Common noun for describing solutions and personal qualities.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "allocate",
+    "pronunciation": "/ˈæləkeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To officially give resources for a particular purpose.",
+    "urdu_meaning": "مختص کرنا",
+    "detailed_definition": "To distribute resources or duties for a particular purpose.",
+    "examples": [
+      "The government has allocated more funds to public healthcare this year.",
+      "Each team member was allocated a specific task for the project."
+    ],
+    "synonyms": [
+      "assign",
+      "distribute"
+    ],
+    "antonyms": [
+      "withhold"
+    ],
+    "common_collocations": [
+      "allocate funds",
+      "allocate resources",
+      "allocate time"
+    ],
+    "ielts_relevance": "Common verb for essays about government spending or resource use.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "invest",
+    "pronunciation": "/ɪnˈvest/",
+    "part_of_speech": "verb",
+    "simple_definition": "To put money, time, or effort into something for future benefit.",
+    "urdu_meaning": "سرمایہ کاری کرنا",
+    "detailed_definition": "To put money, time, or effort into something with the expectation of achieving a profit or benefit.",
+    "examples": [
+      "Governments should invest more heavily in public education.",
+      "She invested a great deal of time and effort into learning the language."
+    ],
+    "synonyms": [
+      "fund",
+      "commit"
+    ],
+    "antonyms": [
+      "withdraw",
+      "divest"
+    ],
+    "common_collocations": [
+      "invest heavily",
+      "invest in",
+      "invest resources"
+    ],
+    "ielts_relevance": "Common verb in essays about government spending and personal effort.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "regulate",
+    "pronunciation": "/ˈreɡjʊleɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To control or maintain something through rules.",
+    "urdu_meaning": "ضابطہ بنانا، کنٹرول کرنا",
+    "detailed_definition": "To control an activity or process, especially through rules or laws.",
+    "examples": [
+      "The industry is closely regulated to protect consumer rights.",
+      "Governments should regulate the use of harmful chemicals in food production."
+    ],
+    "synonyms": [
+      "control",
+      "govern"
+    ],
+    "antonyms": [
+      "deregulate"
+    ],
+    "common_collocations": [
+      "strictly regulated",
+      "regulate the industry",
+      "regulate use"
+    ],
+    "ielts_relevance": "Common verb for discussing government control in Task 2.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "enforce",
+    "pronunciation": "/ɪnˈfɔːs/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make sure a law or rule is obeyed.",
+    "urdu_meaning": "نفاذ کرنا",
+    "detailed_definition": "To compel observance of or compliance with a law, rule, or obligation.",
+    "examples": [
+      "Stricter penalties are needed to enforce traffic laws effectively.",
+      "The new dress code will be strictly enforced from next month."
+    ],
+    "synonyms": [
+      "impose",
+      "apply"
+    ],
+    "antonyms": [
+      "ignore",
+      "waive"
+    ],
+    "common_collocations": [
+      "strictly enforce",
+      "enforce the law",
+      "enforce rules"
+    ],
+    "ielts_relevance": "Common verb for discussing rules and government policy.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "taxpayer",
+    "pronunciation": "/ˈtækspeɪə/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person who pays tax to the government.",
+    "urdu_meaning": "ٹیکس دہندہ",
+    "detailed_definition": "A person who pays a tax or is subject to taxation by a government.",
+    "examples": [
+      "Critics argue that the project is a waste of taxpayers' money.",
+      "Taxpayers deserve to know exactly how their contributions are being spent."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "common_collocations": [
+      "taxpayer money",
+      "burden on taxpayers",
+      "taxpayer-funded"
+    ],
+    "ielts_relevance": "Common in essays about public spending and government responsibility.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "deprived",
+    "pronunciation": "/dɪˈpraɪvd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Lacking basic necessities of life, such as food, money, or shelter.",
+    "urdu_meaning": "محروم",
+    "detailed_definition": "Suffering a severe and damaging lack of basic material and cultural benefits.",
+    "examples": [
+      "Children from deprived backgrounds often struggle to access quality education.",
+      "The charity works in some of the most economically deprived areas of the country."
+    ],
+    "synonyms": [
+      "disadvantaged",
+      "impoverished"
+    ],
+    "antonyms": [
+      "privileged",
+      "affluent"
+    ],
+    "common_collocations": [
+      "deprived areas",
+      "deprived background",
+      "socially deprived"
+    ],
+    "ielts_relevance": "Common in essays about poverty, inequality, and education access.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "affluent",
+    "pronunciation": "/ˈæfluənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Having a great deal of wealth or money.",
+    "urdu_meaning": "دولت مند، خوشحال",
+    "detailed_definition": "Having a great deal of money; wealthy.",
+    "examples": [
+      "Children from more affluent families often have access to better educational resources.",
+      "The neighborhood is known for being particularly affluent."
+    ],
+    "synonyms": [
+      "wealthy",
+      "prosperous"
+    ],
+    "antonyms": [
+      "deprived",
+      "poor"
+    ],
+    "common_collocations": [
+      "affluent families",
+      "affluent society",
+      "increasingly affluent"
+    ],
+    "ielts_relevance": "Opposite of 'deprived' — common in essays about inequality.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "disposable income",
+    "pronunciation": "/dɪˈspəʊzəbl ˈɪnkʌm/",
+    "part_of_speech": "noun",
+    "simple_definition": "Money left after taxes that can be spent or saved freely.",
+    "urdu_meaning": "قابل استعمال آمدنی",
+    "detailed_definition": "The income remaining after deduction of taxes, available for spending or saving.",
+    "examples": [
+      "As disposable income rises, people tend to spend more on leisure activities.",
+      "Rising rents have significantly reduced young people's disposable income."
+    ],
+    "synonyms": [
+      "spare income",
+      "discretionary income"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "increase in disposable income",
+      "higher disposable income"
+    ],
+    "ielts_relevance": "Common economics term for consumer spending essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "standard of living",
+    "pronunciation": "/ˈstændəd əv ˈlɪvɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "The level of wealth and comfort available to a person or group.",
+    "urdu_meaning": "معیارِ زندگی",
+    "detailed_definition": "The degree of wealth and material comfort available to a person or community.",
+    "examples": [
+      "Rapid economic growth has led to a marked improvement in the standard of living.",
+      "The standard of living varies greatly between urban and rural areas."
+    ],
+    "synonyms": [
+      "quality of life",
+      "living conditions"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "improve the standard of living",
+      "high standard of living"
+    ],
+    "ielts_relevance": "Extremely common phrase in economics and society essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "cost of living",
+    "pronunciation": "/kɒst əv ˈlɪvɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "The amount of money needed to cover basic expenses.",
+    "urdu_meaning": "زندگی گزارنے کا خرچ",
+    "detailed_definition": "The level of prices relating to a range of everyday items, especially as it affects a particular group.",
+    "examples": [
+      "The rising cost of living has made it difficult for many families to make ends meet.",
+      "Big cities tend to have a much higher cost of living than rural towns."
+    ],
+    "synonyms": [
+      "living expenses"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "rising cost of living",
+      "high cost of living"
+    ],
+    "ielts_relevance": "Common economics phrase for essays about finances and cities.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "make ends meet",
+    "pronunciation": "/meɪk endz miːt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To have just enough money to cover basic needs.",
+    "urdu_meaning": "گزر بسر کرنا",
+    "detailed_definition": "To earn just enough money to live on or cover one's expenses.",
+    "examples": [
+      "Many low-income families struggle to make ends meet each month.",
+      "With prices rising so fast, it's getting harder to make ends meet."
+    ],
+    "synonyms": [
+      "get by",
+      "survive financially"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "struggle to make ends meet"
+    ],
+    "ielts_relevance": "Common idiomatic phrase for Speaking Part 3 economics discussions.",
+    "difficulty_level": "B1"
+  }
+]

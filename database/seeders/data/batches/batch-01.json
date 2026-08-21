@@ -1,0 +1,1300 @@
+[
+  {
+    "word": "sustainable",
+    "pronunciation": "/səˈsteɪnəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to continue over a long time without causing damage or running out.",
+    "urdu_meaning": "پائیدار، دیرپا",
+    "detailed_definition": "Describes a process, system, or resource use that can be maintained at a certain level without depleting resources or harming the environment.",
+    "examples": [
+      "The government is investing in sustainable energy sources like wind and solar.",
+      "Sustainable farming methods protect the soil for future generations."
+    ],
+    "synonyms": [
+      "viable",
+      "renewable",
+      "enduring"
+    ],
+    "antonyms": [
+      "unsustainable",
+      "depleting"
+    ],
+    "common_collocations": [
+      "sustainable development",
+      "sustainable growth",
+      "environmentally sustainable"
+    ],
+    "ielts_relevance": "Extremely common in Writing Task 2 essays about the environment, development, and economic growth.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "ecosystem",
+    "pronunciation": "/ˈiːkəʊsɪstəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "A community of living things interacting with their physical environment.",
+    "urdu_meaning": "ماحولیاتی نظام",
+    "detailed_definition": "A biological system composed of all the organisms in an area and the nonliving components of their environment, functioning together as a unit.",
+    "examples": [
+      "Coral reefs are one of the most diverse ecosystems on Earth.",
+      "Pollution can disrupt the balance of a local ecosystem."
+    ],
+    "synonyms": [
+      "habitat",
+      "biome",
+      "environment"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "fragile ecosystem",
+      "marine ecosystem",
+      "damage an ecosystem"
+    ],
+    "ielts_relevance": "Key vocabulary for environmental Writing Task 2 topics and Speaking Part 3 discussions about nature.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "biodiversity",
+    "pronunciation": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "The variety of plant and animal life in a particular area.",
+    "urdu_meaning": "حیاتیاتی تنوع",
+    "detailed_definition": "The range of different species of animals, plants, and other living things in a particular area or in the world generally.",
+    "examples": [
+      "Rainforests contain an incredible level of biodiversity.",
+      "Loss of biodiversity threatens the stability of food chains."
+    ],
+    "synonyms": [
+      "biological diversity",
+      "ecological variety"
+    ],
+    "antonyms": [
+      "uniformity"
+    ],
+    "common_collocations": [
+      "rich biodiversity",
+      "loss of biodiversity",
+      "protect biodiversity"
+    ],
+    "ielts_relevance": "A high-scoring academic term for essays on conservation and the environment.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "pollution",
+    "pronunciation": "/pəˈluːʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The presence of harmful substances in the environment.",
+    "urdu_meaning": "آلودگی",
+    "detailed_definition": "The contamination of air, water, or land by substances that have harmful or poisonous effects.",
+    "examples": [
+      "Air pollution in major cities has reached dangerous levels.",
+      "Factories are a major source of water pollution."
+    ],
+    "synonyms": [
+      "contamination",
+      "fouling"
+    ],
+    "antonyms": [
+      "purity",
+      "cleanliness"
+    ],
+    "common_collocations": [
+      "air pollution",
+      "noise pollution",
+      "reduce pollution"
+    ],
+    "ielts_relevance": "One of the most frequent IELTS Writing Task 2 topics — know related terms like emission and contamination too.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "emission",
+    "pronunciation": "/ɪˈmɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A substance, especially a gas, that is released into the air.",
+    "urdu_meaning": "اخراج، خارج ہونے والی گیس",
+    "detailed_definition": "The act of producing or sending out something, especially gas or radiation, usually as a by-product of industrial or vehicle activity.",
+    "examples": [
+      "Carbon emissions from vehicles contribute to global warming.",
+      "The factory was fined for exceeding its emission limits."
+    ],
+    "synonyms": [
+      "discharge",
+      "release"
+    ],
+    "antonyms": [
+      "absorption"
+    ],
+    "common_collocations": [
+      "carbon emissions",
+      "reduce emissions",
+      "emission targets"
+    ],
+    "ielts_relevance": "Essential for essays about climate change and industrial policy.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "renewable",
+    "pronunciation": "/rɪˈnjuːəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to be replaced naturally and not permanently used up.",
+    "urdu_meaning": "قابل تجدید",
+    "detailed_definition": "Describes a natural resource, especially energy, that is replenished naturally over time and does not run out with use.",
+    "examples": [
+      "Solar and wind power are examples of renewable energy.",
+      "The country aims to generate 50% of its electricity from renewable sources by 2030."
+    ],
+    "synonyms": [
+      "replenishable",
+      "sustainable"
+    ],
+    "antonyms": [
+      "non-renewable",
+      "finite"
+    ],
+    "common_collocations": [
+      "renewable energy",
+      "renewable resources",
+      "switch to renewable"
+    ],
+    "ielts_relevance": "Pairs naturally with 'sustainable' — common in essays about energy policy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "deforestation",
+    "pronunciation": "/diːˌfɒrɪˈsteɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The cutting down and clearing of forests.",
+    "urdu_meaning": "جنگلات کی کٹائی",
+    "detailed_definition": "The large-scale removal of trees from a forested area, often to use the land for farming, grazing, or urban development.",
+    "examples": [
+      "Deforestation in the Amazon has accelerated in recent years.",
+      "Deforestation contributes significantly to species extinction."
+    ],
+    "synonyms": [
+      "clear-cutting",
+      "logging"
+    ],
+    "antonyms": [
+      "afforestation",
+      "reforestation"
+    ],
+    "common_collocations": [
+      "rampant deforestation",
+      "cause of deforestation",
+      "tackle deforestation"
+    ],
+    "ielts_relevance": "A specific, high-level term that shows strong vocabulary range on environment topics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "conservation",
+    "pronunciation": "/ˌkɒnsəˈveɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The protection and careful management of the environment and natural resources.",
+    "urdu_meaning": "تحفظ، بچاؤ",
+    "detailed_definition": "The act of preserving, protecting, or restoring the natural environment, natural ecosystems, vegetation, and wildlife.",
+    "examples": [
+      "Wildlife conservation efforts have helped save several endangered species.",
+      "Water conservation is essential in drought-prone regions."
+    ],
+    "synonyms": [
+      "preservation",
+      "protection"
+    ],
+    "antonyms": [
+      "destruction",
+      "exploitation"
+    ],
+    "common_collocations": [
+      "wildlife conservation",
+      "energy conservation",
+      "conservation efforts"
+    ],
+    "ielts_relevance": "Frequently paired with 'wildlife', 'energy', or 'water' in Task 2 essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "drought",
+    "pronunciation": "/draʊt/",
+    "part_of_speech": "noun",
+    "simple_definition": "A long period of little or no rainfall.",
+    "urdu_meaning": "خشک سالی",
+    "detailed_definition": "An extended period of abnormally low rainfall, leading to a shortage of water.",
+    "examples": [
+      "The region has suffered its worst drought in a decade.",
+      "Farmers lost their entire crop due to the drought."
+    ],
+    "synonyms": [
+      "dry spell",
+      "aridity"
+    ],
+    "antonyms": [
+      "flood",
+      "deluge"
+    ],
+    "common_collocations": [
+      "severe drought",
+      "prolonged drought",
+      "drought conditions"
+    ],
+    "ielts_relevance": "Useful for essays on climate change impacts and agriculture.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "habitat",
+    "pronunciation": "/ˈhæbɪtæt/",
+    "part_of_speech": "noun",
+    "simple_definition": "The natural home or environment of an animal or plant.",
+    "urdu_meaning": "مسکن، قدرتی ماحول",
+    "detailed_definition": "The natural environment in which an organism, population, or species normally lives and grows.",
+    "examples": [
+      "Urban expansion is destroying the natural habitat of many species.",
+      "Wetlands provide an important habitat for migratory birds."
+    ],
+    "synonyms": [
+      "environment",
+      "ecosystem"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "natural habitat",
+      "habitat destruction",
+      "protect a habitat"
+    ],
+    "ielts_relevance": "Common with 'destruction' and 'loss' in environmental essays and Speaking Part 3.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "extinction",
+    "pronunciation": "/ɪkˈstɪŋkʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state or process of a species dying out completely.",
+    "urdu_meaning": "معدومیت",
+    "detailed_definition": "The complete disappearance of a species from the Earth, so that no living members remain.",
+    "examples": [
+      "Poaching has pushed several species to the brink of extinction.",
+      "Scientists are working to prevent the extinction of the giant panda."
+    ],
+    "synonyms": [
+      "dying out",
+      "disappearance"
+    ],
+    "antonyms": [
+      "survival",
+      "proliferation"
+    ],
+    "common_collocations": [
+      "on the brink of extinction",
+      "mass extinction",
+      "face extinction"
+    ],
+    "ielts_relevance": "Strong vocabulary for essays about endangered species and conservation.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "greenhouse gas",
+    "pronunciation": "/ˈɡriːnhaʊs ɡæs/",
+    "part_of_speech": "noun",
+    "simple_definition": "A gas that traps heat in the Earth's atmosphere, contributing to global warming.",
+    "urdu_meaning": "گرین ہاؤس گیس",
+    "detailed_definition": "Gases such as carbon dioxide and methane that absorb infrared radiation and trap heat, causing the greenhouse effect.",
+    "examples": [
+      "Carbon dioxide is the most significant greenhouse gas produced by human activity.",
+      "Countries agreed to cut greenhouse gas emissions by 30%."
+    ],
+    "synonyms": [
+      "heat-trapping gas"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "greenhouse gas emissions",
+      "reduce greenhouse gases",
+      "greenhouse effect"
+    ],
+    "ielts_relevance": "Core vocabulary for any climate change essay — always mentioned alongside 'emissions'.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "erosion",
+    "pronunciation": "/ɪˈrəʊʒn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The gradual wearing away of soil or rock by wind, water, or other natural forces.",
+    "urdu_meaning": "کٹاؤ",
+    "detailed_definition": "The process by which the surface of the earth is worn away by natural forces such as wind, water, or ice.",
+    "examples": [
+      "Coastal erosion has caused several homes to collapse into the sea.",
+      "Planting trees helps prevent soil erosion."
+    ],
+    "synonyms": [
+      "wearing away",
+      "degradation"
+    ],
+    "antonyms": [
+      "deposition",
+      "accumulation"
+    ],
+    "common_collocations": [
+      "soil erosion",
+      "coastal erosion",
+      "prevent erosion"
+    ],
+    "ielts_relevance": "Useful when discussing agriculture, coastlines, or land degradation.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "contaminate",
+    "pronunciation": "/kənˈtæmɪneɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make something impure or harmful by adding a polluting substance.",
+    "urdu_meaning": "آلودہ کرنا",
+    "detailed_definition": "To pollute or make something dirty, impure, or unsafe by contact with or addition of another substance.",
+    "examples": [
+      "Chemical waste has contaminated the local water supply.",
+      "Contaminated soil can no longer be used for farming."
+    ],
+    "synonyms": [
+      "pollute",
+      "taint"
+    ],
+    "antonyms": [
+      "purify",
+      "cleanse"
+    ],
+    "common_collocations": [
+      "contaminate water",
+      "contaminated soil",
+      "heavily contaminated"
+    ],
+    "ielts_relevance": "Precise alternative to 'pollute' — shows lexical range in environment essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "deplete",
+    "pronunciation": "/dɪˈpliːt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To use up the supply or resources of something.",
+    "urdu_meaning": "ختم کرنا، کم کرنا",
+    "detailed_definition": "To reduce something, especially a natural resource, significantly in quantity through use or consumption.",
+    "examples": [
+      "Overfishing has severely depleted fish stocks in the region.",
+      "Natural gas reserves are being depleted at an alarming rate."
+    ],
+    "synonyms": [
+      "exhaust",
+      "use up"
+    ],
+    "antonyms": [
+      "replenish",
+      "restore"
+    ],
+    "common_collocations": [
+      "deplete resources",
+      "deplete reserves",
+      "rapidly depleted"
+    ],
+    "ielts_relevance": "A precise, high-band verb for resource-related essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "ecological",
+    "pronunciation": "/ˌiːkəˈlɒdʒɪkl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to the environment and the relationships between living things and their surroundings.",
+    "urdu_meaning": "ماحولیاتی",
+    "detailed_definition": "Concerned with the relation of living organisms to one another and to their physical surroundings.",
+    "examples": [
+      "The oil spill caused significant ecological damage.",
+      "Ecological balance is essential for a healthy planet."
+    ],
+    "synonyms": [
+      "environmental"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "ecological damage",
+      "ecological balance",
+      "ecological impact"
+    ],
+    "ielts_relevance": "Interchangeable with 'environmental' in many contexts to avoid repetition.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "pesticide",
+    "pronunciation": "/ˈpestɪsaɪd/",
+    "part_of_speech": "noun",
+    "simple_definition": "A chemical substance used to kill insects and other pests that damage crops.",
+    "urdu_meaning": "کیڑے مار دوا",
+    "detailed_definition": "A substance used for destroying insects or other organisms harmful to cultivated plants or animals.",
+    "examples": [
+      "Overuse of pesticides can harm beneficial insects like bees.",
+      "Organic farmers avoid synthetic pesticides."
+    ],
+    "synonyms": [
+      "insecticide"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "use of pesticides",
+      "harmful pesticides",
+      "pesticide residue"
+    ],
+    "ielts_relevance": "Relevant to agriculture and health-related environment essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "fossil fuel",
+    "pronunciation": "/ˈfɒsl fjuːəl/",
+    "part_of_speech": "noun",
+    "simple_definition": "A natural fuel such as coal, oil, or gas formed from the remains of ancient organisms.",
+    "urdu_meaning": "معدنی ایندھن",
+    "detailed_definition": "Fuel formed by natural processes from the remains of dead plants and animals over millions of years, including coal, oil, and natural gas.",
+    "examples": [
+      "Burning fossil fuels is the leading cause of global warming.",
+      "Many countries are trying to reduce their dependence on fossil fuels."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "renewable energy"
+    ],
+    "common_collocations": [
+      "burn fossil fuels",
+      "reliance on fossil fuels",
+      "fossil fuel emissions"
+    ],
+    "ielts_relevance": "Almost always contrasted with 'renewable energy' in essays about energy sources.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "sanctuary",
+    "pronunciation": "/ˈsæŋktʃuəri/",
+    "part_of_speech": "noun",
+    "simple_definition": "A protected area where wildlife or people can live safely.",
+    "urdu_meaning": "پناہ گاہ",
+    "detailed_definition": "An area set aside for the protection of animals or plants, or a safe place of refuge.",
+    "examples": [
+      "The wildlife sanctuary protects endangered tigers from poachers.",
+      "The bird sanctuary attracts thousands of visitors each year."
+    ],
+    "synonyms": [
+      "reserve",
+      "refuge"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "wildlife sanctuary",
+      "bird sanctuary",
+      "seek sanctuary"
+    ],
+    "ielts_relevance": "Useful noun for conservation and wildlife protection topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "catastrophe",
+    "pronunciation": "/kəˈtæstrəfi/",
+    "part_of_speech": "noun",
+    "simple_definition": "A sudden and widespread disaster.",
+    "urdu_meaning": "عظیم سانحہ، تباہی",
+    "detailed_definition": "An event causing great and often sudden damage or suffering, a terrible disaster.",
+    "examples": [
+      "Scientists warn that unchecked emissions could lead to a global catastrophe.",
+      "The earthquake was described as a natural catastrophe."
+    ],
+    "synonyms": [
+      "disaster",
+      "calamity"
+    ],
+    "antonyms": [
+      "triumph",
+      "success"
+    ],
+    "common_collocations": [
+      "environmental catastrophe",
+      "avert a catastrophe",
+      "natural catastrophe"
+    ],
+    "ielts_relevance": "Strong, dramatic vocabulary for high-impact essay conclusions.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "mitigate",
+    "pronunciation": "/ˈmɪtɪɡeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make something less severe or harmful.",
+    "urdu_meaning": "کم کرنا، تخفیف کرنا",
+    "detailed_definition": "To reduce the severity, seriousness, or painfulness of something.",
+    "examples": [
+      "Planting trees can help mitigate the effects of climate change.",
+      "The new policies aim to mitigate the risk of flooding."
+    ],
+    "synonyms": [
+      "alleviate",
+      "reduce"
+    ],
+    "antonyms": [
+      "aggravate",
+      "worsen"
+    ],
+    "common_collocations": [
+      "mitigate the effects",
+      "mitigate risk",
+      "mitigation measures"
+    ],
+    "ielts_relevance": "A sophisticated C1-level verb that strengthens Writing Task 2 solutions paragraphs.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "degradation",
+    "pronunciation": "/ˌdeɡrəˈdeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of something being damaged or made worse in quality.",
+    "urdu_meaning": "زوال، بگاڑ",
+    "detailed_definition": "The process of deterioration in quality or condition, especially of land or the environment.",
+    "examples": [
+      "Environmental degradation is accelerating due to industrialization.",
+      "Soil degradation threatens food security in many regions."
+    ],
+    "synonyms": [
+      "deterioration",
+      "decline"
+    ],
+    "antonyms": [
+      "improvement",
+      "restoration"
+    ],
+    "common_collocations": [
+      "environmental degradation",
+      "land degradation",
+      "soil degradation"
+    ],
+    "ielts_relevance": "Common noun form paired with 'environmental' — pairs well with 'mitigate'.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "hazardous",
+    "pronunciation": "/ˈhæzədəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Dangerous or risky, especially to health or safety.",
+    "urdu_meaning": "خطرناک",
+    "detailed_definition": "Involving or exposing one to risk, especially of danger, harm, or loss.",
+    "examples": [
+      "The factory improperly disposed of hazardous waste.",
+      "Working conditions in the mine were extremely hazardous."
+    ],
+    "synonyms": [
+      "dangerous",
+      "perilous"
+    ],
+    "antonyms": [
+      "safe",
+      "harmless"
+    ],
+    "common_collocations": [
+      "hazardous waste",
+      "hazardous chemicals",
+      "hazardous conditions"
+    ],
+    "ielts_relevance": "Formal alternative to 'dangerous' — improves lexical resource score.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "toxic",
+    "pronunciation": "/ˈtɒksɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Poisonous and capable of causing harm or death.",
+    "urdu_meaning": "زہریلا",
+    "detailed_definition": "Containing or being poisonous material, especially when capable of causing death or serious injury.",
+    "examples": [
+      "The river was contaminated with toxic chemicals from the factory.",
+      "Some household cleaning products contain toxic substances."
+    ],
+    "synonyms": [
+      "poisonous",
+      "noxious"
+    ],
+    "antonyms": [
+      "harmless",
+      "non-toxic"
+    ],
+    "common_collocations": [
+      "toxic waste",
+      "toxic chemicals",
+      "highly toxic"
+    ],
+    "ielts_relevance": "Common in essays about pollution and public health.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "arid",
+    "pronunciation": "/ˈærɪd/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Having very little rainfall; extremely dry.",
+    "urdu_meaning": "بنجر، خشک",
+    "detailed_definition": "Describes land or a climate that receives little precipitation and lacks vegetation.",
+    "examples": [
+      "Much of the country is covered by arid desert.",
+      "Farming is difficult in such an arid climate."
+    ],
+    "synonyms": [
+      "dry",
+      "parched"
+    ],
+    "antonyms": [
+      "fertile",
+      "lush"
+    ],
+    "common_collocations": [
+      "arid climate",
+      "arid region",
+      "arid land"
+    ],
+    "ielts_relevance": "Useful for describing geography and agriculture challenges.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "fertile",
+    "pronunciation": "/ˈfɜːtaɪl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to produce abundant plant life or crops.",
+    "urdu_meaning": "زرخیز",
+    "detailed_definition": "Describes land or soil that is rich in the nutrients needed to sustain plant growth.",
+    "examples": [
+      "The river delta has extremely fertile soil, ideal for farming.",
+      "Years of overuse have made the land less fertile."
+    ],
+    "synonyms": [
+      "productive",
+      "fruitful"
+    ],
+    "antonyms": [
+      "barren",
+      "infertile"
+    ],
+    "common_collocations": [
+      "fertile soil",
+      "fertile land",
+      "fertile ground"
+    ],
+    "ielts_relevance": "Opposite of 'arid' — useful pair for agriculture and geography topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "irrigation",
+    "pronunciation": "/ˌɪrɪˈɡeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The supply of water to land or crops to help growth.",
+    "urdu_meaning": "آبپاشی",
+    "detailed_definition": "The artificial application of water to land or soil to assist in the growth of crops.",
+    "examples": [
+      "The government built new irrigation canals to support farmers.",
+      "Drip irrigation uses water far more efficiently than flooding fields."
+    ],
+    "synonyms": [
+      "watering"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "irrigation system",
+      "drip irrigation",
+      "irrigation canal"
+    ],
+    "ielts_relevance": "Key term for agriculture and water-management essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "cultivate",
+    "pronunciation": "/ˈkʌltɪveɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To prepare and use land for growing crops.",
+    "urdu_meaning": "کاشت کرنا",
+    "detailed_definition": "To prepare and work on land in order to grow crops; also used figuratively to mean develop or improve a skill or relationship.",
+    "examples": [
+      "Farmers in the valley cultivate rice and wheat.",
+      "She cultivated a strong relationship with her clients over the years."
+    ],
+    "synonyms": [
+      "farm",
+      "grow"
+    ],
+    "antonyms": [
+      "neglect"
+    ],
+    "common_collocations": [
+      "cultivate crops",
+      "cultivate land",
+      "cultivate a skill"
+    ],
+    "ielts_relevance": "Useful in both agriculture essays and figurative Speaking answers about personal development.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "biosphere",
+    "pronunciation": "/ˈbaɪəsfɪə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The regions of the Earth's surface and atmosphere where living organisms exist.",
+    "urdu_meaning": "حیاتی کرہ",
+    "detailed_definition": "The part of the Earth and its atmosphere in which living organisms exist or that is capable of supporting life.",
+    "examples": [
+      "Human activity is having a profound effect on the biosphere.",
+      "The biosphere includes the deepest oceans and the highest mountains."
+    ],
+    "synonyms": [
+      "living world"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "global biosphere",
+      "impact on the biosphere"
+    ],
+    "ielts_relevance": "Advanced C1 vocabulary that shows academic range in environment essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "combustion",
+    "pronunciation": "/kəmˈbʌstʃən/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of burning something.",
+    "urdu_meaning": "احتراق، جلنا",
+    "detailed_definition": "A chemical process in which a substance reacts rapidly with oxygen and gives off heat, commonly known as burning.",
+    "examples": [
+      "Internal combustion engines are a major source of urban air pollution.",
+      "The combustion of fossil fuels releases carbon dioxide."
+    ],
+    "synonyms": [
+      "burning"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "combustion engine",
+      "internal combustion",
+      "combustion process"
+    ],
+    "ielts_relevance": "Relevant for essays about transportation and energy.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "atmosphere",
+    "pronunciation": "/ˈætməsfɪə/",
+    "part_of_speech": "noun",
+    "simple_definition": "The layer of gases surrounding the Earth.",
+    "urdu_meaning": "فضا، ماحول",
+    "detailed_definition": "The envelope of gases surrounding the Earth or another planet; also used to mean the mood or feeling of a place.",
+    "examples": [
+      "Greenhouse gases trap heat in the Earth's atmosphere.",
+      "The restaurant has a relaxed, friendly atmosphere."
+    ],
+    "synonyms": [
+      "air",
+      "ambiance"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "enter the atmosphere",
+      "upper atmosphere",
+      "relaxed atmosphere"
+    ],
+    "ielts_relevance": "Dual-purpose word — scientific in environment topics, descriptive in Speaking Part 2 place descriptions.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "aquatic",
+    "pronunciation": "/əˈkwætɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to water, or living or growing in water.",
+    "urdu_meaning": "آبی",
+    "detailed_definition": "Describes plants, animals, or activities that exist in, grow in, or take place in water.",
+    "examples": [
+      "Aquatic plants help oxygenate ponds and lakes.",
+      "Pollution has severely affected aquatic life in the river."
+    ],
+    "synonyms": [
+      "marine",
+      "water-based"
+    ],
+    "antonyms": [
+      "terrestrial"
+    ],
+    "common_collocations": [
+      "aquatic life",
+      "aquatic ecosystem",
+      "aquatic species"
+    ],
+    "ielts_relevance": "Pairs with 'terrestrial' as a useful contrast in biology/environment essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "terrestrial",
+    "pronunciation": "/təˈrestriəl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to or living on land, as opposed to water or air.",
+    "urdu_meaning": "زمینی",
+    "detailed_definition": "Of, on, or relating to the Earth or land, as distinguished from aquatic or aerial environments.",
+    "examples": [
+      "Terrestrial animals face habitat loss from deforestation.",
+      "The satellite provides images of terrestrial and marine ecosystems."
+    ],
+    "synonyms": [
+      "land-based"
+    ],
+    "antonyms": [
+      "aquatic",
+      "marine"
+    ],
+    "common_collocations": [
+      "terrestrial animals",
+      "terrestrial habitat",
+      "terrestrial ecosystem"
+    ],
+    "ielts_relevance": "Useful academic contrast word for biology and geography discussions.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "endemic",
+    "pronunciation": "/enˈdemɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Native to and found only in a particular place.",
+    "urdu_meaning": "مقامی، خاص علاقے سے مخصوص",
+    "detailed_definition": "Regularly found among a particular people or in a certain area; native to and restricted to a specific geographic region.",
+    "examples": [
+      "The lemur is endemic to Madagascar.",
+      "Malaria is endemic in many tropical regions."
+    ],
+    "synonyms": [
+      "native",
+      "indigenous"
+    ],
+    "antonyms": [
+      "widespread",
+      "introduced"
+    ],
+    "common_collocations": [
+      "endemic species",
+      "endemic to the region",
+      "endemic disease"
+    ],
+    "ielts_relevance": "High-band adjective for biology and health-related essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "migratory",
+    "pronunciation": "/ˈmaɪɡrətri/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to animals that move from one region to another according to the season.",
+    "urdu_meaning": "ہجرت کرنے والا",
+    "detailed_definition": "Describes species that regularly travel from one region or climate to another, typically for feeding or breeding.",
+    "examples": [
+      "The wetland is a crucial stopover point for migratory birds.",
+      "Climate change is disrupting the patterns of migratory species."
+    ],
+    "synonyms": [
+      "nomadic",
+      "wandering"
+    ],
+    "antonyms": [
+      "resident",
+      "sedentary"
+    ],
+    "common_collocations": [
+      "migratory birds",
+      "migratory patterns",
+      "migratory species"
+    ],
+    "ielts_relevance": "Common in essays about wildlife and climate change impacts.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "predator",
+    "pronunciation": "/ˈpredətə/",
+    "part_of_speech": "noun",
+    "simple_definition": "An animal that hunts and eats other animals.",
+    "urdu_meaning": "شکاری جانور",
+    "detailed_definition": "An animal that naturally preys on other animals for food.",
+    "examples": [
+      "Removing top predators from an ecosystem can cause serious imbalances.",
+      "Sharks are apex predators in ocean ecosystems."
+    ],
+    "synonyms": [
+      "hunter",
+      "carnivore"
+    ],
+    "antonyms": [
+      "prey"
+    ],
+    "common_collocations": [
+      "natural predator",
+      "apex predator",
+      "predator and prey"
+    ],
+    "ielts_relevance": "Common pairing with 'prey' in biology and ecosystem discussions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "prey",
+    "pronunciation": "/preɪ/",
+    "part_of_speech": "noun",
+    "simple_definition": "An animal that is hunted and eaten by another animal.",
+    "urdu_meaning": "شکار",
+    "detailed_definition": "An animal that is hunted and killed by another for food.",
+    "examples": [
+      "Rabbits are common prey for foxes and hawks.",
+      "The lioness stalked her prey silently through the grass."
+    ],
+    "synonyms": [
+      "quarry",
+      "victim"
+    ],
+    "antonyms": [
+      "predator"
+    ],
+    "common_collocations": [
+      "fall prey to",
+      "natural prey",
+      "prey animal"
+    ],
+    "ielts_relevance": "Also useful in the idiom 'fall prey to' for describing being negatively affected by something.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "thrive",
+    "pronunciation": "/θraɪv/",
+    "part_of_speech": "verb",
+    "simple_definition": "To grow, develop, or be successful in a vigorous way.",
+    "urdu_meaning": "پھلنا پھولنا، ترقی کرنا",
+    "detailed_definition": "To grow or develop well or vigorously; to prosper or flourish.",
+    "examples": [
+      "Certain plant species thrive in wet, humid conditions.",
+      "Small businesses are thriving despite the economic downturn."
+    ],
+    "synonyms": [
+      "flourish",
+      "prosper"
+    ],
+    "antonyms": [
+      "decline",
+      "wither"
+    ],
+    "common_collocations": [
+      "thrive in conditions",
+      "continue to thrive",
+      "businesses thrive"
+    ],
+    "ielts_relevance": "Versatile verb useful in both environment and economy/business essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "dwindle",
+    "pronunciation": "/ˈdwɪndl/",
+    "part_of_speech": "verb",
+    "simple_definition": "To gradually decrease in size, amount, or strength.",
+    "urdu_meaning": "کم ہونا، گھٹنا",
+    "detailed_definition": "To diminish gradually in size, amount, or strength over a period of time.",
+    "examples": [
+      "Fish populations have dwindled due to overfishing.",
+      "Public support for the project has dwindled in recent months."
+    ],
+    "synonyms": [
+      "decrease",
+      "diminish"
+    ],
+    "antonyms": [
+      "increase",
+      "grow"
+    ],
+    "common_collocations": [
+      "dwindling numbers",
+      "dwindling resources",
+      "population dwindled"
+    ],
+    "ielts_relevance": "Precise verb for describing gradual decline in data-based essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "replenish",
+    "pronunciation": "/rɪˈplenɪʃ/",
+    "part_of_speech": "verb",
+    "simple_definition": "To fill something up again or restore a supply.",
+    "urdu_meaning": "دوبارہ بھرنا",
+    "detailed_definition": "To make something full or complete again by restoring the previous level or amount.",
+    "examples": [
+      "Regular rainfall helps replenish the region's groundwater supplies.",
+      "The forest was left to replenish naturally after logging stopped."
+    ],
+    "synonyms": [
+      "restock",
+      "restore"
+    ],
+    "antonyms": [
+      "deplete",
+      "drain"
+    ],
+    "common_collocations": [
+      "replenish supplies",
+      "replenish stocks",
+      "naturally replenish"
+    ],
+    "ielts_relevance": "Opposite of 'deplete' — useful contrast pair for resource essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "scarce",
+    "pronunciation": "/skeəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Insufficient for the demand; not enough.",
+    "urdu_meaning": "نایاب، کمیاب",
+    "detailed_definition": "Existing in small quantities or amounts; not enough to satisfy demand.",
+    "examples": [
+      "Clean drinking water is scarce in many parts of the world.",
+      "Jobs became scarce during the recession."
+    ],
+    "synonyms": [
+      "limited",
+      "insufficient"
+    ],
+    "antonyms": [
+      "abundant",
+      "plentiful"
+    ],
+    "common_collocations": [
+      "scarce resources",
+      "increasingly scarce",
+      "scarce water"
+    ],
+    "ielts_relevance": "Common in essays discussing resource shortages and economics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "abundant",
+    "pronunciation": "/əˈbʌndənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Existing in large quantities; plentiful.",
+    "urdu_meaning": "وافر، کثرت سے",
+    "detailed_definition": "Present in great quantity; more than adequate.",
+    "examples": [
+      "The region has abundant natural resources, including oil and gas.",
+      "Wildlife is abundant in the national park."
+    ],
+    "synonyms": [
+      "plentiful",
+      "ample"
+    ],
+    "antonyms": [
+      "scarce",
+      "scant"
+    ],
+    "common_collocations": [
+      "abundant resources",
+      "abundant supply",
+      "abundant wildlife"
+    ],
+    "ielts_relevance": "Direct opposite of 'scarce' — useful contrast pair.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "resilient",
+    "pronunciation": "/rɪˈzɪliənt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Able to recover quickly from difficulties or damage.",
+    "urdu_meaning": "لچکدار، مضبوط، بحال ہونے والا",
+    "detailed_definition": "Able to withstand or recover quickly from difficult conditions, whether physical, emotional, or systemic.",
+    "examples": [
+      "Coral reefs are surprisingly resilient but have limits.",
+      "Communities affected by the flood proved remarkably resilient."
+    ],
+    "synonyms": [
+      "tough",
+      "adaptable"
+    ],
+    "antonyms": [
+      "fragile",
+      "vulnerable"
+    ],
+    "common_collocations": [
+      "resilient community",
+      "remain resilient",
+      "resilient economy"
+    ],
+    "ielts_relevance": "High-scoring adjective usable across environment, society, and economy topics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "vulnerable",
+    "pronunciation": "/ˈvʌlnərəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Easily harmed, affected, or attacked.",
+    "urdu_meaning": "کمزور، خطرے سے دوچار",
+    "detailed_definition": "Susceptible to physical or emotional harm, or exposed to the possibility of being attacked or damaged.",
+    "examples": [
+      "Coastal cities are particularly vulnerable to rising sea levels.",
+      "Elderly people are more vulnerable to extreme heat."
+    ],
+    "synonyms": [
+      "exposed",
+      "susceptible"
+    ],
+    "antonyms": [
+      "protected",
+      "secure"
+    ],
+    "common_collocations": [
+      "vulnerable to",
+      "vulnerable population",
+      "particularly vulnerable"
+    ],
+    "ielts_relevance": "Extremely common across all IELTS topics — health, environment, and society.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "precarious",
+    "pronunciation": "/prɪˈkeəriəs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not securely held or in a dangerous, uncertain position.",
+    "urdu_meaning": "غیر یقینی، خطرناک",
+    "detailed_definition": "Not safe, strong, or steady; likely to fall, collapse, or fail.",
+    "examples": [
+      "Many species now exist in a precarious state due to habitat loss.",
+      "The company's finances were in a precarious position after the crisis."
+    ],
+    "synonyms": [
+      "unstable",
+      "insecure"
+    ],
+    "antonyms": [
+      "stable",
+      "secure"
+    ],
+    "common_collocations": [
+      "precarious position",
+      "precarious situation",
+      "precarious balance"
+    ],
+    "ielts_relevance": "Advanced adjective suitable for both environment and economy essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "offset",
+    "pronunciation": "/ˈɒfset/",
+    "part_of_speech": "verb",
+    "simple_definition": "To balance out the effect of something by having an equal and opposite effect.",
+    "urdu_meaning": "پورا کرنا، متوازن کرنا",
+    "detailed_definition": "To counteract something by having an equal but opposite force or effect.",
+    "examples": [
+      "Companies can offset their carbon emissions by funding tree-planting projects.",
+      "The pay rise was offset by an increase in the cost of living."
+    ],
+    "synonyms": [
+      "counterbalance",
+      "compensate"
+    ],
+    "antonyms": [
+      "worsen",
+      "aggravate"
+    ],
+    "common_collocations": [
+      "offset emissions",
+      "carbon offset",
+      "offset the cost"
+    ],
+    "ielts_relevance": "Common in environment essays about carbon offsetting schemes.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "overexploitation",
+    "pronunciation": "/ˌəʊvəˌeksplɔɪˈteɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The excessive use of a resource to the point of damage or depletion.",
+    "urdu_meaning": "ضرورت سے زیادہ استحصال",
+    "detailed_definition": "The use of a natural resource, such as fish stocks or forests, at a rate faster than it can naturally recover.",
+    "examples": [
+      "Overexploitation of fisheries has led to the collapse of several fish populations.",
+      "Overexploitation of groundwater has caused wells to run dry."
+    ],
+    "synonyms": [
+      "overuse",
+      "overharvesting"
+    ],
+    "antonyms": [
+      "conservation"
+    ],
+    "common_collocations": [
+      "overexploitation of resources",
+      "prevent overexploitation"
+    ],
+    "ielts_relevance": "Precise academic term for essays about resource management.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "carbon footprint",
+    "pronunciation": "/ˈkɑːbən ˈfʊtprɪnt/",
+    "part_of_speech": "noun",
+    "simple_definition": "The total amount of greenhouse gases produced by a person's or organization's activities.",
+    "urdu_meaning": "کاربن فٹ پرنٹ",
+    "detailed_definition": "A measure of the total greenhouse gas emissions caused directly or indirectly by an individual, organization, or product.",
+    "examples": [
+      "Flying frequently significantly increases your carbon footprint.",
+      "The company pledged to reduce its carbon footprint by 40%."
+    ],
+    "synonyms": [
+      "carbon emissions"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "reduce your carbon footprint",
+      "large carbon footprint",
+      "carbon footprint calculator"
+    ],
+    "ielts_relevance": "Extremely common modern term for both essays and speaking about lifestyle choices.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "deplorable",
+    "pronunciation": "/dɪˈplɔːrəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Extremely bad or shocking; deserving strong condemnation.",
+    "urdu_meaning": "قابل مذمت، افسوسناک",
+    "detailed_definition": "Deserving strong condemnation; very bad in quality or in a shockingly unacceptable state.",
+    "examples": [
+      "The living conditions in the refugee camp were deplorable.",
+      "Environmentalists called the government's inaction deplorable."
+    ],
+    "synonyms": [
+      "shocking",
+      "disgraceful"
+    ],
+    "antonyms": [
+      "admirable",
+      "commendable"
+    ],
+    "common_collocations": [
+      "deplorable conditions",
+      "deplorable state",
+      "utterly deplorable"
+    ],
+    "ielts_relevance": "Strong opinion adjective useful for Writing Task 2 argumentative essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "proliferate",
+    "pronunciation": "/prəˈlɪfəreɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To increase rapidly in number.",
+    "urdu_meaning": "تیزی سے بڑھنا",
+    "detailed_definition": "To increase rapidly in numbers; to multiply or spread at a fast rate.",
+    "examples": [
+      "Invasive species can proliferate rapidly in the absence of natural predators.",
+      "Plastic waste has proliferated in oceans worldwide."
+    ],
+    "synonyms": [
+      "multiply",
+      "spread"
+    ],
+    "antonyms": [
+      "diminish",
+      "decline"
+    ],
+    "common_collocations": [
+      "rapidly proliferate",
+      "proliferation of",
+      "continue to proliferate"
+    ],
+    "ielts_relevance": "High-band verb showing precise academic vocabulary in Task 2.",
+    "difficulty_level": "C1"
+  }
+]

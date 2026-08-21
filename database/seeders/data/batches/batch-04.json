@@ -1,0 +1,1175 @@
+[
+  {
+    "word": "deterrent",
+    "pronunciation": "/dɪˈterənt/",
+    "part_of_speech": "noun",
+    "simple_definition": "Something that discourages a particular action.",
+    "urdu_meaning": "باز رکھنے والی چیز",
+    "detailed_definition": "A thing that discourages or is intended to discourage someone from doing something, often through fear of consequences.",
+    "examples": [
+      "Some argue that the death penalty acts as a deterrent to serious crime.",
+      "Higher fines are being introduced as a deterrent against littering."
+    ],
+    "synonyms": [
+      "discouragement",
+      "disincentive"
+    ],
+    "antonyms": [
+      "incentive",
+      "encouragement"
+    ],
+    "common_collocations": [
+      "act as a deterrent",
+      "effective deterrent",
+      "deterrent effect"
+    ],
+    "ielts_relevance": "Common in essays about crime and punishment.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "rehabilitation",
+    "pronunciation": "/ˌriːəbɪlɪˈteɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The process of helping someone return to a normal life after illness or imprisonment.",
+    "urdu_meaning": "بحالی",
+    "detailed_definition": "The action of restoring someone to health or normal life, especially after imprisonment, illness, or addiction.",
+    "examples": [
+      "Prison rehabilitation programs aim to reduce reoffending rates.",
+      "She underwent months of rehabilitation after the accident."
+    ],
+    "synonyms": [
+      "recovery",
+      "reintegration"
+    ],
+    "antonyms": [
+      "punishment"
+    ],
+    "common_collocations": [
+      "prisoner rehabilitation",
+      "rehabilitation program",
+      "undergo rehabilitation"
+    ],
+    "ielts_relevance": "Common contrast to 'punishment' in crime and justice essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "reoffend",
+    "pronunciation": "/ˌriːəˈfend/",
+    "part_of_speech": "verb",
+    "simple_definition": "To commit another crime after having been punished for a previous one.",
+    "urdu_meaning": "دوبارہ جرم کرنا",
+    "detailed_definition": "To commit another crime, especially after being punished for a previous offense.",
+    "examples": [
+      "Studies show that rehabilitation reduces the likelihood that offenders will reoffend.",
+      "Nearly half of released prisoners reoffend within two years."
+    ],
+    "synonyms": [
+      "relapse"
+    ],
+    "antonyms": [
+      "reform"
+    ],
+    "common_collocations": [
+      "likely to reoffend",
+      "reoffending rate"
+    ],
+    "ielts_relevance": "Specific vocabulary for justice system essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "incarceration",
+    "pronunciation": "/ɪnˌkɑːsəˈreɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "The state of being imprisoned.",
+    "urdu_meaning": "قید",
+    "detailed_definition": "The state of being confined in prison; imprisonment.",
+    "examples": [
+      "The country has one of the highest incarceration rates in the world.",
+      "Long-term incarceration can make it difficult for offenders to reintegrate into society."
+    ],
+    "synonyms": [
+      "imprisonment",
+      "detention"
+    ],
+    "antonyms": [
+      "freedom",
+      "release"
+    ],
+    "common_collocations": [
+      "incarceration rate",
+      "mass incarceration"
+    ],
+    "ielts_relevance": "Formal alternative to 'imprisonment' for high-band crime essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "vandalism",
+    "pronunciation": "/ˈvændəlɪzəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "Deliberate destruction of or damage to property.",
+    "urdu_meaning": "توڑ پھوڑ",
+    "detailed_definition": "Action involving deliberate destruction of or damage to public or private property.",
+    "examples": [
+      "The park has suffered repeated vandalism, including graffiti and broken benches.",
+      "CCTV cameras were installed to deter vandalism in the area."
+    ],
+    "synonyms": [
+      "destruction",
+      "defacement"
+    ],
+    "antonyms": [
+      "preservation"
+    ],
+    "common_collocations": [
+      "act of vandalism",
+      "prevent vandalism",
+      "victim of vandalism"
+    ],
+    "ielts_relevance": "Common in essays about youth crime and urban issues.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "juvenile",
+    "pronunciation": "/ˈdʒuːvənaɪl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Relating to young people, especially those not yet legally adults.",
+    "urdu_meaning": "نابالغ",
+    "detailed_definition": "Relating to young people, particularly those who have not yet reached the age of legal adulthood.",
+    "examples": [
+      "Juvenile crime rates have declined in recent years.",
+      "The country has a separate juvenile justice system for young offenders."
+    ],
+    "synonyms": [
+      "youthful",
+      "adolescent"
+    ],
+    "antonyms": [
+      "adult"
+    ],
+    "common_collocations": [
+      "juvenile crime",
+      "juvenile delinquency",
+      "juvenile justice system"
+    ],
+    "ielts_relevance": "Common in essays about youth crime and the justice system.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "surveillance",
+    "pronunciation": "/səˈveɪləns/",
+    "part_of_speech": "noun",
+    "simple_definition": "Close observation of a person or place, especially for security purposes.",
+    "urdu_meaning": "نگرانی",
+    "detailed_definition": "Close observation, especially of a suspected spy or criminal, or the monitoring of a place using cameras or other means.",
+    "examples": [
+      "The city has increased surveillance in public areas to reduce crime.",
+      "Privacy advocates are concerned about growing government surveillance."
+    ],
+    "synonyms": [
+      "monitoring",
+      "observation"
+    ],
+    "antonyms": [
+      "privacy"
+    ],
+    "common_collocations": [
+      "under surveillance",
+      "surveillance camera",
+      "increase surveillance"
+    ],
+    "ielts_relevance": "Common in essays about privacy, technology, and crime prevention.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "privacy",
+    "pronunciation": "/ˈprɪvəsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "A state in which one is not observed or disturbed by others.",
+    "urdu_meaning": "رازداری",
+    "detailed_definition": "The state of being free from unwanted attention or public disclosure of personal information.",
+    "examples": [
+      "Social media use has raised serious concerns about online privacy.",
+      "Employees have the right to a certain level of privacy in the workplace."
+    ],
+    "synonyms": [
+      "confidentiality",
+      "seclusion"
+    ],
+    "antonyms": [
+      "publicity",
+      "exposure"
+    ],
+    "common_collocations": [
+      "invade privacy",
+      "privacy concerns",
+      "protect privacy"
+    ],
+    "ielts_relevance": "Extremely common in technology and social media essays.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "censorship",
+    "pronunciation": "/ˈsensəʃɪp/",
+    "part_of_speech": "noun",
+    "simple_definition": "The suppression of information considered unacceptable.",
+    "urdu_meaning": "سنسر شپ",
+    "detailed_definition": "The practice of officially examining and suppressing books, films, or other media considered offensive, harmful, or politically unacceptable.",
+    "examples": [
+      "Government censorship of the press remains widespread in some countries.",
+      "Critics argue that internet censorship limits freedom of expression."
+    ],
+    "synonyms": [
+      "suppression",
+      "control"
+    ],
+    "antonyms": [
+      "freedom of speech"
+    ],
+    "common_collocations": [
+      "media censorship",
+      "internet censorship",
+      "government censorship"
+    ],
+    "ielts_relevance": "Core term for media and freedom of speech essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "propaganda",
+    "pronunciation": "/ˌprɒpəˈɡændə/",
+    "part_of_speech": "noun",
+    "simple_definition": "Biased information used to promote a political cause or point of view.",
+    "urdu_meaning": "پروپیگنڈا",
+    "detailed_definition": "Information, often biased or misleading, used to promote a particular political cause or point of view.",
+    "examples": [
+      "During the war, both sides used propaganda to boost public morale.",
+      "Social media has become a powerful tool for spreading political propaganda."
+    ],
+    "synonyms": [
+      "misinformation"
+    ],
+    "antonyms": [
+      "objective information"
+    ],
+    "common_collocations": [
+      "spread propaganda",
+      "political propaganda",
+      "propaganda campaign"
+    ],
+    "ielts_relevance": "Common in essays about media influence and politics.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "misinformation",
+    "pronunciation": "/ˌmɪsɪnfəˈmeɪʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "False or inaccurate information that is spread, often unintentionally.",
+    "urdu_meaning": "غلط معلومات",
+    "detailed_definition": "False or inaccurate information, especially that which is deliberately intended to deceive.",
+    "examples": [
+      "Social media platforms are under pressure to remove misinformation.",
+      "Misinformation about the vaccine spread rapidly online."
+    ],
+    "synonyms": [
+      "disinformation",
+      "false news"
+    ],
+    "antonyms": [
+      "fact",
+      "accuracy"
+    ],
+    "common_collocations": [
+      "spread misinformation",
+      "combat misinformation",
+      "online misinformation"
+    ],
+    "ielts_relevance": "Highly relevant modern topic for media and technology essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "bias",
+    "pronunciation": "/ˈbaɪəs/",
+    "part_of_speech": "noun",
+    "simple_definition": "An unfair preference for or against a particular person, group, or idea.",
+    "urdu_meaning": "تعصب، جانبداری",
+    "detailed_definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in an unfair way.",
+    "examples": [
+      "The newspaper was criticized for its political bias.",
+      "Journalists are expected to report the news without bias."
+    ],
+    "synonyms": [
+      "prejudice",
+      "partiality"
+    ],
+    "antonyms": [
+      "neutrality",
+      "objectivity"
+    ],
+    "common_collocations": [
+      "media bias",
+      "political bias",
+      "without bias"
+    ],
+    "ielts_relevance": "Common in media essays and discussions about fairness.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "objective",
+    "pronunciation": "/əbˈdʒektɪv/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Based on facts rather than personal feelings or opinions.",
+    "urdu_meaning": "غیر جانبدار، معروضی",
+    "detailed_definition": "Not influenced by personal feelings or opinions in considering and representing facts.",
+    "examples": [
+      "Good journalism should remain objective and avoid personal bias.",
+      "It's difficult to give an objective assessment of your own work."
+    ],
+    "synonyms": [
+      "impartial",
+      "unbiased"
+    ],
+    "antonyms": [
+      "subjective",
+      "biased"
+    ],
+    "common_collocations": [
+      "objective view",
+      "remain objective",
+      "objective analysis"
+    ],
+    "ielts_relevance": "Useful opposite pair with 'subjective' for essays and discussions.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "tabloid",
+    "pronunciation": "/ˈtæblɔɪd/",
+    "part_of_speech": "noun",
+    "simple_definition": "A newspaper with small pages, often focused on sensational stories.",
+    "urdu_meaning": "مقبول عام اخبار",
+    "detailed_definition": "A newspaper with relatively small pages, typically featuring sensational stories and a smaller amount of serious news.",
+    "examples": [
+      "Tabloids often focus on celebrity gossip rather than serious news.",
+      "The story was widely criticized as typical tabloid sensationalism."
+    ],
+    "synonyms": [
+      "gossip magazine"
+    ],
+    "antonyms": [
+      "broadsheet"
+    ],
+    "common_collocations": [
+      "tabloid newspaper",
+      "tabloid press",
+      "tabloid journalism"
+    ],
+    "ielts_relevance": "Useful for essays comparing types of media and journalism quality.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "sensationalism",
+    "pronunciation": "/senˈseɪʃənəlɪzəm/",
+    "part_of_speech": "noun",
+    "simple_definition": "The use of shocking or exaggerated content to attract attention.",
+    "urdu_meaning": "سنسنی خیزی",
+    "detailed_definition": "The presentation of stories or news in a way that is intended to provoke public interest or excitement, often at the expense of accuracy.",
+    "examples": [
+      "Critics accuse the media of relying on sensationalism to boost ratings.",
+      "The report avoided sensationalism and presented the facts objectively."
+    ],
+    "synonyms": [
+      "exaggeration",
+      "hype"
+    ],
+    "antonyms": [
+      "objectivity"
+    ],
+    "common_collocations": [
+      "media sensationalism",
+      "avoid sensationalism"
+    ],
+    "ielts_relevance": "Advanced term criticizing modern media practices.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "broadcast",
+    "pronunciation": "/ˈbrɔːdkɑːst/",
+    "part_of_speech": "verb",
+    "simple_definition": "To transmit a program on television or radio.",
+    "urdu_meaning": "نشر کرنا",
+    "detailed_definition": "To transmit a program or information by radio, television, or the internet.",
+    "examples": [
+      "The match will be broadcast live to millions of viewers worldwide.",
+      "The government broadcast an emergency announcement across all channels."
+    ],
+    "synonyms": [
+      "air",
+      "transmit"
+    ],
+    "antonyms": [
+      "withhold"
+    ],
+    "common_collocations": [
+      "live broadcast",
+      "broadcast live",
+      "broadcast a program"
+    ],
+    "ielts_relevance": "Common in essays about television and mass media.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "influencer",
+    "pronunciation": "/ˈɪnfluənsə/",
+    "part_of_speech": "noun",
+    "simple_definition": "A person with the ability to influence others, especially on social media.",
+    "urdu_meaning": "سوشل میڈیا پر اثر انداز شخصیت",
+    "detailed_definition": "A person who has built a reputation for their knowledge or expertise on a particular topic, often through social media, and can influence the decisions of others.",
+    "examples": [
+      "Many brands now pay social media influencers to promote their products.",
+      "Young people are increasingly influenced by online influencers rather than traditional celebrities."
+    ],
+    "synonyms": [
+      "opinion leader"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "social media influencer",
+      "influencer marketing",
+      "become an influencer"
+    ],
+    "ielts_relevance": "Highly relevant modern term for social media and advertising essays.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "viral",
+    "pronunciation": "/ˈvaɪrəl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Becoming very popular quickly through sharing on the internet.",
+    "urdu_meaning": "تیزی سے مشہور ہونے والا (انٹرنیٹ پر)",
+    "detailed_definition": "Describes content, especially a video or image, that is circulated rapidly and widely on the internet.",
+    "examples": [
+      "The video went viral within hours of being posted.",
+      "Companies now design advertising campaigns hoping to go viral."
+    ],
+    "synonyms": [
+      "trending"
+    ],
+    "antonyms": [
+      "obscure"
+    ],
+    "common_collocations": [
+      "go viral",
+      "viral video",
+      "viral trend"
+    ],
+    "ielts_relevance": "Common modern adjective for social media discussions.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "advertisement",
+    "pronunciation": "/ədˈvɜːtɪsmənt/",
+    "part_of_speech": "noun",
+    "simple_definition": "A public notice or announcement promoting a product or service.",
+    "urdu_meaning": "اشتہار",
+    "detailed_definition": "A notice or announcement in a public medium promoting a product, service, or event.",
+    "examples": [
+      "Companies spend billions on advertisements aimed at children.",
+      "The advertisement was banned for making misleading health claims."
+    ],
+    "synonyms": [
+      "ad",
+      "commercial"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "television advertisement",
+      "misleading advertisement",
+      "banned advertisement"
+    ],
+    "ielts_relevance": "Fundamental noun for essays about consumerism and marketing.",
+    "difficulty_level": "A2"
+  },
+  {
+    "word": "manipulate",
+    "pronunciation": "/məˈnɪpjʊleɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To control or influence someone or something in a clever or unfair way.",
+    "urdu_meaning": "ہیرا پھیری کرنا",
+    "detailed_definition": "To control or influence a person or situation cleverly, unfairly, or dishonestly.",
+    "examples": [
+      "Advertisers often manipulate emotions to sell products.",
+      "Some worry that algorithms manipulate what news people see online."
+    ],
+    "synonyms": [
+      "influence",
+      "exploit"
+    ],
+    "antonyms": [
+      "respect",
+      "empower"
+    ],
+    "common_collocations": [
+      "manipulate emotions",
+      "manipulate public opinion",
+      "easily manipulated"
+    ],
+    "ielts_relevance": "Strong verb for essays criticizing advertising and media influence.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "subliminal",
+    "pronunciation": "/sʌbˈlɪmɪnl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Perceived by the mind without conscious awareness.",
+    "urdu_meaning": "لاشعوری",
+    "detailed_definition": "Existing or operating below the threshold of conscious perception, especially used to describe hidden advertising messages.",
+    "examples": [
+      "Some advertisers have been accused of using subliminal messaging.",
+      "The effectiveness of subliminal advertising remains scientifically disputed."
+    ],
+    "synonyms": [
+      "unconscious",
+      "hidden"
+    ],
+    "antonyms": [
+      "conscious",
+      "overt"
+    ],
+    "common_collocations": [
+      "subliminal message",
+      "subliminal advertising"
+    ],
+    "ielts_relevance": "Advanced term for critical essays about advertising techniques.",
+    "difficulty_level": "C2"
+  },
+  {
+    "word": "gullible",
+    "pronunciation": "/ˈɡʌləbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Easily deceived or tricked.",
+    "urdu_meaning": "آسانی سے دھوکہ کھانے والا",
+    "detailed_definition": "Easily persuaded to believe something; credulous and easily deceived or tricked.",
+    "examples": [
+      "Children can be particularly gullible when it comes to online scams.",
+      "Advertisers often target gullible consumers with exaggerated claims."
+    ],
+    "synonyms": [
+      "credulous",
+      "naive"
+    ],
+    "antonyms": [
+      "skeptical",
+      "shrewd"
+    ],
+    "common_collocations": [
+      "gullible consumer",
+      "dangerously gullible"
+    ],
+    "ielts_relevance": "Useful adjective for essays about media literacy and consumer behavior.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "authentic",
+    "pronunciation": "/ɔːˈθentɪk/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Genuine and real; not false or copied.",
+    "urdu_meaning": "حقیقی، اصل",
+    "detailed_definition": "Of undisputed origin and not a copy; genuine, real, or true.",
+    "examples": [
+      "Consumers increasingly value authentic, honest advertising.",
+      "It can be difficult to tell whether an online review is authentic."
+    ],
+    "synonyms": [
+      "genuine",
+      "real"
+    ],
+    "antonyms": [
+      "fake",
+      "counterfeit"
+    ],
+    "common_collocations": [
+      "authentic experience",
+      "authentic review",
+      "truly authentic"
+    ],
+    "ielts_relevance": "Useful across culture, media, and consumer topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "counterfeit",
+    "pronunciation": "/ˈkaʊntəfɪt/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Made to look exactly like something else in order to deceive people.",
+    "urdu_meaning": "جعلی",
+    "detailed_definition": "Made in exact imitation of something valuable, with the intention of deceiving or defrauding.",
+    "examples": [
+      "Police seized thousands of counterfeit goods at the border.",
+      "Buying counterfeit products supports illegal manufacturing operations."
+    ],
+    "synonyms": [
+      "fake",
+      "fraudulent"
+    ],
+    "antonyms": [
+      "genuine",
+      "authentic"
+    ],
+    "common_collocations": [
+      "counterfeit goods",
+      "counterfeit money",
+      "sell counterfeit"
+    ],
+    "ielts_relevance": "Relevant for essays about trade, crime, and consumerism.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "intellectual property",
+    "pronunciation": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
+    "part_of_speech": "noun",
+    "simple_definition": "Creations of the mind, such as inventions and designs, protected by law.",
+    "urdu_meaning": "دانشورانہ ملکیت",
+    "detailed_definition": "A category of property that includes intangible creations of the human intellect, protected by patents, copyright, or trademarks.",
+    "examples": [
+      "The company sued a rival for stealing its intellectual property.",
+      "Strong intellectual property laws encourage innovation."
+    ],
+    "synonyms": [
+      "copyright",
+      "patent rights"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "intellectual property rights",
+      "protect intellectual property",
+      "steal intellectual property"
+    ],
+    "ielts_relevance": "Advanced term for technology and business essays.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "piracy",
+    "pronunciation": "/ˈpaɪərəsi/",
+    "part_of_speech": "noun",
+    "simple_definition": "The unauthorized use or reproduction of copyrighted material.",
+    "urdu_meaning": "چوری شدہ مواد کی غیر قانونی نقل",
+    "detailed_definition": "The unauthorized reproduction or use of another's work, especially in the case of software, music, or films.",
+    "examples": [
+      "Online piracy has cost the film industry billions of dollars.",
+      "Streaming services have helped reduce music piracy in recent years."
+    ],
+    "synonyms": [
+      "copyright infringement"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "software piracy",
+      "combat piracy",
+      "online piracy"
+    ],
+    "ielts_relevance": "Common in essays about technology and intellectual property.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "anonymous",
+    "pronunciation": "/əˈnɒnɪməs/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Not identified by name; of unknown identity.",
+    "urdu_meaning": "گمنام",
+    "detailed_definition": "Not identified by name; having an unknown or unacknowledged name or identity.",
+    "examples": [
+      "The website allows users to post anonymous comments.",
+      "An anonymous donor gave a large sum of money to the charity."
+    ],
+    "synonyms": [
+      "unnamed",
+      "unidentified"
+    ],
+    "antonyms": [
+      "identified",
+      "named"
+    ],
+    "common_collocations": [
+      "remain anonymous",
+      "anonymous source",
+      "anonymous donor"
+    ],
+    "ielts_relevance": "Common in essays about online behavior and privacy.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "harassment",
+    "pronunciation": "/ˈhærəsmənt/",
+    "part_of_speech": "noun",
+    "simple_definition": "Aggressive pressure or intimidation.",
+    "urdu_meaning": "ہراسانی",
+    "detailed_definition": "Aggressive pressure, intimidation, or unwanted behavior directed repeatedly at a person.",
+    "examples": [
+      "Online harassment has become a serious problem on social media platforms.",
+      "The company introduced a strict policy against workplace harassment."
+    ],
+    "synonyms": [
+      "intimidation",
+      "bullying"
+    ],
+    "antonyms": [
+      "support",
+      "respect"
+    ],
+    "common_collocations": [
+      "online harassment",
+      "sexual harassment",
+      "workplace harassment"
+    ],
+    "ielts_relevance": "Important topic for social media and workplace essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "cyberbullying",
+    "pronunciation": "/ˈsaɪbəbʊliɪŋ/",
+    "part_of_speech": "noun",
+    "simple_definition": "Bullying that takes place using digital devices, especially online.",
+    "urdu_meaning": "سائبر غنڈہ گردی",
+    "detailed_definition": "The use of electronic communication to bully a person, typically by sending intimidating or threatening messages.",
+    "examples": [
+      "Schools are introducing new programs to tackle cyberbullying.",
+      "Cyberbullying can have serious effects on a young person's mental health."
+    ],
+    "synonyms": [
+      "online bullying"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "victim of cyberbullying",
+      "tackle cyberbullying",
+      "cyberbullying prevention"
+    ],
+    "ielts_relevance": "Highly relevant to essays about technology's impact on young people.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "addiction",
+    "pronunciation": "/əˈdɪkʃn/",
+    "part_of_speech": "noun",
+    "simple_definition": "A strong, harmful need to regularly do or use something.",
+    "urdu_meaning": "لت",
+    "detailed_definition": "A compulsive physiological or psychological need for a habit-forming substance or behavior.",
+    "examples": [
+      "Smartphone addiction is a growing concern among teenagers.",
+      "She sought professional help to overcome her addiction."
+    ],
+    "synonyms": [
+      "dependency",
+      "compulsion"
+    ],
+    "antonyms": [
+      "moderation"
+    ],
+    "common_collocations": [
+      "internet addiction",
+      "smartphone addiction",
+      "overcome addiction"
+    ],
+    "ielts_relevance": "Common in essays about technology, health, and youth behavior.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "detrimental",
+    "pronunciation": "/ˌdetrɪˈmentl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Causing harm or damage.",
+    "urdu_meaning": "نقصان دہ",
+    "detailed_definition": "Tending to cause harm; damaging or harmful, often used in a formal or academic context.",
+    "examples": [
+      "Excessive screen time can be detrimental to children's development.",
+      "The chemical spill had a detrimental effect on local wildlife."
+    ],
+    "synonyms": [
+      "harmful",
+      "damaging"
+    ],
+    "antonyms": [
+      "beneficial",
+      "advantageous"
+    ],
+    "common_collocations": [
+      "detrimental effect",
+      "detrimental to health",
+      "potentially detrimental"
+    ],
+    "ielts_relevance": "One of the highest-value adjectives for Writing Task 2 — precise and formal.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "beneficial",
+    "pronunciation": "/ˌbenɪˈfɪʃl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Producing good results or helpful effects.",
+    "urdu_meaning": "فائدہ مند",
+    "detailed_definition": "Resulting in good; favorable or advantageous, especially with regard to physical or financial well-being.",
+    "examples": [
+      "Regular exercise is beneficial for both physical and mental health.",
+      "The trade agreement is expected to be beneficial for both countries."
+    ],
+    "synonyms": [
+      "advantageous",
+      "favorable"
+    ],
+    "antonyms": [
+      "detrimental",
+      "harmful"
+    ],
+    "common_collocations": [
+      "mutually beneficial",
+      "beneficial effect",
+      "highly beneficial"
+    ],
+    "ielts_relevance": "Direct opposite of 'detrimental' — a Task 2 essay staple.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "advocate",
+    "pronunciation": "/ˈædvəkeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To publicly support or recommend a particular cause or policy.",
+    "urdu_meaning": "حمایت کرنا، وکالت کرنا",
+    "detailed_definition": "To publicly recommend or support a particular cause, policy, or way of doing things.",
+    "examples": [
+      "Health experts advocate for stricter regulations on sugary drinks.",
+      "She has long advocated for greater gender equality in the workplace."
+    ],
+    "synonyms": [
+      "support",
+      "champion"
+    ],
+    "antonyms": [
+      "oppose",
+      "denounce"
+    ],
+    "common_collocations": [
+      "advocate for",
+      "strongly advocate",
+      "advocate change"
+    ],
+    "ielts_relevance": "Useful verb for stating opinions clearly in Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "controversial",
+    "pronunciation": "/ˌkɒntrəˈvɜːʃl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Causing disagreement or discussion because people have strong differing opinions.",
+    "urdu_meaning": "متنازع",
+    "detailed_definition": "Giving rise to public disagreement, often because different people hold strongly opposing views.",
+    "examples": [
+      "The proposal to build a new airport remains highly controversial.",
+      "Social media has made it easier for controversial opinions to spread quickly."
+    ],
+    "synonyms": [
+      "contentious",
+      "disputed"
+    ],
+    "antonyms": [
+      "uncontroversial",
+      "undisputed"
+    ],
+    "common_collocations": [
+      "highly controversial",
+      "controversial issue",
+      "controversial decision"
+    ],
+    "ielts_relevance": "Common introductory adjective for Task 2 essays discussing debated topics.",
+    "difficulty_level": "B1"
+  },
+  {
+    "word": "consensus",
+    "pronunciation": "/kənˈsensəs/",
+    "part_of_speech": "noun",
+    "simple_definition": "General agreement among a group of people.",
+    "urdu_meaning": "اتفاق رائے",
+    "detailed_definition": "A general agreement or shared opinion among a group of people, especially achieved after discussion.",
+    "examples": [
+      "There is a growing scientific consensus on the causes of climate change.",
+      "The committee failed to reach a consensus on the new policy."
+    ],
+    "synonyms": [
+      "agreement",
+      "accord"
+    ],
+    "antonyms": [
+      "disagreement",
+      "dispute"
+    ],
+    "common_collocations": [
+      "reach a consensus",
+      "broad consensus",
+      "scientific consensus"
+    ],
+    "ielts_relevance": "Useful for describing agreement or lack thereof on a debated issue.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "polarize",
+    "pronunciation": "/ˈpəʊləraɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To divide people into two opposing groups with sharply different views.",
+    "urdu_meaning": "دو مخالف گروہوں میں تقسیم کرنا",
+    "detailed_definition": "To cause people to separate into two sharply contrasting groups of opinion or belief.",
+    "examples": [
+      "The election has polarized public opinion across the country.",
+      "Social media algorithms are accused of polarizing political discourse."
+    ],
+    "synonyms": [
+      "divide",
+      "split"
+    ],
+    "antonyms": [
+      "unite",
+      "reconcile"
+    ],
+    "common_collocations": [
+      "polarize public opinion",
+      "increasingly polarized",
+      "polarized debate"
+    ],
+    "ielts_relevance": "High-band verb for describing divided opinions in society.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "legitimate",
+    "pronunciation": "/lɪˈdʒɪtɪmət/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Conforming to the law or accepted standards; genuine.",
+    "urdu_meaning": "جائز، قانونی",
+    "detailed_definition": "Conforming to the law or to rules; able to be defended with logic or justification.",
+    "examples": [
+      "Citizens have a legitimate right to protest peacefully.",
+      "The company operates through entirely legitimate business practices."
+    ],
+    "synonyms": [
+      "lawful",
+      "valid"
+    ],
+    "antonyms": [
+      "illegitimate",
+      "unlawful"
+    ],
+    "common_collocations": [
+      "legitimate concern",
+      "legitimate right",
+      "legitimate business"
+    ],
+    "ielts_relevance": "Common formal adjective for justifying opinions in essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "exploit",
+    "pronunciation": "/ɪkˈsplɔɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To use someone or something unfairly for one's own benefit.",
+    "urdu_meaning": "استحصال کرنا",
+    "detailed_definition": "To make full use of and derive benefit from a resource, or to treat someone unfairly to benefit from their work.",
+    "examples": [
+      "Some companies exploit workers in countries with weak labor laws.",
+      "Advertisers exploit people's insecurities to sell products."
+    ],
+    "synonyms": [
+      "take advantage of",
+      "abuse"
+    ],
+    "antonyms": [
+      "protect",
+      "support"
+    ],
+    "common_collocations": [
+      "exploit workers",
+      "exploit resources",
+      "exploit a loophole"
+    ],
+    "ielts_relevance": "Strong critical verb for essays about labor, business ethics, and the environment.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "loophole",
+    "pronunciation": "/ˈluːphəʊl/",
+    "part_of_speech": "noun",
+    "simple_definition": "A small mistake or gap in a law that allows people to avoid following it.",
+    "urdu_meaning": "قانونی خامی",
+    "detailed_definition": "An ambiguity or inadequacy in a law or set of rules that provides a way to avoid its intended effect.",
+    "examples": [
+      "The company used a tax loophole to avoid paying millions in taxes.",
+      "Lawmakers are working to close loopholes in the new legislation."
+    ],
+    "synonyms": [
+      "gap",
+      "technicality"
+    ],
+    "antonyms": [],
+    "common_collocations": [
+      "tax loophole",
+      "close a loophole",
+      "legal loophole"
+    ],
+    "ielts_relevance": "Useful specific noun for essays about law and taxation.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "exacerbate",
+    "pronunciation": "/ɪɡˈzæsəbeɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make a problem or situation worse.",
+    "urdu_meaning": "شدت میں اضافہ کرنا",
+    "detailed_definition": "To make a problem, bad situation, or negative feeling worse.",
+    "examples": [
+      "Poor urban planning has exacerbated the city's traffic problems.",
+      "The drought was exacerbated by years of unsustainable water use."
+    ],
+    "synonyms": [
+      "worsen",
+      "aggravate"
+    ],
+    "antonyms": [
+      "alleviate",
+      "improve"
+    ],
+    "common_collocations": [
+      "exacerbate the problem",
+      "exacerbate tensions",
+      "further exacerbate"
+    ],
+    "ielts_relevance": "One of the highest-scoring formal verbs for describing worsening issues.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "alleviate",
+    "pronunciation": "/əˈliːvieɪt/",
+    "part_of_speech": "verb",
+    "simple_definition": "To make a problem or suffering less severe.",
+    "urdu_meaning": "کم کرنا، تخفیف کرنا",
+    "detailed_definition": "To make suffering, a deficiency, or a problem less severe.",
+    "examples": [
+      "The new policy aims to alleviate poverty in rural areas.",
+      "Painkillers can help alleviate the symptoms but do not treat the cause."
+    ],
+    "synonyms": [
+      "ease",
+      "relieve"
+    ],
+    "antonyms": [
+      "exacerbate",
+      "worsen"
+    ],
+    "common_collocations": [
+      "alleviate poverty",
+      "alleviate suffering",
+      "help alleviate"
+    ],
+    "ielts_relevance": "Opposite of 'exacerbate' — a top-tier solutions-paragraph verb.",
+    "difficulty_level": "C1"
+  },
+  {
+    "word": "prioritize",
+    "pronunciation": "/praɪˈɒrɪtaɪz/",
+    "part_of_speech": "verb",
+    "simple_definition": "To treat something as more important than other things.",
+    "urdu_meaning": "ترجیح دینا",
+    "detailed_definition": "To designate or treat something as more important than other comparable things.",
+    "examples": [
+      "Governments must prioritize public health over short-term economic gains.",
+      "She learned to prioritize her tasks to manage her time better."
+    ],
+    "synonyms": [
+      "emphasize",
+      "favor"
+    ],
+    "antonyms": [
+      "neglect",
+      "disregard"
+    ],
+    "common_collocations": [
+      "prioritize spending",
+      "prioritize health",
+      "should prioritize"
+    ],
+    "ielts_relevance": "Common verb for stating what should be given more attention in Task 2 essays.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "implement",
+    "pronunciation": "/ˈɪmplɪment/",
+    "part_of_speech": "verb",
+    "simple_definition": "To put a plan or system into effect.",
+    "urdu_meaning": "نافذ کرنا، عمل میں لانا",
+    "detailed_definition": "To put a decision, plan, or agreement into effect.",
+    "examples": [
+      "The government plans to implement new environmental regulations next year.",
+      "Schools are struggling to implement the new curriculum effectively."
+    ],
+    "synonyms": [
+      "execute",
+      "enforce"
+    ],
+    "antonyms": [
+      "abandon",
+      "scrap"
+    ],
+    "common_collocations": [
+      "implement a policy",
+      "implement measures",
+      "successfully implement"
+    ],
+    "ielts_relevance": "One of the most useful verbs for Task 2 solutions and recommendations.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "feasible",
+    "pronunciation": "/ˈfiːzəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Possible to do easily or conveniently.",
+    "urdu_meaning": "قابل عمل",
+    "detailed_definition": "Capable of being accomplished or brought about; possible and practical.",
+    "examples": [
+      "It is not economically feasible for every household to install solar panels.",
+      "Experts are debating whether the proposed plan is technically feasible."
+    ],
+    "synonyms": [
+      "practical",
+      "viable"
+    ],
+    "antonyms": [
+      "impractical",
+      "unfeasible"
+    ],
+    "common_collocations": [
+      "economically feasible",
+      "technically feasible",
+      "feasible solution"
+    ],
+    "ielts_relevance": "Useful when evaluating whether a proposed solution is realistic.",
+    "difficulty_level": "B2"
+  },
+  {
+    "word": "viable",
+    "pronunciation": "/ˈvaɪəbl/",
+    "part_of_speech": "adjective",
+    "simple_definition": "Capable of working successfully; practical.",
+    "urdu_meaning": "قابل عمل، قابل بقا",
+    "detailed_definition": "Capable of working successfully; feasible, especially in an economic or practical sense.",
+    "examples": [
+      "Solar power is becoming an increasingly viable alternative to fossil fuels.",
+      "The business plan needs to be financially viable before investors will commit."
+    ],
+    "synonyms": [
+      "workable",
+      "practical"
+    ],
+    "antonyms": [
+      "unworkable",
+      "impractical"
+    ],
+    "common_collocations": [
+      "viable alternative",
+      "economically viable",
+      "viable option"
+    ],
+    "ielts_relevance": "Common when discussing whether solutions or alternatives are realistic.",
+    "difficulty_level": "B2"
+  }
+]
