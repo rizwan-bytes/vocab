@@ -43,7 +43,7 @@ class GeminiVocabularyServiceTest extends TestCase
             '*generateContent*' => Http::response($this->mockCandidateResponse($this->fakeGeminiResponse())),
         ]);
 
-        $result = (new GeminiVocabularyService)->generate('meticulous');
+        $result = app(GeminiVocabularyService::class)->generate('meticulous');
 
         $this->assertSame('meticulous', $result['word']);
         $this->assertSame('C1', $result['difficulty_level']);
@@ -57,7 +57,7 @@ class GeminiVocabularyServiceTest extends TestCase
             '*generateContent*' => Http::response($this->mockCandidateResponse($this->fakeGeminiResponse())),
         ]);
 
-        (new GeminiVocabularyService)->generate('meticulous', 'He was meticulous about the report.');
+        app(GeminiVocabularyService::class)->generate('meticulous', 'He was meticulous about the report.');
 
         Http::assertSent(function ($request) {
             $prompt = $request->data()['contents'][0]['parts'][0]['text'];
@@ -77,7 +77,7 @@ class GeminiVocabularyServiceTest extends TestCase
 
         $this->expectException(GeminiException::class);
 
-        (new GeminiVocabularyService)->generate('meticulous');
+        app(GeminiVocabularyService::class)->generate('meticulous');
     }
 
     public function test_it_throws_when_required_fields_are_missing(): void
@@ -92,7 +92,7 @@ class GeminiVocabularyServiceTest extends TestCase
 
         $this->expectException(GeminiException::class);
 
-        (new GeminiVocabularyService)->generate('meticulous');
+        app(GeminiVocabularyService::class)->generate('meticulous');
     }
 
     public function test_it_throws_on_an_invalid_difficulty_level(): void
@@ -106,7 +106,7 @@ class GeminiVocabularyServiceTest extends TestCase
 
         $this->expectException(GeminiException::class);
 
-        (new GeminiVocabularyService)->generate('meticulous');
+        app(GeminiVocabularyService::class)->generate('meticulous');
     }
 
     public function test_it_throws_on_a_429_rate_limit_response(): void
@@ -117,7 +117,7 @@ class GeminiVocabularyServiceTest extends TestCase
         $this->expectException(GeminiException::class);
         $this->expectExceptionMessage('rate limit');
 
-        (new GeminiVocabularyService)->generate('meticulous');
+        app(GeminiVocabularyService::class)->generate('meticulous');
     }
 
     public function test_it_throws_a_safe_message_on_a_server_error(): void
@@ -126,7 +126,7 @@ class GeminiVocabularyServiceTest extends TestCase
         Http::fake(['*generateContent*' => Http::response('Internal error details', 500)]);
 
         try {
-            (new GeminiVocabularyService)->generate('meticulous');
+            app(GeminiVocabularyService::class)->generate('meticulous');
             $this->fail('Expected a GeminiException to be thrown.');
         } catch (GeminiException $e) {
             $this->assertStringNotContainsString('Internal error details', $e->getMessage());
@@ -139,6 +139,6 @@ class GeminiVocabularyServiceTest extends TestCase
 
         $this->expectException(GeminiException::class);
 
-        (new GeminiVocabularyService)->generate('meticulous');
+        app(GeminiVocabularyService::class)->generate('meticulous');
     }
 }

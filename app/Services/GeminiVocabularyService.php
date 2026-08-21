@@ -4,19 +4,21 @@ namespace App\Services;
 
 use App\Exceptions\GeminiException;
 use App\Prompts\VocabularyPrompt;
-use Illuminate\Http\Client\ConnectionException;
-use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 
 /**
- * All Gemini API interaction lives here — Livewire components must never call
- * Gemini directly. Responsible for sending the prompt, parsing the response,
- * validating its shape, and translating any failure into a GeminiException
- * with a message safe to show the user (no raw API details leak out).
+ * All Gemini vocabulary-card generation lives here — Livewire components
+ * must never call Gemini directly. Uses GeminiClient for the actual API
+ * transport; this class owns the vocabulary-specific prompt, schema, and
+ * validation rules on top of it.
  */
 class GeminiVocabularyService
 {
+    public function __construct(
+        private readonly GeminiClient $client,
+    ) {}
+
     /**
      * @return array<string, mixed> Validated vocabulary data, keyed to match
      *                              the `words` table columns directly.
@@ -25,60 +27,10 @@ class GeminiVocabularyService
      */
     public function generate(string $word, ?string $context = null): array
     {
-        $apiKey = config('gemini.api_key');
-
-        if (blank($apiKey)) {
-            Log::error('Gemini API key is not configured.');
-            throw GeminiException::apiUnavailable();
-        }
-
-        $model = config('gemini.model');
-        $url = config('gemini.base_url')."/models/{$model}:generateContent";
-
-        try {
-            $response = Http::timeout(config('gemini.timeout'))
-                ->withHeaders(['x-goog-api-key' => $apiKey])
-                ->post($url, [
-                    'contents' => [
-                        ['parts' => [['text' => VocabularyPrompt::build($word, $context)]]],
-                    ],
-                    'generationConfig' => [
-                        'responseMimeType' => 'application/json',
-                        'responseSchema' => VocabularyPrompt::responseSchema(),
-                        'temperature' => 0.4,
-                    ],
-                ]);
-        } catch (ConnectionException $e) {
-            Log::error('Gemini API connection failed.', ['error' => $e->getMessage()]);
-            throw GeminiException::timeout();
-        }
-
-        if ($response->status() === 429) {
-            Log::warning('Gemini API rate limit hit.');
-            throw GeminiException::rateLimited();
-        }
-
-        if ($response->failed()) {
-            Log::error('Gemini API returned an error.', [
-                'status' => $response->status(),
-                'body' => $response->body(),
-            ]);
-            throw GeminiException::apiUnavailable();
-        }
-
-        $text = $response->json('candidates.0.content.parts.0.text');
-
-        if (blank($text)) {
-            Log::error('Gemini response had no text content.', ['body' => $response->json()]);
-            throw GeminiException::malformedResponse();
-        }
-
-        $data = json_decode($text, associative: true);
-
-        if (! is_array($data) || json_last_error() !== JSON_ERROR_NONE) {
-            Log::error('Gemini response text was not valid JSON.', ['text' => $text]);
-            throw GeminiException::malformedResponse();
-        }
+        $data = $this->client->generate(
+            VocabularyPrompt::build($word, $context),
+            VocabularyPrompt::responseSchema(),
+        );
 
         return $this->validated($data, $word);
     }
